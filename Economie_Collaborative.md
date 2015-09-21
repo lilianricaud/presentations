@@ -14,4 +14,8 @@ CC-BY-SA Lilian RICAUD - Céline LAPORTE
 
 
 ### Une vidéo simple et efficace
-... 3 minutes d'explications avec beaucoup de pragmatisme et un peu d'auto-dérision. https://www.youtube.com/watch?v=BbJvBFNggiY 
+... 3 minutes d'explications avec beaucoup de pragmatisme et un peu d'auto-dérision. 
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BbJvBFNggiY" frameborder="0" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=BbJvBFNggiY 
