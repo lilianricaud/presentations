@@ -44,44 +44,51 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : production/distribution agricole
 
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/amap.jpg)
+
 > jardins partagés, AMAPs, la ruche qui dit oui, permablitz, de nombreux modèles sont eux aussi remis au gout du jours par de nouveaux outils numériques et de nouvelles pratiques.
 
 > Source Image: ??
 
 ## Des exemples : Commerce
 
-image la louve coop, chiffre la chouette coop toulouse
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/amap.jpg)
 
+> Inspiré d'un modèle venu du Canada, La Louve est un projet de supermarché coopératif sur Paris. En cours de développement, le projet de la chouette coop à Toulouse compte une trentaine de membres dans le noyau dur qui porte le projet, plusieurs centaines de personnes qui suivent le projet, ce n'est pas anecdotique. A plus petites échelle, on trouve une épicerie coopérative (forme associative gérée par des bénévoles à des Engomer (09) qui soutient ce projet pour recréer des services locaux.
+> Source Image: La Louve
 
 ## Des exemples : lieu de travail
 
-image la serre toulouse
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/la-serre-coworking.jpg)
+
+> Lieu de travail partagé, des tiers lieux comme la Serre à Toulouse (communauté profils ESS, design, artisanant, coopération, incubation de projets sociaux, journalisme, La ruche qui dit oui, Ernecoop...)
 
 
 ## Des exemples : Outils comptables et juridiques
 
-SmartFr
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/smartfr.png)
+
+
 
 ## Des exemples : Energie
 
-Enercoop
-
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/enercoop_tracabilite.jpg)
 
 ## Des exemples : Fabrication numérique
 
-fablab
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/fablab.jpg)
 
 ## Des exemples : Action collective
 
-Disco soupe
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/disco-soupe-2.jpg)
 
 ## Des exemples : Savoirs
 
-Wikipedia
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/wikipedia-home.jpg)
 
 ## Des exemples : Financement participatif
 
-projets locaux
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/crowdfunding-local-projets-loco.png)
 
 ## Des exemples : Cartographie de l'économie collaborative à St-Etienne
 
@@ -93,3 +100,5 @@ projets locaux
 
 > La consommation collaborative au service des territoires
 > http://movilab.org/index.php?title=La_consommation_collaborative_au_service_des_territoires
+
+
