@@ -2,8 +2,12 @@
 
 ## De quoi parle-t-on ? Quelles opportunités pour le milieu rural ?
 
+### Licences et auteurs: 
 CC-BY-SA Lilian RICAUD - Céline LAPORTE
 
+### Description
+
+Cette présentation introduits brievemement la notion d'économie collaborative pour vulgariser cette notion auprès d'un public non sensibilisé. Ceci se fait à travers des exemples simples et concrets destinés à lancer une discussion avec les participants.
 
 ## Économie collaborative ?
 
@@ -54,3 +58,38 @@ image la louve coop, chiffre la chouette coop toulouse
 image la serre toulouse
 
 
+## Des exemples : Outils comptables et juridiques
+
+SmartFr
+
+## Des exemples : Energie
+
+Enercoop
+
+
+## Des exemples : Fabrication numérique
+
+fablab
+
+## Des exemples : Action collective
+
+Disco soupe
+
+## Des exemples : Savoirs
+
+Wikipedia
+
+## Des exemples : Financement participatif
+
+projets locaux
+
+## Des exemples : Cartographie de l'économie collaborative à St-Etienne
+
+<iframe src="http://www.zoomacom.org/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?layer=45"></iframe>
+
+> Projet CoCoTe
+> St-Etienne Carto economie collaborative locale:
+> http://www.zoomacom.org/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?layer=45
+
+> La consommation collaborative au service des territoires
+> http://movilab.org/index.php?title=La_consommation_collaborative_au_service_des_territoires
