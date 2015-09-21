@@ -85,7 +85,7 @@ projets locaux
 
 ## Des exemples : Cartographie de l'économie collaborative à St-Etienne
 
-<iframe src="http://www.zoomacom.org/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?layer=45"></iframe>
+<iframe src="http://www.zoomacom.org/wp-content/plugins/leaflet-maps-marker-pro/leaflet-fullscreen.php?layer=45" width="100%" height="400px"></iframe>
 
 > Projet CoCoTe
 > St-Etienne Carto economie collaborative locale:
