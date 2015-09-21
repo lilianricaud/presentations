@@ -20,9 +20,14 @@ CC-BY-SA Lilian RICAUD - Céline LAPORTE
 
 https://www.youtube.com/watch?v=BbJvBFNggiY 
 
+> L'économie collaborative englobe de nombreux aspects et usages
 
-## Des exemples : covoiturage
+## Des exemples : transport
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aire_de_Covoiturage_Arvert-La_Tremblade.jpg/800px-Aire_de_Covoiturage_Arvert-La_Tremblade.jpg)
 
+> remis au gout du jour et amplifié par les outils numériques qui par des systèmes réputation aident à recréer de la confiance, le covoiturage est l'un des usages les plus simples et visibles de l'économie collaborative. Mais il existe aussi des services qui permettent de louer des voitures, fourgons à des particulier ou même le chauffeur lui même qui vous conduit avec son véhicule personnel. Ceci n'est pas sans créer des tension avec les professionnels qui voient la une concurrence deloyale.
 
+## Des exemples : objets
+
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/tipkin-communs.jpg)
