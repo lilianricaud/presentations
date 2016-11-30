@@ -4,6 +4,9 @@
  
 ## Automattic (WordPress)
 
+WordPress est d’ailleurs un bel exemple d’écosystème économique bâti autour d’un commun.
+
+Plus de 23% de l’ensemble des sites web utilisent WordPress (source)  et il existe aujourd’hui toute une offre de services autour de WordPress: webdesigners vendant ou personnalisant des chartes graphiques, développeurs vendant ou personnalisant des modules. Hébergeurs, référenceurs, consultants, formateurs, enseignants, de nombreuses professions bénéficient du commun et s’en servent pour générer une activité économique.
  
 ## IBM (Linux)
 
