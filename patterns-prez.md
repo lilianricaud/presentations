@@ -6,10 +6,10 @@
 
 Une configuration de relations caractéristique d'un système donné.
 
-exemple de patterns naturel (éclairs, branches, rivieres... spirales...)
-exemple de patterns d'architecture (fenêtres, portes, maisons, ...)
-patrons de coutures: robes, jeans
-visages humains: nez au milieu, deux yeux vers le haut, cheveux sur le dessus, bouche en bas, oreilles sur le coté, ...
+- exemple de patterns naturel (éclairs, branches, rivieres... spirales...)
+- exemple de patterns d'architecture (fenêtres, portes, maisons, ...)
+- patrons de coutures: robes, jeans
+- visages humains: nez au milieu, deux yeux vers le haut, cheveux sur le dessus, bouche en bas, oreilles sur le coté, ...
 
 ---
 
@@ -24,32 +24,6 @@ patrons
 Branche (éclair
 
 ---
-
-### Patterns en architecture
-
-Fenetres, eglises, maisons
-
----
-
-### Variations de Patterns 
-
-MUR = contexte: besoin de se protéger des intempéries, bêtes sauvages, autres personnes, protections visuelle. Solution: enceinte protégée séparant intérieur et extérieur. Peux être faites en bois, bambous, paille, terre, pierre, brique...
-
-PORTE: contexte: besoin de se protéger avec des MURS, mais nécessité de rentrer et sortir. Solution: dans l'enceinte ménager une ouverture qui peut être ouverte et fermée de façon dynamique via un panneau. (déclinaisons du pattern utilisant différents sous pattern: porte charnière, porte glissière, tissu, herse... l'usage de l'un ou l'autre de sous pattern est dicté par les besoins du contexte)
-
-EGLISE: lieu inspirant le recueillement, la spiritualité, la connexion quelque chose de plus grand que soit, mais avec une fonction de lieu d'accueil de rituels. Espace amenagé ou on peut rentrer en (grand) groupe, possède tres généralement une élévation pour créer une connexion visuelle avec le ciel (CLOCHER; differents types de clocher: clocher murs toulousains, clochés tordus barran, cloches type minarets (ariège, clocher séparé de st-michel a bordeaux, double tours cathédrale auch).
-
-GUITARE: MANCHE + CHEVALET + CORDES tendues sur manche entre sillon et chevalet.
-vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches) https://en.wikipedia.org/wiki/Acoustic_guitar
-
----
-
-VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
-variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), grand vélos (ROUES ASSYMETRIQUES)
-
----
-
-![](https://raw.githubusercontent.com/lilianricaud/patterns/master/bike-patterns-open-hardware.jpg)
 
 ---
 
@@ -82,6 +56,51 @@ MUSIQUE METAL: RYTHMES LOURDS, SON SATURE, LONG SOLOS, MUSIQUE TECHNIQUE
 - sucré-salé
 - curry
 - herbes-fraiches
+
+---
+
+### Patterns en architecture
+
+Fenetres, eglises, maisons
+
+---
+
+### Variations de Patterns 
+
+MUR = contexte: besoin de se protéger des intempéries, bêtes sauvages, autres personnes, protections visuelle. Solution: enceinte protégée séparant intérieur et extérieur. Peux être faites en bois, bambous, paille, terre, pierre, brique...
+
+PORTE: contexte: besoin de se protéger avec des MURS, mais nécessité de rentrer et sortir. Solution: dans l'enceinte ménager une ouverture qui peut être ouverte et fermée de façon dynamique via un panneau. (déclinaisons du pattern utilisant différents sous pattern: porte charnière, porte glissière, tissu, herse... l'usage de l'un ou l'autre de sous pattern est dicté par les besoins du contexte)
+
+EGLISE: lieu inspirant le recueillement, la spiritualité, la connexion quelque chose de plus grand que soit, mais avec une fonction de lieu d'accueil de rituels. Espace amenagé ou on peut rentrer en (grand) groupe, possède tres généralement une élévation pour créer une connexion visuelle avec le ciel (CLOCHER; differents types de clocher: clocher murs toulousains, clochés tordus barran, cloches type minarets (ariège, clocher séparé de st-michel a bordeaux, double tours cathédrale auch).
+
+GUITARE: MANCHE + CHEVALET + CORDES tendues sur manche entre sillon et chevalet.
+vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches) https://en.wikipedia.org/wiki/Acoustic_guitar
+
+---
+
+# Caractériser un pattern: BICYCLETTE
+
+BICYCLETTE: proto vélo = 2 ROUES reliées par un CADRE. BICYCLETTE contient aussi GUIDON + PEDALIER (FREINS)
+variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), grand vélos (ROUES ASSYMETRIQUES)
+BICYCLETTE = DRAISIENNE + PEDALIER  
+
+---
+
+![[bg original]](Bicycle_evolution-fr.svg.png)
+
+---
+
+![](https://raw.githubusercontent.com/lilianricaud/patterns/master/bike-patterns-open-hardware.jpg)
+
+--- 
+
+# Pattern analysis
+
+Collectivement:
+- lister les caractéristiques (configuration/organisation) récurrantes (-> cartographier les centres / sous systèmes)
+- déduire les propriétés apportées par le patterns (cartographier les propriétés / focus liens / interactions)
+ * que permet / favorise il ? (capacitation)
+ * que freine / defavorise il ? (décapacitation)
 
 ---
 
