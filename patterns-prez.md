@@ -111,7 +111,7 @@ Cofidication des bonnes pratiques pour expliciter et rendre partageables ces bon
 ---
 
 Patterns = 
-- outil de lecture (lentille pour regarder le monde et focaliser sur certains aspects)
+- outil de lecture (lentille pour regarder le monde et focaliser sur certains aspects): favorise la lisibilité (legibility) d'un système complexe.
 - outil d'évaluation qualitative: est ce que le pattern est présent, oui ou non, si oui, dans quelle mesure est il bien exprimé
 - format/protocole de documentation/explicitation/partage de bonnes pratiques
 -> donne une trame de la configuration idéalle à atteindre
