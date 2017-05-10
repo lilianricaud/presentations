@@ -57,12 +57,7 @@ induit une focalisation sur l'organisation et les personnes impliquées, les tit
 # Organisations pyramidales concurentielles 
 
 <!--- 
-(majorité des organisation existantes):
-- créent des redondances
-- ralentit et gache des ressources sur la protection des idées, la publicité, ...
-- compétition nécessite secret, ce qui bloque le progrès, évaluation et fait perdre des idées et des opportunités
-- brevet et droits d'auteurs reduisent encore plus la vitesse et le potentiel de suggestion d'idées.
-- les gens qui ont la plus grande expertise ne collaborent pas a moins d'être recrutés sur le même projet
+
 
 --->
 
@@ -71,13 +66,7 @@ induit une focalisation sur l'organisation et les personnes impliquées, les tit
 # Organisations coopératives ou basées sur la coopération
 
 <!---
-- alternative au pyramidal
-- efficace uniquement dans le groupes de 2-8 personnes, extremement lent au dela de 25 personnes
-- vulnérables aux agents provocateurs, exercice de gestion des caractères qui peut degenerer rapidemment en discussions sans fin.
-- généralement une voix un vote et consensus, ne permet pas aux leaders, usagers avec expertise, énergie ou compréhension accrue d'avoir une influence plus importante que ceux agissant en peripherie.
-- gache beaucoup de temps et de ressource a discuter et à discuter les discussions.
-- généralement dominés par des personnalités extraverties qui prennent des décisions pour contrôler le travail des autres et crée un ressentiment justifié auprès de ceux qui font le travail.
-- les travailleurs perdent de l’autonomie, la maîtrise et le contrôle créatif de leur propre travail; que le système de prise de décision soit hiérarchique ou horizontal, le sentiment final n’est pas différent.
+
 
 --->
 
@@ -115,19 +104,7 @@ Les systèmes coopératifs utilisent fréquemment le consensus ou le vote pour p
 
 <!--- 
 
-L’histoire n’a pas montré d’idées radicalement innovantes qui aient reçu une acceptation générale immédiate et l’histoire a également fait la preuve que les idées radicalement neuves sont le plus souvent le résultat de vision solitaires; laisser le contrôle du travail au consensus de groupe seulement résulte dans une paralysie de l’innovation.
 
-Dans un environnement compétitif, une nouvelle idée est jalousement gardée, légalement protégée et entourée de secret.
-
-De gros efforts sont faits pour trouver des supporters de l’idée, en même temps que l’on s’assure que l’idée reste légalement protégée (couverte par des protections légales) tels que des accords de dissimulation. 
-
-L’idée reste inextricablement liée à son créateur jusqu’à ce qu’elle soit transférée à un autre propriétaire, et tous les contributeurs travaillent pour le propriétaire et non pour l’idée. Les contributeurs doivent ensuite être récompensés par le propriétaire, ce qui limite le potentiel de développement et gâche toujours  plus de ressources en accords légaux, actions en justice etc. 
-
-Les contributeurs n’ont pas d’intérêt particulier à ce que le projet réussisse ou échoue, et n’ont pas la motivation de contribuer plus que ce pour quoi ils sont récompensés.
-
-Par contre, si l’idée est développée de manière coopérative, elle doit d’abord être présentée par son auteur, qui devra essayer de persuader un groupe d’adopter l’idée. Le groupe doit être en accord avec l’idée elle-même, et avec chaque stade de son développement. La majeure partie de l’énergie et des ressources sont dépensées en communication, persuasion et management des susceptibilités , et le climat de travail est tendu par de l’argumentation et des luttes de pouvoir. 
-
-Parce que le projet est conduit par un groupe, et même si c’est un groupe coopératif, le groupe est toujours en compétition avec d’autres projets similaires extérieurs, et gâche toujours des ressources et de l’énergie en secret, évangélisation etc. Les projets, qu’ils soient sur un modèle compétitif ou coopératif, mourront si le groupe qui le fait fonctionner se retire, et dans les deux cas, les personnalités du groupe existant vont attirer ou repousser les contributeurs. Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer. 
 
 --->
 
@@ -136,7 +113,7 @@ Parce que le projet est conduit par un groupe, et même si c’est un groupe coo
 # Hierachie pyramidale et hierarchie de consensus: 
 
 
-## Les deux sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même.
+
 
 ---
 # Y a t-il une alternative ?
