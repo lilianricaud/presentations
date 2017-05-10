@@ -1,7 +1,7 @@
 
-# La stigmergie
+# La stigmergy, self-organization and large scale collaboration
 
-## un nouveau modèle de coopération
+## Ncraft 2017
 
 
 
@@ -9,7 +9,7 @@ CC-BY-SA Lilian RICAUD
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
-<!-- footer:stigmergie - CC-BY-SA Lilian RICAUD -->
+<!-- footer:stigmergy - CC-BY-SA Lilian RICAUD -->
 
 ---
 
