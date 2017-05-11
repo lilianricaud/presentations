@@ -38,44 +38,6 @@ improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéf
 
 ---
 
-# Inconvénients des modes d'organisation actuels:
-
-<!---
-collaboration a grande echelle necessite système de reprsentation.
-
-résolution d'un problème -> création d'une entité nominale (comité, comission, organisation, entreprise, ong, agence gouvernementale)
-
-induit une focalisation sur l'organisation et les personnes impliquées, les titres, l'organigramme au détriment de l'action.
-
---->
-
----
-
-# Organisations pyramidales concurentielles 
-
-<!--- 
-
-
---->
-
----
-
-# Organisations coopératives ou basées sur la coopération
-
-<!---
-
-
---->
-
----
-
-## Le problème du consensus
-
-<!---
-
-Les systèmes coopératifs utilisent fréquemment le consensus ou le vote pour prendre des décisions pour tout le groupe; ces méthodes risquent de ne pas produire les meilleurs résultats car beaucoup de gens ne comprendront pas le travail s’ils ne le pratiquent pas, et ils peuvent demander des choses qu’eux mêmes ne voudraient pas faire. Les systèmes basés sur le consensus sont aussi sensibles à « l’esprit de ruche », l’appropriation par le groupe des idées et du travail d’individus ce qui peut créer encore plus de ressentiment.
-
---->
 
 ---
 
@@ -112,8 +74,7 @@ Les systèmes coopératifs utilisent fréquemment le consensus ou le vote pour p
 
 
 
----
-# Y a t-il une alternative ?
+
 ---
 
 ![bg original](termitiere-exemple-stigmergie.jpg)
@@ -121,14 +82,14 @@ Les systèmes coopératifs utilisent fréquemment le consensus ou le vote pour p
 
 ---
 
-# Un chef des termites ?
+# Termite leaders ?
 
 
 ![bg](termitiere-exemple-stigmergie.jpg)
 
 ---
 
-# Un conseil des termites ?
+# Termite counsel ?
 
 
 ![bg](termitiere-exemple-stigmergie.jpg)
@@ -275,127 +236,133 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
-# Processus
+# Proces
 
 
 --- 
-## une idée est donnée librement
+## an idea is freely given
 
 --- 
-## le projet menée par l(idée, pas par la personnalité de(s) auteur(s)
+## The project is driven by the idea, 
+not by a personality or
+group of personalities. 
 
---- 
-## pas besoin de permission (modèle pyramide) ou consensus (modele coopératif) pour proposer une idée ou initier un projet
-
---- 
-## une idée interessante attire des *efforts contributifs* pas des votes vides
-
---- 
-## pas besoin de permission du groupe sur la facon de mener le projet ou le choix de la contribution
-
-<!---
-
-une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités. Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. Il n’y a pas besoin de discuter ou de voter une idée, si une idée est intéressante ou nécessaire, elle va susciter de l’intérêt. L’intérêt viendra de personnes activement impliquées dans le système et qui auront la volonté de fournir les efforts pour porter le projet plus loin. Cela ne viendra pas de votes vides de personnes qui n’ont qu’un tout petit peu d’intérêt ou d’implication dans le projet . Tant que le projet est soutenu ou rejeté sur la base d’efforts contributifs et non pas sur des votes vides, la contribution de personnes engagées dans l’idée aura plus de poids. La stigmergie met aussi les individus en situation de contrôler leur propre travail, ils n’ont pas besoin de la permission du groupe pour leur dire avec quelle méthode travailler ou à quelle partie contribuer.
-
+---
+## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
+<!--- There is no need to discuss or
+vote on the idea, if an idea is exciting or necessary it will
+attract interest. The interest attracted will be from people
+actively involved in the system and willing to put effort
+into carrying the project further, not empty votes from
+people with little interest or involvement.
 --->
-
 ---
 
-# Avantages
+## Attracts contributive efforts, not empty votes
 
-<!---
-
-La personne qui a eu l’idée initiale peut effectuer ou non des tâches pour avancer le projet. La promotion de l’idée se fait par le volontariat, par un groupe enthousiasmé par l’idée; cela peut être ou peut être pas ceux qui la mettront en oeuvre. Il n’est pas nécessaire de chercher des fonds et des soutiens; si une idée est bonne elle recevra le soutien requis. (en pratique, ce n’est pas encore vrai, car il y a peu de gens qui ont du temps libre à offrir à de projets basés sur le volontariat, la plupart étant enchainés à un travail rendu obligatoire par le système financier existant. De plus nous vivons encore dans un système basé sur les personnes/personnalités où seuls les personnalités les plus fortes sont entendues). Le secret et la compétition ne sont pas nécessaire car une fois qu’une idée est donnée, celle ci et tous les nouveaux développements appartiennent à ceux qui choisissent de travailler dessus. N’importe qui peut proposer un travail, l’idée ne peut pas mourir ou être mis en pause par des personnes; l’acceptation ou le rejet concerne le travail fait, et non pas la personne qui l’a fait. Toutes les idées sont acceptées ou rejetées en fonction des besoins du système.
-
+<!---Since the
+project is supported or rejected based on contributed
+effort, not empty votes, input from people with more
+commitment to the idea will have greater weight.
 --->
-
----
-
-## l'idée peut avancer independamment de son auteur/créateur
+--- 
 
 --- 
-## sa promotion et son soutien se font sur sa qualité, l'entousiasme qu'elle génère
+## No need group permission to tell them what system to work on or what part to contribute
 
 --- 
-## l'acceptation ou le rejet se fait sur la base du travail fait, pas de la personne qui l'a fait 
 
---- 
-## l'idée ne peut pas mourir ou être mise en pause par des personnes
-
---- 
-## pas de secret ou de compétition, l'idée appartient à tous
-
---- 
-## n'importe qui peut contribuer comme il le souhaite
-
---- 
-## responsabilité partagée entre l'ensemble des acteurs (pas seulement créateurs)
-
---- 
-## peu d’espace aux agents provocateurs ou bloquant
-
---- 
-## en cas de conflit, proposer une alternative
-
---- 
-## le système est la propriété de tous, il n’y a pas non plus de leader à viser.
-
---- 
-## pas besoin de communication au delà de l’accomplissement des tâches, beaucoup d’activités relevant d’une autonomie complète.
-
---- 
-## organisation et production centrées sur les besoins du système et des acteurs
-
-<!---
-
-La responsabilité et les droits du système sont entre les mains du groupe des utilisateurs dans son intégralité, pas seulement les créateurs. Il n’y a pas de raison que les personnes quittent le système pour des questions de conflits de personnes comme il n’y a pas besoin de communication au delà de l’accomplissement des tâches et qu’il y a habituellement beaucoup d’activités relevant d’une autonomie complète. Comme personne n’est propriétaire/possède le système, il n’y pas de nécessité de créer un groupe concurrent afin de faire évoluer la propriété du système vers un autre groupe.
-La stigmergie laisse peu d’espace aux agents provocateurs car seuls les besoins du système sont pris en compte. Quiconque agissant contre les fonctionnalités du système est beaucoup plus facile à voir et à empêcher d’agir que quelqu’un qui bloque les avancées avec des discussions sans fin et le développement de conflits de personnes. Parce que le système est la propriété de tous, il n’y a pas non plus de leader à viser.
-
---->
-
----
-
-# Pause ?
-
----
-# Comment mettre en oeuvre la stigmergie dans une entreprise ?
 
 
 ---
 
-# Principes clés
+# STIGMERGY PRINCIPLES
+
+list of principles
+
+---
+
+
+# STIGMERGY PATTERN LANGUAGE
 
 (non exhaustifs)
 
 ---
 
-# Avoir une large ouverture *a priori*, favoriser la transparence et l'accessibilité des données et informations
+# RADICAL OPENNESS
+<!---
+
+Without perceptibles traces no stigmergy can happen.
+
+therefore, 
+
+Favor openess "a priori" (from the earlier), promote transparency, with large access to information and data.
+
+To provide data that can be reused and allow stigmergy, use FREE LICENCES
+
+--->
 
 ---
 
-# Utiliser des licences libres
+# FREE LICENCES
+
+<!---
+When data is locked under standard copyright, it can be reused freely, there's a need of permission. Even when data is freely given, too often it is not explicitly allowing reuse. Moreover when made available, the data can be offered in a format that makes it difficult to reuse. All this creates friction. Agents can't be certain they will be able to perform their action on the long term their effort so this can't allow a sustainable stigmergic process to happen.
+
+Therefore, 
+
+Put all your data under free licences that allow reuse, including commercial. Provide the data in a format that make it easy to reuse (STANDARDS)
+--->
 
 ---
 
-# Avoir un grand nombre et une grande diversité d'agents
+# DIVERSITY OF AGENTS
 
+
+
+
+<!--- Avoir un grand nombre et une grande diversité d'agents
+
+
+--->
 ---
 
-# Avoir une auto-allocation des taches
+# SELF-ALLOCATION
+
+Avoir une auto-allocation des taches
 
 autonomie des agents et équipes émergentes
 
 ---
 
-# Avoir une croissance organique du projet avec division en noeuds
+# ORGANIC GROWTH
+
+<!---
+
+Close to Alexander's structure-preserving transformation, Hundertwasser's vegetative method.
+
+Allow organic growth of the project with PROJECT dividing/differentiating (DIFFERENTIATION) into NODES as it grows.
+
+This is a step-by-step growth (ITERATIONS) where at each step the current structure is preserved and extended. Reverting back to one step before is easy but it's hard/costly to go back to previous iterations, it's important to make the correct choice at each step or quickly revert
+
+
 
 ---
 
-# Accepter et faciliter les branches de projets développés en parallèle
+# FORKS
 
+<!---
+Accept and favor forks and development of parallele branches.
+
+keep in mind INTEROPERABILTY AND STANDARDS
+
+--->
 ---
 
-# Utiliser des mécanismes de contrôle *a posteriori*
+# *a posteriori* control mechanisms
+
+
+Utiliser des mécanismes de contrôle *a posteriori*
 
 ---
 
@@ -403,15 +370,61 @@ autonomie des agents et équipes émergentes
 
 ---
 
-# Fonctionner par étapes / itérations / cycles successifs
+# ITERATIONS
+
+
+<!---
+Fonctionner par étapes / itérations / cycles successifs
+
+--->
 
 ---
 
-# Avoir des règles d’interaction simples
+# SIMPLE RULES
+
+
+<!--- 
+simple rules of interactions
+
+
+
+--->
 
 ---
 
-# Avoir une intention commune autour d’un objectif prépondérant
+# SUPERORDINATE GOAL
+
+<!---
+
+The superordinate goal is the social object around which NODES can form.
+
+A super ordinate goal is a way to align easily around a common intent (you either share the intent or not, therefore you follow it or you don't. 
+
+
+
+--->
+
+---
+
+# ENVIRONMENT
+
+<!--- Je parlerai d’environnement pour décrire l‘espace de travail qui peut être physique et/ou virtuel. Certains auteurs préfèrent parler de milieu (medium en anglais).
+
+Je parlerai d’agents, à savoir les acteurs qui effectuent un travail ou une action dans le système stigmergique. Notez qu’un agent peut être une personne mais aussi une organisation.
+
+Par organisation j’entends n’importe quel groupe humain structuré que ce soit une entreprise, une association, une institution, ces organisations pouvant elles mêmes fonctionner sur un modèle hiérarchique ou de consensus.
+
+--->
+
+---
+
+# NODES
+
+<!---
+Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une tache. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
+
+--->
+
 
 ---
 
