@@ -1,5 +1,5 @@
 
-# La stigmergy, self-organization and large scale collaboration
+# Stigmergy, self-organization and large scale collaboration
 
 ## Ncraft 2017
 
@@ -13,10 +13,7 @@ CC-BY-SA Lilian RICAUD
 
 ---
 
-# Coopération vs Collaboration
 
-votre définition ?
-avantage ? inconvénients ?
 
 ---
 
@@ -24,7 +21,7 @@ avantage ? inconvénients ?
 
 <!--- 
 
-## orchestre: les taches sont réparties préalablement, chacun joue sa partition sous la conduite d'un chef d'orchestre
+## orchestra
 
 source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
 
