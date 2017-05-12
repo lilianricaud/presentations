@@ -177,32 +177,32 @@ On dirait que la structure a été conçue par un architecte génial, mais tout 
 
 
 
-# la stigmergie c'est ...
+# Stigmergy is ...
 
  
 --- 
-##  un mécanisme de coordination indirecte
+##  a mechanism of indirect coordination 
 
 --- 
-## un système auto-organisé
+## a self-organized system
 
 ---
 
-## une boucle: action -> trace -> action ...
+## a loop : action -> trace -> action -> ...
 
 --- 
 
-## orienté sur l'action et le choix individuel 
+## centered on individual choice and action 
 
 ---
 
-## un mécanisme qui produit des structures complexes 
+## a mechanism producing complex structures 
 
-sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
+
 
 ---
 
-# La stigmergie pour les organisations humaines
+# Stigmergy in human systems 
 
 
 ---
@@ -211,7 +211,7 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
-# Modèle stigmergique
+# Stigmergic model
 
 ---
 
@@ -219,24 +219,24 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
-# Modèle stigmergique
-## Ouverture / autorisation *a priori*
+
+##  *a priori* openness
 
 --- 
 
-## liberté de créer sans prendre en compte acceptation ou rejet 
+## freedom to create regardless of acceptance or rejection
 
 --- 
 
-## liberté d'accepter ou de rejeter un travail, une tache
+## freedom to accept or reject a work or a task
 
 --- 
 
-## liberté de créer une alternative
+## freedom to create an alternative
 
 ---
 
-# Proces
+# Process
 
 
 --- 
@@ -350,7 +350,7 @@ Allow organic growth of the project with PROJECT dividing/differentiating (DIFFE
 This is a step-by-step growth (ITERATIONS) where at each step the current structure is preserved and extended. Reverting back to one step before is easy but it's hard/costly to go back to previous iterations, it's important to make the correct choice at each step or quickly revert
 
 
-
+--->
 ---
 
 # FORKS
@@ -370,7 +370,9 @@ Utiliser des mécanismes de contrôle *a posteriori*
 
 ---
 
-# Gérer les taches critiques / essentielles
+# CRITICAL TASKS
+
+Use mechanisms to make sure critical tasks are taken care of.
 
 ---
 
@@ -433,36 +435,39 @@ Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins 
 ---
 
 
-# Wikipédia comme système stigmergique
+# Wikipedia as a stigmergic system 
 
 ![bg](wikipedia-home.jpg)
 
 ---
 
-# Objectif prépondérant
+# Superdordinate goal
 
-> « Imaginez un monde dans lequel chaque être humain peut librement obtenir et partager des connaissances. Ceci est notre engagement. » – Vision de la Wikimedia foundation
+> « Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. » – Vision of the Wikimedia Foundation
 
-<!--- La vision de la Wikimédia foundation est un bel exemple d’objectif prépondérant --->
+<!--- The vision of the Wikimédia foundation is a good example of superordinate goal --->
 
 ---
 
-# Règles simples
+# Simple rules
 
 Principes fondateurs de Wikipedia
 
-    Pertinence encyclopédique
-    Neutralité de point de vue,
-    Contenu libre
-    Savoir-vivre
-    Souplesse des règles
+    Wikipedia is an encyclopedia
+    Wikipedia is written from a neutral point of view
+    Wikipedia is free content that anyone can use, edit, 
+    and distribute
+    Editors should treat each other with respect and civility
+    Wikipedia has no firm rules
 
 
-<!--- Wikipédia possède quelques règles simples, mais essentielles qui régissent le projet et sa gouvernance --->
+<!--- Wikippedia has few simple rules but these are essential to the governance of the project --->
 
 ---
 
-# Laisser des traces/modifier l’environnement pour rendre visible l’action en cours
+# Leave some traces/change the environment to make actions visible
+
+
 
 ---
 
@@ -470,11 +475,9 @@ Principes fondateurs de Wikipedia
 
 <!--- 
 
-une ébauche d’article sur wikipédia. 
+a stub on wikipedia.
 
-La taille d’un article est un premier signal pour encourager d’autres participants à compléter l’article. 
-
-Le bandeau signalant la qualité d’ébauche et encourageant la participation renforce ce signal.
+The size of an article is a first signal to encourage others to improve the article.
 
 --->
 
@@ -484,13 +487,14 @@ Le bandeau signalant la qualité d’ébauche et encourageant la participation r
 
 <!---
 
-un lien en rouge signale que la page lié n’existe pas encore. Le fait que le lien ait été placé indique un appel à créer cette nouvelle page et facilite la création de cette nouvelle page
+a red link signals that the linked page  doesn't exist yet. The link was placed as a call to action to make it easy for others to create the missing page.
+
 
 --->
 
 ---
 
-# Autorisation a priori / Ouverture a priori / Transparence:
+# *a priori* openness / authorization / trasnparency 
 
 ---
 
@@ -507,7 +511,7 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ---
 
-# Utilisation d'une licence libre
+# Free licence usage
 
 ---
 
