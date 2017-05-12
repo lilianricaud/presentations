@@ -13,7 +13,183 @@ CC-BY-SA Lilian RICAUD
 
 ---
 
+*“Stigmergy is a mechanism of indirect coordination between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. In that way, subsequent actions tend to reinforce and build on each other, leading to the spontaneous emergence of coherent, apparently systematic activity.”*
+Wikipedia
 
+---
+
+# Wikipedia as a stigmergic system 
+
+![bg](wikipedia-home.jpg)
+
+---
+
+# Superdordinate goal
+
+> « Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. » – Vision of the Wikimedia Foundation
+
+<!--- The vision of the Wikimédia foundation is a good example of superordinate goal 
+
+https://en.wikipedia.org/wiki/Wikipedia:Purpose
+
+--->
+
+---
+
+# Simple rules
+
+Wikipedia five pillars
+
+    Wikipedia is an encyclopedia
+    Wikipedia is written from a neutral point of view
+    Wikipedia is free content that anyone can use, edit, 
+    and distribute
+    Editors should treat each other with respect and civility
+    Wikipedia has no firm rules
+
+
+<!--- Wikipedia has few simple rules but these are essential to the governance of the project 
+
+
+https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
+--->
+
+---
+
+# Leave some traces/change the environment to make actions visible
+
+
+
+---
+
+![bg original 90%](wikipedia-ebauche.jpg)
+
+<!--- 
+
+a stub on wikipedia.
+
+The size of an article is a first signal to encourage others to improve the article.
+
+--->
+
+---
+
+![bg original 90%](wikipedia-lien-article-a-creer.jpg)
+
+<!---
+
+a red link signals that the linked page  doesn't exist yet. The link was placed as a call to action to make it easy for others to create the missing page.
+
+
+--->
+
+---
+
+# *a priori* openness / authorization / transparency 
+
+---
+
+![bg original 90%](wiki-modifier.jpg)
+
+---
+
+![bg original 90%](wikipedia-discussion.jpg)
+
+
+---
+
+![bg original 90%](wikipedia-n-hesitez-pas.png)
+
+---
+
+# Free licence usage
+
+---
+
+![bg original 100%](wikipedia-licence.png)
+
+---
+
+---
+
+# Self-allocation of tasks
+
+<!---
+On Wikipedia anyone can freely work on almost any task: whether editing one of the millions of articles, improve the software, make a donation, welcome newbies or help to solve conflicts within the community, there are numerous possibilities of contibutions.
+
+--->
+
+---
+# Large number and large diversity of agents
+
+<!--- 
+
+Keep in mind that, although there is global diversity (several languages and cultures), Wikipedia suffers from a disproportion of young western males. this explains why the articles on video games are so exhaustive whereas other encyclopedic topics are still incomplete.
+
+This can also be a problem to integrate newcomers, other cultural groups, or experts who might feel excluded. Improving the diversity of contributors remains a challenge for Wikipedia.
+
+
+---> 
+
+---
+
+# Work step by step / iteratively 
+
+---
+
+![bg original 90%](wikipedia-historique.jpg)
+
+---
+
+# *a posteriori* Control
+
+---
+
+![bg original 90%](wikipedia-modification-recentes.jpg)
+
+<!---
+
+Recent changes and History systems records the differents versions and allow page by page or encyclopedia wide controls by the whole community.
+
+
+--->
+
+
+---
+
+# Critical tasks management
+
+---
+
+![bg original 90%](wikipedia-campagne-de-don.png)
+
+<!---
+
+Some tasks are not critical for the community (if an article is incomplete, it won't harm the project) other tasks are. If the servers go down or if the domain name is not renewed, this will have a strong impact on the project.
+
+To ensure critical tasks are taken care of, a non-profit organization the Wikimedia foundation was set up. This structure takes care of critical tasks (collect donations to pay for the hosting, maintenance or other developments of the project, communicate about the project, ...).
+
+
+
+--->
+
+---
+
+# Accept forks and parallel branches
+
+
+<!---
+
+In my set of principles, this one is the least applied. Since Wikipedia is an encyclopedia, there has to be only one version of an article with a neutral point of view and multiple branches can't co-exist. This can be a problem for complex topics where having several subjective point of view could be more appropriate than one neutral point of view.
+
+However there is often a difference in one article written in different languages, so one could see the various local wikipedia as different parallels branches. This seems to be an underuse aspect of Wikipedia and one could imagine mechanisms to take advantage of this diversity.
+
+
+--->
+
+--- 
+
+# Cooperation
 
 ---
 
@@ -23,15 +199,24 @@ CC-BY-SA Lilian RICAUD
 
 ## orchestra
 
-source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
+The musicians plays the same partition. A conductor helps to make cooperation smoother 
+
+image source: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
 
 --->
+
+--- 
+
+# Collaboration
 
 ---
 ![bg original](jazz-band-jam.jpg)
 
 <!--- 
-improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéfinie, mais sont en écoute les un des autres pour collaborer.
+## jazz band improvizing
+
+musicians plays while listening closely to each others and adjusting constantly 
+
 
 --->
 
@@ -41,7 +226,7 @@ improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéf
 
 ---
 
-# Hierarchie pyramidale (modèle compétitif)
+# Pyramidal hierarchy and competitive models
 
 
 ----
@@ -49,7 +234,7 @@ improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéf
 
 ---
 
-# Hierarchie de consensus (modèle coopératif)
+# Consensus-based hierarchy and cooperative models
 
 ----
 
@@ -435,189 +620,30 @@ Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins 
 ---
 
 
-# Wikipedia as a stigmergic system 
-
-![bg](wikipedia-home.jpg)
-
----
-
-# Superdordinate goal
-
-> « Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. » – Vision of the Wikimedia Foundation
-
-<!--- The vision of the Wikimédia foundation is a good example of superordinate goal 
-
-https://en.wikipedia.org/wiki/Wikipedia:Purpose
-
---->
-
----
-
-# Simple rules
-
-Principes fondateurs de Wikipedia
-
-    Wikipedia is an encyclopedia
-    Wikipedia is written from a neutral point of view
-    Wikipedia is free content that anyone can use, edit, 
-    and distribute
-    Editors should treat each other with respect and civility
-    Wikipedia has no firm rules
-
-
-<!--- Wikipedia has few simple rules but these are essential to the governance of the project 
-
-
-https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
---->
-
----
-
-# Leave some traces/change the environment to make actions visible
-
 
 
 ---
 
-![bg original 90%](wikipedia-ebauche.jpg)
 
-<!--- 
-
-a stub on wikipedia.
-
-The size of an article is a first signal to encourage others to improve the article.
-
---->
-
----
-
-![bg original 90%](wikipedia-lien-article-a-creer.jpg)
-
-<!---
-
-a red link signals that the linked page  doesn't exist yet. The link was placed as a call to action to make it easy for others to create the missing page.
-
-
---->
-
----
-
-# *a priori* openness / authorization / transparency 
-
----
-
-![bg original 90%](wiki-modifier.jpg)
-
----
-
-![bg original 90%](wikipedia-discussion.jpg)
-
-
----
-
-![bg original 90%](wikipedia-n-hesitez-pas.png)
-
----
-
-# Free licence usage
-
----
-
-![bg original 100%](wikipedia-licence.png)
-
----
-
----
-
-# Self-allocation of tasks
-
-<!---
-On Wikipedia anyone can freely work on almost any task: whether editing one of the millions of articles, improve the software, make a donation, welcome newbies or help to solve conflicts within the community, there are numerous possibilities of contibutions.
-
---->
-
----
-# Large number and large diversity of agents
-
-<!--- 
-
-Keep in mind that, although there is global diversity (several languages and cultures), Wikipedia suffers from a disproportion of young western males. this explains why the articles on video games are so exhaustive whereas other encyclopedic topics are still incomplete.
-
-This can also be a problem to integrate newcomers, other cultural groups, or experts who might feel excluded. Improving the diversity of contributors remains a challenge for Wikipedia.
-
-
----> 
-
----
-
-# Work step by step / iteratively 
-
----
-
-![bg original 90%](wikipedia-historique.jpg)
-
----
-
-# *a posteriori* Control
-
----
-
-![bg original 90%](wikipedia-modification-recentes.jpg)
-
-<!---
-
-Recent changes and History systems records the differents versions and allow page by page or encyclopedia wide controls by the whole community.
-
-
---->
-
-
----
-
-# Critical tasks management
-
----
-
-![bg original 90%](wikipedia-campagne-de-don.png)
-
-<!---
-
-Some tasks are not critical for the community (if an article is incomplete, it won't harm the project) other tasks are. If the servers go down or if the domain name is not renewed, this will have a strong impact on the project.
-
-To ensure critical tasks are taken care of, a non-profit organization the Wikimedia foundation was set up. This structure takes care of critical tasks (collect donations to pay for the hosting, maintenance or other developments of the project, communicate about the project, ...).
-
-
-
---->
-
----
-
-# Accept forks and parallel branches
-
-
-<!---
-
-In my set of principles, this one is the least applied. Since Wikipedia is an encyclopedia, there has to be only one version of an article with a neutral point of view and multiple branches can't co-exist. This can be a problem for complex topics where having several subjective point of view could be more appropriate than one neutral point of view.
-
-However there is often a difference in one article written in different languages, so one could see the various local wikipedia as different parallels branches. This seems to be an underuse aspect of Wikipedia and one could imagine mechanisms to take advantage of this diversity.
-
-
---->
-
---- 
-
-
----
-
-
-# Autres exemples en vrac
+# Other examples of stigmergy
 
 ---
 
 ![bg original](stigmergie-swarm-brid-flock.jpg)
 
+# Bird Flock
+
 <!---
-essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un super-organisme
+
+Basic models of flocking behavior are controlled by three simple rules:
+Separation - avoid crowding neighbors (short range repulsion)
+Alignment - steer towards average heading of neighbors
+Cohesion - steer towards average position of neighbors (long range attraction)
+With these three simple rules, the flock moves in an extremely realistic way
+Again no central plan or control, communication via the environment
+
+From David Halles: www.davidhales.com
+
 --->
 
 ---
@@ -625,7 +651,7 @@ essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un supe
 ![bg original](stigmergie-traffic-routier.jpg)
 
 <!---
-traffic routier: 
+road traffic: 
 --->
 
 --- 
@@ -648,19 +674,19 @@ Internet
 
 ---
 
-# Traduction stigmergique
+# Stigmergic translation
 
 ![bg](traduction-stigmergique-pad.png)
 
 <!---
-L'article sur la stigmergie de heather Marsh a lui même été traduit de manière stigmergique, sans concertation particulière entre les participants et principalement via les traces laissées sur le pad:
+Heather Marsh's article on stigmergy was itself translated stigmergically, with almost no direct coordination and mostly through traces left on an etherpad: 
 http://pad.imaginationforpeople.org/p/stigmergy
 
 --->
 
 ---
 
-# Les communautés du libre
+# Free software communities
 
 ![bg 80%](logiciels-libres-celebres.jpg)
 
