@@ -28,7 +28,7 @@ intense and practical only for small groups (2-7)
 
 --->
 
-
+---
 
 ![bg original](orchestre-chef.jpg)
 
@@ -44,7 +44,7 @@ Works well but becomes difficult as the group grows, optimum below 25 people, re
 
 --->
 
---- 
+
 
 
 
@@ -87,7 +87,6 @@ by default nothing is allowed or visible, there is a need for an authorization o
 
 --->
 
----
 
 
 
@@ -126,7 +125,7 @@ Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
 
 # Stigmergy
 
-> grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action »
+>  Greek στίγμα stigma "mark, sign" and ἔργον ergon "work, action"
 
 ---
 
@@ -269,7 +268,13 @@ From David Halles: www.davidhales.com
 ![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
 
 ---
-![bg original 100%](cairn-stigmergie.jpg)
+![bg original](cairn-stigmergie.jpg)
+
+<!---
+
+# Cairns
+In modern times, cairns are often erected as landmarks, a use they have had since ancient times.
+https://en.wikipedia.org/wiki/Cairn
 
 
 ---
