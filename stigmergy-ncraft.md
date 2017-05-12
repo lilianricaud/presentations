@@ -280,6 +280,10 @@ commitment to the idea will have greater weight.
 
 list of principles
 
+Wikipedia examples
+
+then pattern language at the end
+
 ---
 
 
@@ -400,7 +404,7 @@ The superordinate goal is the social object around which NODES can form.
 
 A super ordinate goal is a way to align easily around a common intent (you either share the intent or not, therefore you follow it or you don't. 
 
-
+https://en.wikipedia.org/wiki/Superordinate_goals
 
 --->
 
