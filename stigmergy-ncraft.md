@@ -79,7 +79,7 @@ Works well for lare groups, but uniformize individuals
 
 # Pyramidal and consensus based hierarchy are models of *a priori* control
 
-![](forbidden-symbol.png)
+![bg](forbidden-symbol.png)
 
 <!--- 
 
@@ -133,9 +133,13 @@ Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
 # stigmergie
 
 
-
 *“Stigmergy is a mechanism of indirect coordination between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. In that way, subsequent actions tend to reinforce and build on each other, leading to the spontaneous emergence of coherent, apparently systematic activity.”*
 Wikipedia
+
+<!---
+https://en.wikipedia.org/wiki/Stigmergy
+
+--->
 
 ---
 
@@ -154,15 +158,14 @@ Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedi
 
 <!---
 
-Notes : 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
+Notes :1) the first ant find a food source (F), using some path (a), then it comes back to the nest (N), laying a pheromone trail. 2) the ants follow one of the 4 possible paths, but the reinforcement of the trail make the shortest path more appealing. 3) the ants follow the shortest path, the pheromone trail of the longest ones evaporates.
 
-Source: https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr
+Source: Johann Dréo https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr
 
-Plus d'informations:
+Ants use the environment as a support of communication. They exchange information indirectly by laying pheromones, describing the state of their "work". The informaion exchanged has a local reach, only ants located where pheromones are layed can have access to it.
 
-Les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès.
 
-https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis
+https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms
 
 --->
 
@@ -171,9 +174,10 @@ https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis
 ![bg original ](stigmergie-fourmiliere.png)
 
 <!---
-La stigmergie produit des structures complexes
+La stigmergie produce complex structure
 
-La vidéo ci-dessous montre une fourmilière déterrée par des chercheurs après avoir été remplie de béton pour figer sa structure. Le résultat est à couper le souffle.
+The video below shows an anthill dug out by researchers after been filled with concrete to fix its structure. The result is breathtaking.
+
 
 https://www.youtube.com/watch?v=lFg21x2sj-M
 
@@ -187,7 +191,9 @@ https://www.youtube.com/watch?v=lFg21x2sj-M
 La stigmergie produit des structures complexes
 
 
-La structure couvre 50 mètres carrés, descend à 8 mètres de profondeur et lors de sa conception a nécessité le déplacement de 40 tonnes de terre.
+La structure covers 50 square metres, is 8 metres deep and its building process required to move 40 tonnes of dirt.
+
+Tunnels are optimised to ensure a good ventilation, but also the shortest routes, the structure has litterally underground "highways" and smaller routes connecting main chambers, garbage dumps, and mushroom gardens. In these gardens where temperature and humidity are controlled ants feed crushed leaves to a the mycelium they harvest later.
 
 Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi la route la plus courte,  la structure comportant de véritables  « autoroutes » souterraines et des routes plus petites, connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
 
