@@ -461,7 +461,11 @@ Principes fondateurs de Wikipedia
     Wikipedia has no firm rules
 
 
-<!--- Wikippedia has few simple rules but these are essential to the governance of the project --->
+<!--- Wikipedia has few simple rules but these are essential to the governance of the project 
+
+
+https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
+--->
 
 ---
 
@@ -494,7 +498,7 @@ a red link signals that the linked page  doesn't exist yet. The link was placed 
 
 ---
 
-# *a priori* openness / authorization / trasnparency 
+# *a priori* openness / authorization / transparency 
 
 ---
 
@@ -542,7 +546,7 @@ This can also be a problem to integrate newcomers, other cultural groups, or exp
 
 ---
 
-# Work step by step / iterativelly 
+# Work step by step / iteratively 
 
 ---
 
@@ -574,38 +578,30 @@ Recent changes and History systems records the differents versions and allow pag
 
 <!---
 
-Some tasks are not critical for the community (if an article is incomplete, it won't harm the project) other tasks are.
+Some tasks are not critical for the community (if an article is incomplete, it won't harm the project) other tasks are. If the servers go down or if the domain name is not renewed, this will have a strong impact on the project.
 
-Si certaines taches ne sont pas critiques pour l’encyclopédie (si un article est incomplet, cela ne nuit pas à l’avenir du projet), d’autres en revanche sont essentielles. Si les serveurs qui hébergent le projet tombent en panne ou que le nom de domaine n’est pas renouvelé, cela aura un grave impact sur le projet.
+To ensure critical tasks are taken care of, a non-profit organization the Wikimedia foundation was set up. This structure takes care of critical tasks (collect donations to pay for the hosting, maintenance or other developments of the project, communicate about the project, ...).
 
-Pour assurer la gestion des taches critiques (collecte des fonds qui servent à payer l’hébergement et d’autres travaux servant au développement de l’encyclopédie) a été mis en place la Wikimedia Foundation, un organisme à but non lucratif.
 
-L’objectif de la Wikimedia Foundation est de « promouvoir la croissance et le développement de projets de diffusion du savoir libre fondés sur le principe du wiki, et d’en distribuer le contenu publiquement et gratuitement ».
-
-Elle ne possède aucun droit éditorial sur les contenus proposés sur le site de Wikipédia mais organise les campagnes de financement et redistribue les dons des utilisateurs pour faire tourner les taches critiques des projets (hébergement des différents projets Wikimedia multilingues, développements informatiques, actions de communication…).
 
 --->
 
 ---
 
-# Accepter les branches parallèles
+# Accept forks and parallel branches
 
 
 <!---
 
-Par rapport à ma grille de principes, celui ci ne semble pas être respecté, puisque que chaque article a une version unique et qu’il n’est pas possible de créer une version parallèle d’un article.
+In my set of principles, this one is the least applied. Since Wikipedia is an encyclopedia, there has to be only one version of an article with a neutral point of view and multiple branches can't co-exist. This can be a problem for complex topics where having several subjective point of view could be more appropriate than one neutral point of view.
 
-Cela tient au fait que Wikipédia ayant pour mission de fournir une encyclopédie objective/neutre et universelle, une seule version de chaque sujet existe. Ceci peut parfois être un problème ou un sujet complexe ne fait pas consensus et la page doit pourtant offrir une version unique et objective.
+However there is often a difference in one article written in different languages, so one could see the various local wikipedia as different parallels branches. This seems to be an underuse aspect of Wikipedia and one could imagine mechanisms to take advantage of this diversity.
 
-Pourtant, on pourrait imaginer une architecture où chaque sujet pourrait avoir différentes pages subjectives qui permettrait au lecteur d’avoir non pas une version unique et « objective » de la vérité, mais plusieurs versions ouvertement subjectives, qui pourraient peindre un tableau plus réaliste de la vérité.
-
-Notez cependant qu’il est courant qu’un même article rédigé dans différentes langues montre des différences et des spécificités liées à la culture, au niveau de connaissance… On peut donc aussi voir les différentes Wikipédias multilingues comme des branches parallèles qui peuvent se nourrir mutuellement. C’est une richesse sous exploité à l’heure actuelle. On pourrait imaginer la mise en place de mécanismes pour tirer parti de cette diversité.
 
 --->
 
 --- 
 
-# OZON ?
 
 ---
 
