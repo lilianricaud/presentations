@@ -521,29 +521,28 @@ a red link signals that the linked page  doesn't exist yet. The link was placed 
 
 ---
 
-# Auto allocation des tâches
+# Self-allocation of tasks
 
 <!---
-Sur Wikipédia,chacun est libre de se positionner sur à peu près n’importe quelle tache.
-
-Que ce soit éditer les très nombreuses pages, ajouter des photos, améliorer le logiciel, faire un don, accueillir les nouveaux ou aider à résoudre les conflits en interne, il existe de nombreuses façon de contribuer spontanément.
+On Wikipedia anyone can freely work on almost any task: whether editing one of the millions of articles, improve the software, make a donation, welcome newbies or help to solve conflicts within the community, there are numerous possibilities of contibutions.
 
 --->
 
 ---
-# Grand nombre et grande diversité d’agents
+# Large number and large diversity of agents
 
 <!--- 
 
-Notez que s’il y a une certaine diversité globale (nombreuses langues et cultures), Wikipédia souffre encore d’une disproportion en faveur d’une population de jeunes adultes masculins occidentaux, ce qui explique que les pages sur les jeux vidéos soient très complètes alors que d’autres sujets plus encyclopédiques restent mal traités.
+Keep in mind that, although there is global diversity (several languages and cultures), Wikipedia suffers from a disproportion of young western males. this explains why the articles on video games are so exhaustive whereas other encyclopedic topics are still incomplete.
 
-Ceci peut aussi poser parfois problème au niveau de l’intégration des nouveaux ou d’autres groupes culturels qui peuvent se sentir exclus. Accroitre la diversité des contributeurs reste un enjeu pour Wikipédia.
+This can also be a problem to integrate newcomers, other cultural groups, or experts who might feel excluded. Improving the diversity of contributors remains a challenge for Wikipedia.
+
 
 ---> 
 
 ---
 
-# Fonctionner par étapes / itérations / cycles successifs
+# Work step by step / iterativelly 
 
 ---
 
