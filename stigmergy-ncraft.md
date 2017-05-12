@@ -79,6 +79,8 @@ Works well for lare groups, but uniformize individuals
 
 # Pyramidal and consensus based hierarchy are models of *a priori* control
 
+![](forbidden_symbol.png)
+
 <!--- 
 
 by default nothing is allowed or visible, there is a need for an authorization of the boss or the group.
