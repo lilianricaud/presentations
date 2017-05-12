@@ -20,7 +20,7 @@ CC-BY-SA Lilian RICAUD
 ![bg original](jazz-band-jam.jpg)
 
 <!--- 
-## Collaboration: jazz band improvizing
+## Collaboration: jazz band improvising
 
 musicians plays while listening closely to each others and adjusting constantly 
 
@@ -167,6 +167,16 @@ Ants use the environment as a support of communication. They exchange informatio
 
 https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms
 
+Consider each ant follows this simple rule:
+- Leave nest and wander around randomly
+- If you detect a pheromone trail then follow it
+- If you bump into a resource
+ - Pick it up
+ - Deposit a pheromone trail behind you
+ - Go back to nest
+The pheromone trail is a signal left in the environment that other ants can follow
+Over time it dissipates away leaving no trace
+
 --->
 
 ---
@@ -174,7 +184,7 @@ https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms
 ![bg original ](stigmergie-fourmiliere.png)
 
 <!---
-La stigmergie produce complex structure
+Stigmergy produce complex structures
 
 The video below shows an anthill dug out by researchers after been filled with concrete to fix its structure. The result is breathtaking.
 
@@ -188,16 +198,15 @@ https://www.youtube.com/watch?v=lFg21x2sj-M
 ![bg original ](stigmergie-fourmiliere-2.png)
 
 <!---
-La stigmergie produit des structures complexes
+Stigmergy produce complex structures
 
 
-La structure covers 50 square metres, is 8 metres deep and its building process required to move 40 tonnes of dirt.
+The structure covers 50 square metres, is 8 metres deep and its building process required to move 40 tonnes of dirt.
 
 Tunnels are optimised to ensure a good ventilation, but also the shortest routes, the structure has litterally underground "highways" and smaller routes connecting main chambers, garbage dumps, and mushroom gardens. In these gardens where temperature and humidity are controlled ants feed crushed leaves to a the mycelium they harvest later.
 
-Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi la route la plus courte,  la structure comportant de véritables  « autoroutes » souterraines et des routes plus petites, connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
+It looks like the structure has been built by some mad genius, but everything has been built by the collective intelligence of the colony behaving like a super-organism.
 
-On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
 
 --->
 
@@ -230,12 +239,38 @@ On dirait que la structure a été conçue par un architecte génial, mais tout 
 
 ---
 
+
+
+---
+
+![bg original](stigmergie-swarm-brid-flock.jpg)
+
+
+<!---
+
+Basic models of flocking behavior are controlled by three simple rules:
+Separation - avoid crowding neighbors (short range repulsion)
+Alignment - steer towards average heading of neighbors
+Cohesion - steer towards average position of neighbors (long range attraction)
+With these three simple rules, the flock moves in an extremely realistic way
+Again no central plan or control, communication via the environment
+
+From David Halles: www.davidhales.com
+
+--->
+
+---
+
 # Stigmergy in human systems 
 
 
 ---
 
 ![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
+
+---
+![bg original 100%](cairn-stigmergie.jpg)
+
 
 ---
 
@@ -641,26 +676,7 @@ Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins 
 ---
 
 
-# Other examples of stigmergy
-
----
-
-![bg original](stigmergie-swarm-brid-flock.jpg)
-
-# Bird Flock
-
-<!---
-
-Basic models of flocking behavior are controlled by three simple rules:
-Separation - avoid crowding neighbors (short range repulsion)
-Alignment - steer towards average heading of neighbors
-Cohesion - steer towards average position of neighbors (long range attraction)
-With these three simple rules, the flock moves in an extremely realistic way
-Again no central plan or control, communication via the environment
-
-From David Halles: www.davidhales.com
-
---->
+# Other examples of stigmergy in Human systems
 
 ---
 
