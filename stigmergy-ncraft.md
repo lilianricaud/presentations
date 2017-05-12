@@ -79,7 +79,7 @@ Works well for lare groups, but uniformize individuals
 
 # Pyramidal and consensus based hierarchy are models of *a priori* control
 
-![150%](forbidden-symbol.png)
+![](forbidden-symbol.png)
 
 <!--- 
 
