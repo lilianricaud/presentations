@@ -129,7 +129,7 @@ Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
 
 ---
 
-# stigmergie
+# Stigmergy
 
 
 *“Stigmergy is a mechanism of indirect coordination between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. In that way, subsequent actions tend to reinforce and build on each other, leading to the spontaneous emergence of coherent, apparently systematic activity.”*
@@ -140,7 +140,7 @@ https://en.wikipedia.org/wiki/Stigmergy
 
 --->
 
----
+
 
 ---
 
