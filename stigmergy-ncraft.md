@@ -13,8 +13,287 @@ CC-BY-SA Lilian RICAUD
 
 ---
 
+# How do we work together ?
+
+--- 
+
+# Command and control
+
+---
+
+![bg original](command-and-control.jpeg)
+
+---
+
+# Cooperation
+
+---
+
+![bg original](orchestre-chef.jpg)
+
+<!--- 
+
+## orchestra
+
+The musicians plays the same partition. A conductor helps to make cooperation smoother 
+
+image source: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
+
+--->
+
+--- 
+
+# Collaboration
+
+---
+![bg original](jazz-band-jam.jpg)
+
+<!--- 
+## jazz band improvizing
+
+musicians plays while listening closely to each others and adjusting constantly 
+
+
+--->
+
+
+---
+
+
+---
+
+# Pyramidal hierarchy and competitive models
+
+
+----
+![150%](systeme-hierarchique.png)
+
+---
+
+# Consensus-based hierarchy and cooperative models
+
+----
+
+![150%](hierarchie-du-consensus.png)
+
+---
+
+# Pyramidal and consensus based hierarchy are models of *a priori* control
+
+<!--- 
+
+by default nothing is allowed or visible, there is a need for an authorization of the boss or the group.
+
+--->
+
+---
+
+
+
+
+
+
+
+---
+
+![bg original](termitiere-exemple-stigmergie.jpg)
+
+
+---
+
+# Termite leaders ?
+
+
+![bg](termitiere-exemple-stigmergie.jpg)
+
+---
+
+# Termite counsel ?
+
+
+![bg](termitiere-exemple-stigmergie.jpg)
+
+<!---
+When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
+https://en.wikipedia.org/wiki/Termite#Communication
+
+Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
+
+--->
+
+---
+
+# Stigmergy
+
+> grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action »
+
+---
+
+# stigmergie
+
+
+
 *“Stigmergy is a mechanism of indirect coordination between agents or actions. The principle is that the trace left in the environment by an action stimulates the performance of a next action, by the same or a different agent. In that way, subsequent actions tend to reinforce and build on each other, leading to the spontaneous emergence of coherent, apparently systematic activity.”*
 Wikipedia
+
+---
+
+---
+
+# Stigmergy in ants
+
+![bg](safari_ants.jpg)
+<!---Image:
+Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2179109
+--->
+
+---
+
+![bg original](stigmergie-fourmis-choix-chemin.png)
+
+<!---
+
+Notes : 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
+
+Source: https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr
+
+Plus d'informations:
+
+Les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès.
+
+https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis
+
+--->
+
+---
+
+![bg original ](stigmergie-fourmiliere.png)
+
+<!---
+La stigmergie produit des structures complexes
+
+La vidéo ci-dessous montre une fourmilière déterrée par des chercheurs après avoir été remplie de béton pour figer sa structure. Le résultat est à couper le souffle.
+
+https://www.youtube.com/watch?v=lFg21x2sj-M
+
+
+
+--->
+---
+![bg original ](stigmergie-fourmiliere-2.png)
+
+<!---
+La stigmergie produit des structures complexes
+
+
+La structure couvre 50 mètres carrés, descend à 8 mètres de profondeur et lors de sa conception a nécessité le déplacement de 40 tonnes de terre.
+
+Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi la route la plus courte,  la structure comportant de véritables  « autoroutes » souterraines et des routes plus petites, connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
+
+On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
+
+--->
+
+---
+
+
+
+# Stigmergy is ...
+
+ 
+--- 
+##  a mechanism of indirect coordination 
+
+--- 
+## a self-organized system
+
+---
+
+## a loop : action -> trace -> action -> ...
+
+--- 
+
+## centered on individual choice and action 
+
+---
+
+## a mechanism producing complex structures 
+
+
+
+---
+
+# Stigmergy in human systems 
+
+
+---
+
+![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
+
+---
+
+# Stigmergic model
+
+---
+
+![bg original 100%](modele-gouvernance-stigmergie.png)
+
+---
+
+
+##  *a priori* openness
+
+--- 
+
+## freedom to create regardless of acceptance or rejection
+
+--- 
+
+## freedom to accept or reject a work or a task
+
+--- 
+
+## freedom to create an alternative
+
+---
+
+# Process
+
+
+--- 
+## an idea is freely given
+
+--- 
+## The project is driven by the idea, 
+not by a personality or
+group of personalities. 
+
+---
+## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
+<!--- There is no need to discuss or
+vote on the idea, if an idea is exciting or necessary it will
+attract interest. The interest attracted will be from people
+actively involved in the system and willing to put effort
+into carrying the project further, not empty votes from
+people with little interest or involvement.
+--->
+---
+
+## Attracts contributive efforts, not empty votes
+
+<!---Since the
+project is supported or rejected based on contributed
+effort, not empty votes, input from people with more
+commitment to the idea will have greater weight.
+--->
+--- 
+
+--- 
+## No need group permission to tell them what system to work on or what part to contribute
+
+--- 
+
+
 
 ---
 
@@ -186,276 +465,6 @@ However there is often a difference in one article written in different language
 
 
 --->
-
---- 
-
-# Cooperation
-
----
-
-![bg original](orchestre-chef.jpg)
-
-<!--- 
-
-## orchestra
-
-The musicians plays the same partition. A conductor helps to make cooperation smoother 
-
-image source: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
-
---->
-
---- 
-
-# Collaboration
-
----
-![bg original](jazz-band-jam.jpg)
-
-<!--- 
-## jazz band improvizing
-
-musicians plays while listening closely to each others and adjusting constantly 
-
-
---->
-
-
----
-
-
----
-
-# Pyramidal hierarchy and competitive models
-
-
-----
-![150%](systeme-hierarchique.png)
-
----
-
-# Consensus-based hierarchy and cooperative models
-
-----
-
-![150%](hierarchie-du-consensus.png)
-
----
-
-# Hierachie pyramidale et hierarchie de consensus: 
-
-## 2 modèles de controle *a priori*
-
-<!--- 
-
-
-
---->
-
----
-
-# Hierachie pyramidale et hierarchie de consensus: 
-
-
-
-
-
----
-
-![bg original](termitiere-exemple-stigmergie.jpg)
-
-
----
-
-# Termite leaders ?
-
-
-![bg](termitiere-exemple-stigmergie.jpg)
-
----
-
-# Termite counsel ?
-
-
-![bg](termitiere-exemple-stigmergie.jpg)
-
-<!---
-When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
-https://en.wikipedia.org/wiki/Termite#Communication
-
-Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
-
---->
-
----
-
-# Stigmergie
-
-> grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action »
-
----
-
-# stigmergie
-
-
-> La stigmergie est une méthode de communication indirecte dans un environnement émergent auto-organisé, où les individus communiquent entre eux en modifiant leur environnement.
-
-Wikipedia
-
----
-
-# Stigmergie chez les fourmis
-
-![bg](safari_ants.jpg)
-<!---Image:
-Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2179109
---->
-
----
-
-![bg original](stigmergie-fourmis-choix-chemin.png)
-
-<!---
-
-Notes : 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
-
-Source: https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr
-
-Plus d'informations:
-
-Les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès.
-
-https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis
-
---->
-
----
-
-![bg original ](stigmergie-fourmiliere.png)
-
-<!---
-La stigmergie produit des structures complexes
-
-La vidéo ci-dessous montre une fourmilière déterrée par des chercheurs après avoir été remplie de béton pour figer sa structure. Le résultat est à couper le souffle.
-
-https://www.youtube.com/watch?v=lFg21x2sj-M
-
-
-
---->
----
-![bg original ](stigmergie-fourmiliere-2.png)
-
-<!---
-La stigmergie produit des structures complexes
-
-
-La structure couvre 50 mètres carrés, descend à 8 mètres de profondeur et lors de sa conception a nécessité le déplacement de 40 tonnes de terre.
-
-Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi la route la plus courte,  la structure comportant de véritables  « autoroutes » souterraines et des routes plus petites, connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
-
-On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
-
---->
-
----
-
-
-
-# Stigmergy is ...
-
- 
---- 
-##  a mechanism of indirect coordination 
-
---- 
-## a self-organized system
-
----
-
-## a loop : action -> trace -> action -> ...
-
---- 
-
-## centered on individual choice and action 
-
----
-
-## a mechanism producing complex structures 
-
-
-
----
-
-# Stigmergy in human systems 
-
-
----
-
-![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
-
----
-
-# Stigmergic model
-
----
-
-![bg original 100%](modele-gouvernance-stigmergie.png)
-
----
-
-
-##  *a priori* openness
-
---- 
-
-## freedom to create regardless of acceptance or rejection
-
---- 
-
-## freedom to accept or reject a work or a task
-
---- 
-
-## freedom to create an alternative
-
----
-
-# Process
-
-
---- 
-## an idea is freely given
-
---- 
-## The project is driven by the idea, 
-not by a personality or
-group of personalities. 
-
----
-## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
-<!--- There is no need to discuss or
-vote on the idea, if an idea is exciting or necessary it will
-attract interest. The interest attracted will be from people
-actively involved in the system and willing to put effort
-into carrying the project further, not empty votes from
-people with little interest or involvement.
---->
----
-
-## Attracts contributive efforts, not empty votes
-
-<!---Since the
-project is supported or rejected based on contributed
-effort, not empty votes, input from people with more
-commitment to the idea will have greater weight.
---->
---- 
-
---- 
-## No need group permission to tell them what system to work on or what part to contribute
-
---- 
 
 
 
