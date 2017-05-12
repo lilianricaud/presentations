@@ -550,7 +550,7 @@ This can also be a problem to integrate newcomers, other cultural groups, or exp
 
 ---
 
-# Contrôle a posteriori
+# *a posteriori* Control
 
 ---
 
@@ -558,20 +558,24 @@ This can also be a problem to integrate newcomers, other cultural groups, or exp
 
 <!---
 
-Le système d’historique qui enregistre et permet de comparer les différentes versions des pages facilite ce contrôle par la communauté page par page ou sur l'ensemble de l'encyclopedie.
+Recent changes and History systems records the differents versions and allow page by page or encyclopedia wide controls by the whole community.
+
 
 --->
 
 
 ---
 
-# Gestion des taches critiques / essentielles
+# Critical tasks management
 
 ---
 
 ![bg original 90%](wikipedia-campagne-de-don.png)
 
 <!---
+
+Some tasks are not critical for the community (if an article is incomplete, it won't harm the project) other tasks are.
+
 Si certaines taches ne sont pas critiques pour l’encyclopédie (si un article est incomplet, cela ne nuit pas à l’avenir du projet), d’autres en revanche sont essentielles. Si les serveurs qui hébergent le projet tombent en panne ou que le nom de domaine n’est pas renouvelé, cela aura un grave impact sur le projet.
 
 Pour assurer la gestion des taches critiques (collecte des fonds qui servent à payer l’hébergement et d’autres travaux servant au développement de l’encyclopédie) a été mis en place la Wikimedia Foundation, un organisme à but non lucratif.
