@@ -17,48 +17,47 @@ CC-BY-SA Lilian RICAUD
 
 --- 
 
-# Command and control
+![bg original](jazz-band-jam.jpg)
 
----
+<!--- 
+## Collaboration: jazz band improvizing
 
-![bg original](command-and-control.jpeg)
+musicians plays while listening closely to each others and adjusting constantly 
 
----
+intense and practical only for small groups (2-7)
 
-# Cooperation
+--->
 
----
+
 
 ![bg original](orchestre-chef.jpg)
 
 <!--- 
 
-## orchestra
+# Cooperation : orchestra
 
 The musicians plays the same partition. A conductor helps to make cooperation smoother 
 
 image source: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
 
+Works well but becomes difficult as the group grows, optimum below 25 people, requires conductors, managers, leader beyond that point.
+
 --->
 
 --- 
 
-# Collaboration
+
 
 ---
-![bg original](jazz-band-jam.jpg)
 
-<!--- 
-## jazz band improvizing
+![bg original](command-and-control.jpeg)
 
-musicians plays while listening closely to each others and adjusting constantly 
+<!---
+# Command and control
 
+Works well for lare groups, but uniformize individuals
 
 --->
-
-
----
-
 
 ---
 
