@@ -62,8 +62,6 @@ This is more like playing a game (with common game rules)
 
 
 
-
-
 ---
 
 ![bg original](command-and-control.jpeg)
@@ -374,18 +372,14 @@ Janet Marsden
 
 ---
 
+# Not just for code...
+open social innovation
 
-![bg original](traduction-stigmergique-pad.png)
+
+---
 
 
-<!---
-
-# Stigmergic translation
-
-Heather Marsh's article on stigmergy was itself translated stigmergically, with almost no direct coordination and mostly through traces left on an etherpad: 
-http://pad.imaginationforpeople.org/p/stigmergy
-
---->
+![bg original](hackathon.jpeg)
 
 ---
 
@@ -398,9 +392,48 @@ No one organised the hackathons globally, yet hundreds have been organized so fa
 
 --->
 
+
 ---
 
-# #NuitDebout
+![bg](alternatiba_caen_2015.jpg)
+
+---
+
+![bg](alternatiba_map.png)
+
+# Alternatiba
+
+<!---
+
+# Alternatiba
+
+Alternatiba is a framework to mobilise society to face the challenges of climate change. Numerous Alternatiba events, which provide hundreds of alternatives in order to raise people's awareness and to stimulate behaviour change, have been or will be organised in over sixty different French and European cities.
+
+https://en.wikipedia.org/wiki/Alternatiba,_Village_of_Alternatives
+
+https://umap.openstreetmap.fr/fr/map/groupes-alternatiba-anv_126274#6/46.536/5.515
+
+
+
+
+--->
+
+---
+
+
+![bg original](Nuit_Debout_-_Paris_-_41_mars_01.jpg)
+
+<!---
+
+#NuitDebout
+
+
+CC-BY-SA Olivier Ortelpa
+
+--->
+
+---
+# #NuitDebout 
 
 ![bg](nuitdebout-map.png)
 
@@ -409,16 +442,11 @@ Inspired by spain's 15M movement and US's Occupy Wall Street, #Nuidebout has spr
 
 https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
 
+
+
+
 --->
 
----
-
-- disco soupe, 
-- les anonymous / les indignés / #NuitDebout 
-- - alternatiba
-
-
----
 
 
 ---
@@ -874,4 +902,16 @@ Open space seems to have several stigmergic principles:
 
 # UT7 ?
 
+![bg original](traduction-stigmergique-pad.png)
 
+
+<!---
+
+# Stigmergic translation
+
+Heather Marsh's article on stigmergy was itself translated stigmergically, with almost no direct coordination and mostly through traces left on an etherpad: 
+http://pad.imaginationforpeople.org/p/stigmergy
+
+--->
+
+---
