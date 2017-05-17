@@ -680,6 +680,7 @@ Example of my work:
 leaving some traces on github, twitter, mastodon
 so that others can follow the trail, modify and fork easily
 
+example of tis talk, pattern language, ...
 
 
 ---
