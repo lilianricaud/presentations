@@ -283,7 +283,66 @@ In modern times, cairns are often erected as landmarks, a use they have had sinc
 https://en.wikipedia.org/wiki/Cairn
 
 
+--->
+
+# Other examples of stigmergy in Human systems
+
 ---
+
+![bg original](stigmergie-traffic-routier.jpg)
+
+<!---
+road traffic: 
+--->
+
+--- 
+
+![bg original](stigmergie-cicatrice-rail-structure-auch.png)
+
+<!---
+agencement d'une ville
+--->
+
+
+---
+
+![bg original](Internet_map.jpg)
+
+<!---
+Internet
+--->
+
+
+---
+
+# Stigmergic translation
+
+![bg](traduction-stigmergique-pad.png)
+
+<!---
+Heather Marsh's article on stigmergy was itself translated stigmergically, with almost no direct coordination and mostly through traces left on an etherpad: 
+http://pad.imaginationforpeople.org/p/stigmergy
+
+--->
+
+---
+
+# Free software communities
+
+![bg 80%](logiciels-libres-celebres.jpg)
+
+<!---
+
+
+
+Linux, Wikipédia, WordPress, Firefox … free sotware projects have now become mainstream. They include experts, 
+longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
+
+C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
+
+http://mark-elliott.net/blog/?page_id=24%20
+
+--->
 
 # Stigmergic model
 
@@ -291,22 +350,12 @@ https://en.wikipedia.org/wiki/Cairn
 
 ![bg original 100%](modele-gouvernance-stigmergie.png)
 
+<!---
+In the Stigmergy chart, all workers have full autonomy to create as they wish; the power of the user group is in the ability to accept or reject the work. Since there is no officially designated person to perform a task the users are free to create alternatives if they do not like what they are offered. Workers are free to create regardless of acceptance or rejection; in the chart below some work may be accepted by the largest group, some alternatives for a different user group, some only by a small group, and sometimes the worker will be alone with their vision. In all cases the worker is still free to create as they wish.
+
+--->
+
 ---
-
-
-##  *a priori* openness
-
---- 
-
-## freedom to create regardless of acceptance or rejection
-
---- 
-
-## freedom to accept or reject a work or a task
-
---- 
-
-## freedom to create an alternative
 
 ---
 
@@ -342,17 +391,29 @@ commitment to the idea will have greater weight.
 --- 
 
 --- 
-## No need group permission to tell them what system to work on or what part to contribute
+## Doesn't need group permission to tell them what system to work on or what part to contribute
 
 --- 
 
 
+---
+
+# Can we promote the emergence of stigmergic behaviours ?
 
 ---
+
+
+
+
 
 # Wikipedia as a stigmergic system 
 
 ![bg](wikipedia-home.jpg)
+
+<!---
+I have look into Wikipedia as a stigmergic system (indirect coordination via traces left in the environment) and identified several key principles 
+
+--->
 
 ---
 
@@ -523,20 +584,165 @@ However there is often a difference in one article written in different language
 
 ---
 
-# STIGMERGY PRINCIPLES
 
-list of principles
 
-Wikipedia examples
 
-then pattern language at the end
+---
+
+# Valve, entreprise sans manager
+
+<!---
+
+Valve est une entreprise  qui produits des jeux vidéos à succès. Entreprise sans chefs,  elle clame avoir une meilleure rentabilité par employé que Google, Amazon ou Facebook.
+
+Chez Valve, les équipes s’auto-organisent, n’importe qui peut suggérer une idée, et choisir librement sur quelle tache travailler (open allocation), les meneurs sont choisis par leur pairs, les salaires décidés par les confrères.
+
+Notez que Wikipedia a une section sur le « Valve time », le fait que les produits de Valve soient toujours en retard par rapport à la date annoncée. Cependant malgré ces délais fréquents, l’entreprise est reconnue pour la très grande qualité de ses produits et est l’origine de certains des plus grands succès du jeu vidéo. Voir:
+
+    http://www.lilianricaud.com/web-strategy/meet-valve-the-company-managing-without-managers/
+    http://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php?print=1
+--->
+
+---
+
+# Le management autogéré de Github
+
+<!---
+
+Github est une plateforme de collaboration pour développeurs, bâtie sur un projet open source (Git dont je reparlerai dans un prochain article). Github est une compagnie privée à but lucratif, mais elle a pris les pratiques du monde de l’open source et les appliquée à l’organisation de l’ensemble de l’entreprise.
+
+Github utilise aussi l’ « open allocation » (choix des taches de façon autonome) et ses employés sont libres de s’attaquer à n’importe quel projet qui les intéresse sans demande formelle ou sans interférence managériale. Pour plus d’information sur le fonctionnement de Github lire cet excellent article:
+
+    http://www.fastcolabs.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
+--->
 
 ---
 
 
-# STIGMERGY PATTERN LANGUAGE
 
-(non exhaustifs)
+--->
+
+---
+
+# L’écosystème des shan zhai
+
+<!---
+
+Originellement le terme Shan Zhai était utilisé pour définir un bastion de bandits chinois hors du contrôle des gouvernements locaux. Ce terme désigne maintenant les faux, les contrefaçons ou copies de produits occidentaux fabriqués localement qui inondent le marché chinois.
+
+Aujourd’hui les Shan Zhai, c’est un écosystème d’innovation unique et extrêmement performant avec 30 000 entreprises et des communautés locales collaborant à la chaine de valeur dans la région industrielle de Shen Zhen.
+
+Les Shan Zhai ont plusieurs principes dont deux importants pour la stigmergie:
+
+    Partager le plus d’informations pour que l’écosystème puisse ajouter de la valeur à votre processus.
+    Ne rien concevoir ex nihilo : s’appuyer sur ce que les autres ont déjà fait.
+
+Voir à ce sujet:
+
+    http://www.internetactu.net/2012/07/04/un-ecosyteme-d%E2%80%99innovation-singulier-les-shan-zhai/
+--->
+
+---
+
+
+# Les MOOCs, cours massif ouverts en ligne
+
+<!---
+
+Les MOOCs, sont un nouveau modèles de ces cours ouverts en ligne où l’apprentissage se fait de manière auto-organisé, favorisant l’auto-apprentissage et la sérendipité.
+
+S’il y a communication directe entre certains petits groupes de participants, une grosse partie de l’organisation se fait aussi via des traces laissés dans l’environnement en ligne. Voir:
+
+    Travail collaboratif en ligne au sein d’un cours massif ouvert (Mooc)
+    https://fr.wikipedia.org/wiki/Cours_en_ligne_ouvert_et_massif
+   
+--->
+
+---
+ 
+# Open Space Technology
+<!---
+
+Open space seems to have several stigmergic principles:
+- superordinate goals
+- simple rules
+- openness
+- self-allocation
+- forks
+
+
+
+
+ 
+--->
+---
+
+# Twitter and user-generated content
+
+<!---
+
+Several innovations of Twitter initially came from users and outside developpers and were integrated later by the company:
+- real-time serach engine
+- tweetdeck
+- social innovation such as retweets, #hashtags
+
+Short public messages with asymetric conversations Twitter is a good platform to leave traces for stigmergic cooperation (but don't forget to #JoinMastodon)
+
+--->
+
+---
+
+
+# Ushahidi crowdmapping platform
+
+<!---
+
+Plus récemment dans un article scientifique publié en 2013, la chercheuse Janet Marsden a étudié le développement de la plateforme logicielle de crowdmapping Ushahidi en la regardant sous un angle stigmergique.
+
+Ushahidi est une plateforme open source qui permet de collecter, d’agréger et de cartographier de l’information en situation d’urgence ou de crise.
+
+Le développement d’Ushahidi est remarquable pour plusieurs raisons:
+
+    La version originale d’Ushahidi a été développée et mise en place en une semaine.
+    Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
+    Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
+
+L’auteur explique que l’avancée des réseaux de communication distribués comme l’internet et les réseaux ubiquitaires ont rendus obsolète l’approche top-down de développement de logiciels.
+
+A la place, les outils utilisés sont des composants modulaires adaptables, autogérés et combinés en mash-ups. De même les équipes de développement logiciels et les participants sont spontanées et ad-hoc, fonctionnant comme des organisations virtuelles.
+
+L’environnement de travail qui facilite la coordination des agents est fourni par la plateforme logicielle Ushahidi, incluant ses composants, interfaces et leur affordance pour les participants (l’affordance est la capacité d’un système ou d’un produit à suggérer sa propre utilisation) .
+
+Notez que Ushahidi s’est propagé de façon spontanée et a été depuis été utilisé dans de nombreux endroits dans le monde pour cartographier des situations de crises de façon participative.
+
+Plus sur Ushahidi comme système stigmergique dans cet article très intéressant: Stigmergic self-organization and the improvisation of Ushahidi
+http://www.inf.ucv.cl/~bcrawford/Cuesta_Olivares/Stigmergy/1-s2.0-S138904171200040X-main.pdf
+
+--->
+---
+# Hackathons
+
+---
+
+![](hackathon-2012-US-cities.jpg)
+
+---
+
+
+# autre exemples
+
+- disco soupe, 
+- les anonymous / les indignés / #NuitDebout 
+
+
+---
+
+---
+
+
+# Towards a STIGMERGY PATTERN LANGUAGE
+
+
 
 ---
 
@@ -681,226 +887,3 @@ Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins 
 
 ---
 
-
-
-
----
-
-
-# Other examples of stigmergy in Human systems
-
----
-
-![bg original](stigmergie-traffic-routier.jpg)
-
-<!---
-road traffic: 
---->
-
---- 
-
-![bg original](stigmergie-cicatrice-rail-structure-auch.png)
-
-<!---
-agencement d'une ville
---->
-
-
----
-
-![bg original](Internet_map.jpg)
-
-<!---
-Internet
---->
-
-
----
-
-# Stigmergic translation
-
-![bg](traduction-stigmergique-pad.png)
-
-<!---
-Heather Marsh's article on stigmergy was itself translated stigmergically, with almost no direct coordination and mostly through traces left on an etherpad: 
-http://pad.imaginationforpeople.org/p/stigmergy
-
---->
-
----
-
-# Free software communities
-
-![bg 80%](logiciels-libres-celebres.jpg)
-
-<!---
-
-Les communautés du libre
-
-Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
-
-C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
-
-http://mark-elliott.net/blog/?page_id=24%20
-
---->
-
----
-
-# Valve, entreprise sans manager
-
-<!---
-
-Valve est une entreprise  qui produits des jeux vidéos à succès. Entreprise sans chefs,  elle clame avoir une meilleure rentabilité par employé que Google, Amazon ou Facebook.
-
-Chez Valve, les équipes s’auto-organisent, n’importe qui peut suggérer une idée, et choisir librement sur quelle tache travailler (open allocation), les meneurs sont choisis par leur pairs, les salaires décidés par les confrères.
-
-Notez que Wikipedia a une section sur le « Valve time », le fait que les produits de Valve soient toujours en retard par rapport à la date annoncée. Cependant malgré ces délais fréquents, l’entreprise est reconnue pour la très grande qualité de ses produits et est l’origine de certains des plus grands succès du jeu vidéo. Voir:
-
-    http://www.lilianricaud.com/web-strategy/meet-valve-the-company-managing-without-managers/
-    http://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php?print=1
---->
-
----
-
-# Le management autogéré de Github
-
-<!---
-
-Github est une plateforme de collaboration pour développeurs, bâtie sur un projet open source (Git dont je reparlerai dans un prochain article). Github est une compagnie privée à but lucratif, mais elle a pris les pratiques du monde de l’open source et les appliquée à l’organisation de l’ensemble de l’entreprise.
-
-Github utilise aussi l’ « open allocation » (choix des taches de façon autonome) et ses employés sont libres de s’attaquer à n’importe quel projet qui les intéresse sans demande formelle ou sans interférence managériale. Pour plus d’information sur le fonctionnement de Github lire cet excellent article:
-
-    http://www.fastcolabs.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
---->
-
----
-
-# Poult, entreprise « libérée »
-
-<!---
-
-En France, l’entreprise de biscuiterie Poult utilise un management participatif original. Poult a décidé de sortir du management par objectifs et de supprimer quelques niveaux hiérarchiques, responsabiliser les équipes en les laissant gérer leurs plannings et en leur laissant la liberté et les moyens de prendre des initiatives.
-
-Transparence, ouverture, fonctionnement en réseau, autonomisation des personnes, avec  possibilité pour n’importe qui de lancer un nouveau projet. Peut être pas de la stigmergie, mais peut être une entreprise où le modèle pourrait être développé avec succès.
-
-Regarder cette présentation pour en savoir plus: https://www.youtube.com/watch?v=lcgerZTq640
-
---->
-
----
-
-# L’écosystème des shan zhai
-
-<!---
-
-Originellement le terme Shan Zhai était utilisé pour définir un bastion de bandits chinois hors du contrôle des gouvernements locaux. Ce terme désigne maintenant les faux, les contrefaçons ou copies de produits occidentaux fabriqués localement qui inondent le marché chinois.
-
-Aujourd’hui les Shan Zhai, c’est un écosystème d’innovation unique et extrêmement performant avec 30 000 entreprises et des communautés locales collaborant à la chaine de valeur dans la région industrielle de Shen Zhen.
-
-Les Shan Zhai ont plusieurs principes dont deux importants pour la stigmergie:
-
-    Partager le plus d’informations pour que l’écosystème puisse ajouter de la valeur à votre processus.
-    Ne rien concevoir ex nihilo : s’appuyer sur ce que les autres ont déjà fait.
-
-Voir à ce sujet:
-
-    http://www.internetactu.net/2012/07/04/un-ecosyteme-d%E2%80%99innovation-singulier-les-shan-zhai/
---->
-
----
-
-
-# Les MOOCs, cours massif ouverts en ligne
-
-<!---
-
-Les MOOCs, sont un nouveau modèles de ces cours ouverts en ligne où l’apprentissage se fait de manière auto-organisé, favorisant l’auto-apprentissage et la sérendipité.
-
-S’il y a communication directe entre certains petits groupes de participants, une grosse partie de l’organisation se fait aussi via des traces laissés dans l’environnement en ligne. Voir:
-
-    Travail collaboratif en ligne au sein d’un cours massif ouvert (Mooc)
-    https://fr.wikipedia.org/wiki/Cours_en_ligne_ouvert_et_massif
-   
---->
-
----
- 
-# Open Space Technology
-<!---
-
-Open space seems to have several stigmergic principles:
-- superordinate goals
-- simple rules
-- openness
-- self-allocation
-- forks
-
-
-
-
- 
---->
----
-
-# Twitter and user-generated content
-
-<!---
-
-Several innovations of Twitter initially came from users and outside developpers and were integrated later by the company:
-- real-time serach engine
-- tweetdeck
-- social innovation such as retweets, #hashtags
-
-Short public messages with asymetric conversations Twitter is a good platform to leave traces for stigmergic cooperation (but don't forget to #JoinMastodon)
-
---->
-
----
-
-
-# Ushahidi crowdmapping platform
-
-<!---
-
-Plus récemment dans un article scientifique publié en 2013, la chercheuse Janet Marsden a étudié le développement de la plateforme logicielle de crowdmapping Ushahidi en la regardant sous un angle stigmergique.
-
-Ushahidi est une plateforme open source qui permet de collecter, d’agréger et de cartographier de l’information en situation d’urgence ou de crise.
-
-Le développement d’Ushahidi est remarquable pour plusieurs raisons:
-
-    La version originale d’Ushahidi a été développée et mise en place en une semaine.
-    Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
-    Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
-
-L’auteur explique que l’avancée des réseaux de communication distribués comme l’internet et les réseaux ubiquitaires ont rendus obsolète l’approche top-down de développement de logiciels.
-
-A la place, les outils utilisés sont des composants modulaires adaptables, autogérés et combinés en mash-ups. De même les équipes de développement logiciels et les participants sont spontanées et ad-hoc, fonctionnant comme des organisations virtuelles.
-
-L’environnement de travail qui facilite la coordination des agents est fourni par la plateforme logicielle Ushahidi, incluant ses composants, interfaces et leur affordance pour les participants (l’affordance est la capacité d’un système ou d’un produit à suggérer sa propre utilisation) .
-
-Notez que Ushahidi s’est propagé de façon spontanée et a été depuis été utilisé dans de nombreux endroits dans le monde pour cartographier des situations de crises de façon participative.
-
-Plus sur Ushahidi comme système stigmergique dans cet article très intéressant: Stigmergic self-organization and the improvisation of Ushahidi
-http://www.inf.ucv.cl/~bcrawford/Cuesta_Olivares/Stigmergy/1-s2.0-S138904171200040X-main.pdf
-
---->
----
-# Hackathons
-
----
-
-![](hackathon-2012-US-cities.jpg)
-
----
-
-
-# autre exemples
-
-- disco soupe, 
-- les anonymous / les indignés / #NuitDebout 
-
-
----
-
-# A suivre ...
