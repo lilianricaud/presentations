@@ -93,7 +93,9 @@ by default nothing is allowed or visible, there is a need for an authorization o
 
 --->
 
+---
 
+# Any alternatives ?
 
 
 
@@ -266,6 +268,15 @@ From David Halles: www.davidhales.com
 
 ---
 
+
+![bg original](stigmergie-traffic-routier.jpg)
+
+<!---
+road traffic: 
+--->
+
+---
+
 # Stigmergy in human systems 
 
 
@@ -285,15 +296,9 @@ https://en.wikipedia.org/wiki/Cairn
 
 --->
 
-# Other examples of stigmergy in Human systems
 
----
 
-![bg original](stigmergie-traffic-routier.jpg)
 
-<!---
-road traffic: 
---->
 
 --- 
 
@@ -336,7 +341,58 @@ http://pad.imaginationforpeople.org/p/stigmergy
 
 
 Linux, Wikipédia, WordPress, Firefox … free sotware projects have now become mainstream. They include experts, 
-longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
+longtemps marginaux, les projets rassemblant de# Stigmergic model
+
+---
+
+![bg original 100%](modele-gouvernance-stigmergie.png)
+
+<!---
+In the Stigmergy chart, all workers have full autonomy to create as they wish; the power of the user group is in the ability to accept or reject the work. Since there is no officially designated person to perform a task the users are free to create alternatives if they do not like what they are offered. Workers are free to create regardless of acceptance or rejection; in the chart below some work may be accepted by the largest group, some alternatives for a different user group, some only by a small group, and sometimes the worker will be alone with their vision. In all cases the worker is still free to create as they wish.
+
+--->
+
+---
+
+---
+
+# Process
+
+
+--- 
+## an idea is freely given
+
+--- 
+## The project is driven by the idea, 
+<!---
+not by a personality or
+group of personalities.
+--->
+
+---
+## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
+<!--- There is no need to discuss or
+vote on the idea, if an idea is exciting or necessary it will
+attract interest. The interest attracted will be from people
+actively involved in the system and willing to put effort
+into carrying the project further, not empty votes from
+people with little interest or involvement.
+--->
+---
+
+## Attracts contributive efforts, not empty votes
+
+<!---Since the
+project is supported or rejected based on contributed
+effort, not empty votes, input from people with more
+commitment to the idea will have greater weight.
+--->
+--- 
+
+--- 
+## Doesn't need group permission to tell them what system to work on or what part to contribute
+
+<!--- s volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
 
 C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
 
