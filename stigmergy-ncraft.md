@@ -678,11 +678,27 @@ However there is often a difference in one article written in different language
 
 ---
 
-github pattern language image
+![bg original](github-open-research.png)
+
+<!---
+using github as an open notebook and collaboration tool 
+
+--->
 
 ---
 
-![bg original 90%](open-research-stigmergy-markdown-prez.png)
+![bg original](open-patternpedia-daktary.png)
+
+<!---
+
+using Daktary as a github reader to show content in a user friendly web interface. You can see it as a CMS using github as an open database.
+
+--->
+
+
+---
+
+![bg original](open-research-stigmergy-markdown-prez.png)
 
 <!---
 
