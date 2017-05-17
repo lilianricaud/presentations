@@ -722,6 +722,10 @@ example of this talk, pattern language, ...
 
 --- 
 
+## a method of large-scale collaboration
+
+---
+
 ## centered on individual choice and action 
 
 ---
@@ -734,7 +738,7 @@ example of this talk, pattern language, ...
 
 ---
 
-## Can be use to produce software, events, change the world...
+## a way to produce software, events, change the world...
 
 
 
@@ -743,23 +747,18 @@ example of this talk, pattern language, ...
 
 ## References / sources
 
-Stigmergy, Heather Marsh 2012
+Stigmergy; Binding chaos (Heather Marsh 2012)
 https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
 
 Stigmergic self-organization and the improvisation of Ushahidi (Janet Marsden, 2013)
 
-Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
+Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Mark Elliot,2007)
 
 http://mark-elliott.net/blog/?page_id=24%20
 
 
-Self-organization in Communicating Groups:
-the emergence of coordination, shared references and collective
-intelligence
-Francis Heylighen, 2008.
-
-
-Francis Heyl
+Self-organization in Communicating Groups: the emergence of coordination, shared references and collective
+intelligence (Francis Heylighen, 2008)
 
 ---
 
@@ -768,88 +767,8 @@ Francis Heyl
 - http://github.com/lilianricaud
 - lilious@framapiaf.org (#JoinMastodon !)
 
-
 ---
 
-
-
-
-# Valve, entreprise sans manager
-
-<!---
-
-Valve est une entreprise  qui produits des jeux vidéos à succès. Entreprise sans chefs,  elle clame avoir une meilleure rentabilité par employé que Google, Amazon ou Facebook.
-
-Chez Valve, les équipes s’auto-organisent, n’importe qui peut suggérer une idée, et choisir librement sur quelle tache travailler (open allocation), les meneurs sont choisis par leur pairs, les salaires décidés par les confrères.
-
-Notez que Wikipedia a une section sur le « Valve time », le fait que les produits de Valve soient toujours en retard par rapport à la date annoncée. Cependant malgré ces délais fréquents, l’entreprise est reconnue pour la très grande qualité de ses produits et est l’origine de certains des plus grands succès du jeu vidéo. Voir:
-
-    http://www.lilianricaud.com/web-strategy/meet-valve-the-company-managing-without-managers/
-    http://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php?print=1
---->
-
----
-
-# Le management autogéré de Github
-
-<!---
-
-Open Allocation
-
-At GitHub, people work on an open allocation (http://www.forbes.com/sites/quora/2012/11/26/what-is-open-allocation/) basis. Unlike traditional companies where projects are assigned top-down, GitHubbers tackle whatever projects they want, without any formal requests
-or managerial interference.
-    http://www.fastcolabs.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
---->
-
----
-
-
-
---->
-
----
-
-# shan zhai innovation ecosystem
-
-<!---
-
-Originellement le terme Shan Zhai était utilisé pour définir un bastion de bandits chinois hors du contrôle des gouvernements locaux. Ce terme désigne maintenant les faux, les contrefaçons ou copies de produits occidentaux fabriqués localement qui inondent le marché chinois.
-
-Aujourd’hui les Shan Zhai, c’est un écosystème d’innovation unique et extrêmement performant avec 30 000 entreprises et des communautés locales collaborant à la chaine de valeur dans la région industrielle de Shen Zhen.
-
-Les Shan Zhai ont plusieurs principes dont deux importants pour la stigmergie:
-
-    Partager le plus d’informations pour que l’écosystème puisse ajouter de la valeur à votre processus.
-    Ne rien concevoir ex nihilo : s’appuyer sur ce que les autres ont déjà fait.
-
-Voir à ce sujet:
-
-    http://www.internetactu.net/2012/07/04/un-ecosyteme-d%E2%80%99innovation-singulier-les-shan-zhai/
---->
-
----
-
-
-
---->
-
----
- 
-# Open Space Technology
-<!---
-
-Open space seems to have several stigmergic principles:
-- superordinate goals
-- simple rules
-- openness
-- self-allocation
-- forks
-
-
-
-
- 
---->
 ---
 
 # Twitter and user-generated content
@@ -879,5 +798,64 @@ Short public messages with asymetric conversations Twitter is a good platform to
 
 
 ---
+
+---
+
+# Shan zhai innovation ecosystem
+
+<!---
+
+Originally Shan Zhai was a term used for local place where chinese outlaws were operating out of the local governements control. This term now means fake, counterfeit copies of western brands' products now flooding the chinese market.
+
+Today Shan Zhai is a unique innovation ecosystem, extremely productive with 30 000 companies and local coimmunities collaborating to the chain value in the industrial region of Shen Zhen.
+
+Les Shan Zhai have several pciniples out of which two are extremelly important for stigmergy: 
+- share as much information as possible so that your ecosystem can add value to your process
+- don't build anything from scratch, build upon what other have already done
+
+    http://www.internetactu.net/2012/07/04/un-ecosyteme-d%E2%80%99innovation-singulier-les-shan-zhai/
+--->
+
+
+---
+
+# Github's Self management
+
+<!---
+
+Open Allocation
+
+At GitHub, people work on an open allocation (http://www.forbes.com/sites/quora/2012/11/26/what-is-open-allocation/) basis. Unlike traditional companies where projects are assigned top-down, GitHubbers tackle whatever projects they want, without any formal requests
+or managerial interference.
+    http://www.fastcolabs.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
+--->
+
+---
+
+
+
+--->
+
+
+---
+ 
+# Open Space Technology
+<!---
+
+Open space seems to have several stigmergic principles:
+- superordinate goals
+- simple rules
+- openness
+- self-allocation
+- forks
+ 
+--->
+
+
+---
+
+
+
+# UT7 ?
 
 
