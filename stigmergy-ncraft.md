@@ -246,7 +246,7 @@ It looks like the structure has been built by some mad genius, but everything ha
 
 ---
 
-
+# Examples of stigmergy
 
 ---
 
@@ -277,14 +277,20 @@ road traffic:
 
 ---
 
-# Stigmergy in human systems 
 
-
----
 
 ![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
 
+<!---
+
+A desire path (formally referred to as desire line in transportation planning, also known as a game trail, social trail, herd path, cow path, goat track, pig trail or bootleg trail) can be a path created as a consequence of erosion caused by human or animal foot-fall or traffic. The path usually represents the shortest or most easily navigated route between an origin and destination. Width and erosion severity can be indicators of how much traffic a path receives. Desire paths emerge as shortcuts where constructed ways take a circuitous route, have gaps, or are non-existent.
+
+https://en.wikipedia.org/wiki/Desire_path
+
+--->
+
 ---
+
 ![bg original](cairn-stigmergie.jpg)
 
 <!---
@@ -297,15 +303,12 @@ https://en.wikipedia.org/wiki/Cairn
 --->
 
 
-
-
-
 --- 
 
 ![bg original](stigmergie-cicatrice-rail-structure-auch.png)
 
 <!---
-agencement d'une ville
+position of building and other landscape features acts as a trace for future building acts. Here one can see the remaining space left after the railway track was removed. building and property have adapted and although the track is not there anymore there is a remaining scar through the neighbourhood.
 --->
 
 
@@ -314,34 +317,99 @@ agencement d'une ville
 ![bg original](Internet_map.jpg)
 
 <!---
-Internet
+The structure of the Internet. Although part of its infrastructure were planned, most of it grew organically without any central planning.
 --->
+
 
 
 ---
 
-# Stigmergic translation
+
+
+![bg 80%](logiciels-libres-celebres.jpg)
+
+<!---
+# Free software communities 
+
+Linux, WordPress, Firefox … free sotware projects have now become mainstream. 
+
+
+--->
+
+---
+
+
+
+![bg](ushahidi-deployment-map.png)
+
+<!---
+# Ushahidi crowdmapping platform
+
+Ushahidi was studied as a stigmergic system. Ushahidi is an open source crowdmapping platform that allows users to collect, aggregate and map data during crises and emergency situations.
+
+Ushahidi development is remarkable for several reasons:
+- Ushahidi first release was developped and put up in a week
+- the systeme was largely developped in Kenya, by kenyans, with limited technical ressources and infrastructures.
+- few days after its launch, Ushahidi was used by thousands.
+- Ushahdi was built by an ad-hoc self organized virtual team using modular tools that were mashed-up
+- ushahidi has spread and been used in several crisis, election monitoring, human right advocacy since then (60 000+ deployments)
+
+https://community.crowdmap.com/
+
+
+Stigmergic self-organization and the improvisation of Ushahidi Margery Doyle and Leslie Marsh
+Janet Marsden
+
+
+--->
+
+---
+
+
 
 ![bg](traduction-stigmergique-pad.png)
 
+
 <!---
+
+# Stigmergic translation
+
 Heather Marsh's article on stigmergy was itself translated stigmergically, with almost no direct coordination and mostly through traces left on an etherpad: 
 http://pad.imaginationforpeople.org/p/stigmergy
 
 --->
 
 ---
+# Hackathons
 
-# Free software communities
+---
 
-![bg 80%](logiciels-libres-celebres.jpg)
+![](hackathon-2012-US-cities.jpg)
 
 <!---
+No one organised the hackathon globally, yet hundreds have been organized so far.
+
+--->
+
+---
+
+# #NuitDebout
+
+![bg](nuitdebout-map.png)
 
 
+https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
+- disco soupe, 
+- les anonymous / les indignés / #NuitDebout 
+- - alternatiba
 
-Linux, Wikipédia, WordPress, Firefox … free sotware projects have now become mainstream. They include experts, 
-longtemps marginaux, les projets rassemblant de# Stigmergic model
+
+---
+
+
+---
+
+# Stigmergic model
 
 ---
 
@@ -680,7 +748,7 @@ Github utilise aussi l’ « open allocation » (choix des taches de façon auto
 
 ---
 
-# L’écosystème des shan zhai
+# shan zhai innovation ecosystem
 
 <!---
 
@@ -737,6 +805,8 @@ Open space seems to have several stigmergic principles:
 
 <!---
 
+A representative example is Twitter, which has "paved" a number of desire paths by integrating them into the service, including @ mentions, hashtags, and group discussions, although not always precisely mimicking the behaviors of users.
+
 Several innovations of Twitter initially came from users and outside developpers and were integrated later by the company:
 - real-time serach engine
 - tweetdeck
@@ -744,54 +814,18 @@ Several innovations of Twitter initially came from users and outside developpers
 
 Short public messages with asymetric conversations Twitter is a good platform to leave traces for stigmergic cooperation (but don't forget to #JoinMastodon)
 
---->
-
----
 
 
-# Ushahidi crowdmapping platform
-
-<!---
-
-Plus récemment dans un article scientifique publié en 2013, la chercheuse Janet Marsden a étudié le développement de la plateforme logicielle de crowdmapping Ushahidi en la regardant sous un angle stigmergique.
-
-Ushahidi est une plateforme open source qui permet de collecter, d’agréger et de cartographier de l’information en situation d’urgence ou de crise.
-
-Le développement d’Ushahidi est remarquable pour plusieurs raisons:
-
-    La version originale d’Ushahidi a été développée et mise en place en une semaine.
-    Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
-    Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
-
-L’auteur explique que l’avancée des réseaux de communication distribués comme l’internet et les réseaux ubiquitaires ont rendus obsolète l’approche top-down de développement de logiciels.
-
-A la place, les outils utilisés sont des composants modulaires adaptables, autogérés et combinés en mash-ups. De même les équipes de développement logiciels et les participants sont spontanées et ad-hoc, fonctionnant comme des organisations virtuelles.
-
-L’environnement de travail qui facilite la coordination des agents est fourni par la plateforme logicielle Ushahidi, incluant ses composants, interfaces et leur affordance pour les participants (l’affordance est la capacité d’un système ou d’un produit à suggérer sa propre utilisation) .
-
-Notez que Ushahidi s’est propagé de façon spontanée et a été depuis été utilisé dans de nombreux endroits dans le monde pour cartographier des situations de crises de façon participative.
-
-Plus sur Ushahidi comme système stigmergique dans cet article très intéressant: Stigmergic self-organization and the improvisation of Ushahidi
-http://www.inf.ucv.cl/~bcrawford/Cuesta_Olivares/Stigmergy/1-s2.0-S138904171200040X-main.pdf
 
 --->
----
-# Hackathons
+
+
 
 ---
 
-![](hackathon-2012-US-cities.jpg)
+# ~~Twitter and user-generated content~~ 
+# #JoinMastodon
 
----
-
-
-# autre exemples
-
-- disco soupe, 
-- les anonymous / les indignés / #NuitDebout 
-
-
----
 
 ---
 
@@ -943,3 +977,15 @@ Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins 
 
 ---
 
+
+## References / sources
+
+Stigmergic self-organization and the improvisation of Ushahidi Margery Doyle and Leslie Marsh
+Janet Marsden
+
+---
+
+## More ...
+- http://lilianricaud.com/
+- http://github.com/lilianricaud
+- lilious@framapiaf.org (#JoinMastodon !)
