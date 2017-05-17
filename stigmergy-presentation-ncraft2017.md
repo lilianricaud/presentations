@@ -345,10 +345,6 @@ Linux, WordPress, Firefox … free software projects have now become mainstream.
 ![bg original](ushahidi-map.png)
 
 
----
-
-![bg original](ushahidi-deployment-map.png)
-
 <!---
 # Ushahidi crowdmapping platform
 
@@ -372,8 +368,8 @@ Janet Marsden
 
 ---
 
-# Not just for code...
-open social innovation
+# Stigmergy is not just for building code...
+watch out for open social innovation
 
 
 ---
@@ -395,11 +391,11 @@ No one organised the hackathons globally, yet hundreds have been organized so fa
 
 ---
 
-![bg](alternatiba_caen_2015.jpg)
+![bg original](alternatiba_caen_2015.jpg)
 
 ---
 
-![bg](alternatiba_map.png)
+![bg original](alternatiba_map.png)
 
 # Alternatiba
 
@@ -469,7 +465,7 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 
 
 --- 
-## an idea is freely given
+## An idea is freely given
 
 --- 
 ## The project is driven by the idea 
@@ -493,17 +489,15 @@ There is no need to discuss or vote on the idea, if an idea is exciting or neces
 ## Attracts contributive efforts, not empty votes
 
 <!---
-The interest attracted will be from people
-actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
+The interest attracted will be from people actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
 
-Since the
-project is supported or rejected based on contributed
-effort, not empty votes, input from people with more
-commitment to the idea will have greater weight.
+Since the project is supported or rejected based on contributed
+effort, not empty votes, input from people with more commitment to the idea will have greater weight.
 --->
+
 --- 
 
-
+## Aggregated effort of agents lead to emergence of complex structures
 
 <!--- 
 
@@ -512,7 +506,7 @@ commitment to the idea will have greater weight.
 
 ---
 
-# Can we promote the emergence of stigmergic behaviours ?
+# Can we promote the emergence of stigmergic cooperation ?
 
 ---
 
@@ -531,7 +525,7 @@ To understand better how stigmergy can be used for growing projects, I have look
 
 # Environment with perceptibles traces
 
-Leave some traces/change the environment to make actions visible
+Modify the environment / leave some traces to make actions visible
 
 
 
@@ -573,7 +567,7 @@ a red link signals that the linked page  doesn't exist yet. The link was placed 
 
 ---
 
-![bg original 90%](wikipedia-n-hesitez-pas.png)
+![bg original 90%](wikipedia_be_bold.png)
 
 ---
 
