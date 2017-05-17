@@ -715,6 +715,10 @@ example of tis talk, pattern language, ...
 
 ## emerging when certain conditions are present
 
+---
+
+## Can be use to produce software, events, change the world...
+
 
 
 ---
