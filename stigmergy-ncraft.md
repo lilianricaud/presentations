@@ -9,7 +9,17 @@ CC-BY-SA Lilian RICAUD
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
-<!-- footer:stigmergy - CC-BY-SA Lilian RICAUD -->
+<!-- footer:stigmergy - CC-BY-SA Lilian RICAUD 
+
+
+Note: this talk was written in markdown using a free software called Marp and exported as a PDF available in the same repository.
+
+This allows me to share the talk as well as a source easy to clone, share and modify.
+
+The content itself can be read online using github and the file can be exported, read and modified using Marp.
+
+This allows me to share my work without adding extra work for myself.
+-->
 
 ---
 
@@ -30,7 +40,9 @@ This is more like playing
 
 --->
 
+
 ---
+
 
 ![bg original](orchestre-chef.jpg)
 
@@ -125,7 +137,7 @@ by default nothing is allowed or visible, there is a need for an authorization o
 When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
 https://en.wikipedia.org/wiki/Termite#Communication
 
-Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
+Source image: Photo taken by Bmdavll and posted under License GFDL
 
 --->
 
@@ -152,7 +164,7 @@ https://en.wikipedia.org/wiki/Stigmergy
 
 ---
 
-# Stigmergy in ants
+# Stigmergy in ant societies
 
 ![bg](safari_ants.jpg)
 <!---Image:
@@ -221,31 +233,6 @@ It looks like the structure has been built by some mad genius, but everything ha
 
 
 
-# Stigmergy is ...
-
- 
---- 
-##  a mechanism of indirect coordination 
-
---- 
-## a self-organized system
-
----
-
-## a loop : action -> trace -> action -> ...
-
---- 
-
-## centered on individual choice and action 
-
----
-
-## a mechanism producing complex structures 
-
-
-
----
-
 # Examples of stigmergy
 
 ---
@@ -278,19 +265,6 @@ road traffic:
 ---
 
 
-
-![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
-
-<!---
-
-A desire path (formally referred to as desire line in transportation planning, also known as a game trail, social trail, herd path, cow path, goat track, pig trail or bootleg trail) can be a path created as a consequence of erosion caused by human or animal foot-fall or traffic. The path usually represents the shortest or most easily navigated route between an origin and destination. Width and erosion severity can be indicators of how much traffic a path receives. Desire paths emerge as shortcuts where constructed ways take a circuitous route, have gaps, or are non-existent.
-
-https://en.wikipedia.org/wiki/Desire_path
-
---->
-
----
-
 ![bg original](cairn-stigmergie.jpg)
 
 <!---
@@ -299,6 +273,19 @@ https://en.wikipedia.org/wiki/Desire_path
 In modern times, cairns are often erected as landmarks, a use they have had since ancient times.
 https://en.wikipedia.org/wiki/Cairn
 
+
+--->
+
+---
+
+
+![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
+
+<!---
+
+A desire path (formally referred to as desire line in transportation planning, also known as a game trail, social trail, herd path, cow path, goat track, pig trail or bootleg trail) can be a path created as a consequence of erosion caused by human or animal foot-fall or traffic. The path usually represents the shortest or most easily navigated route between an origin and destination. Width and erosion severity can be indicators of how much traffic a path receives. Desire paths emerge as shortcuts where constructed ways take a circuitous route, have gaps, or are non-existent.
+
+https://en.wikipedia.org/wiki/Desire_path
 
 --->
 
@@ -331,16 +318,19 @@ The structure of the Internet. Although part of its infrastructure were planned,
 <!---
 # Free software communities 
 
-Linux, WordPress, Firefox … free sotware projects have now become mainstream. 
+Linux, WordPress, Firefox … free software projects have now become mainstream. 
 
 
 --->
 
 ---
 
+![bg original](ushahidi-map.png)
 
 
-![bg](ushahidi-deployment-map.png)
+---
+
+![bg original](ushahidi-deployment-map.png)
 
 <!---
 # Ushahidi crowdmapping platform
@@ -366,8 +356,7 @@ Janet Marsden
 ---
 
 
-
-![bg](traduction-stigmergique-pad.png)
+![bg original](traduction-stigmergique-pad.png)
 
 
 <!---
@@ -380,14 +369,13 @@ http://pad.imaginationforpeople.org/p/stigmergy
 --->
 
 ---
-# Hackathons
-
----
 
 ![](hackathon-2012-US-cities.jpg)
 
 <!---
-No one organised the hackathon globally, yet hundreds have been organized so far.
+# Hackathons
+
+No one organised the hackathons globally, yet hundreds have been organized so far.
 
 --->
 
@@ -397,8 +385,15 @@ No one organised the hackathon globally, yet hundreds have been organized so far
 
 ![bg](nuitdebout-map.png)
 
+<!---
+Inspired by spain's 15M movement and US's Occupy Wall Street, #Nuidebout has spread organically accross France and beyond.
 
 https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
+
+--->
+
+---
+
 - disco soupe, 
 - les anonymous / les indignés / #NuitDebout 
 - - alternatiba
@@ -422,7 +417,6 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 
 ---
 
----
 
 # Process
 
@@ -438,6 +432,7 @@ group of personalities.
 --->
 
 ---
+
 ## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
 <!--- There is no need to discuss or
 vote on the idea, if an idea is exciting or necessary it will
@@ -446,6 +441,7 @@ actively involved in the system and willing to put effort
 into carrying the project further, not empty votes from
 people with little interest or involvement.
 --->
+
 ---
 
 ## Attracts contributive efforts, not empty votes
@@ -483,41 +479,7 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 
 ---
 
-# Process
 
-
---- 
-## an idea is freely given
-
---- 
-## The project is driven by the idea, 
-not by a personality or
-group of personalities. 
-
----
-## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
-<!--- There is no need to discuss or
-vote on the idea, if an idea is exciting or necessary it will
-attract interest. The interest attracted will be from people
-actively involved in the system and willing to put effort
-into carrying the project further, not empty votes from
-people with little interest or involvement.
---->
----
-
-## Attracts contributive efforts, not empty votes
-
-<!---Since the
-project is supported or rejected based on contributed
-effort, not empty votes, input from people with more
-commitment to the idea will have greater weight.
---->
---- 
-
---- 
-## Doesn't need group permission to tell them what system to work on or what part to contribute
-
---- 
 
 
 ---
@@ -525,8 +487,6 @@ commitment to the idea will have greater weight.
 # Can we promote the emergence of stigmergic behaviours ?
 
 ---
-
-
 
 
 
@@ -541,7 +501,7 @@ I have look into Wikipedia as a stigmergic system (indirect coordination via tra
 
 ---
 
-# Superdordinate goal
+# Superordinate goal
 
 > « Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. » – Vision of the Wikimedia Foundation
 
@@ -710,8 +670,87 @@ However there is often a difference in one article written in different language
 
 
 
+Github as a stool for stigmergy
+
+
+When you work, leave an artifact somewhere where others can find it.
+
+Example of my work:
+
+leaving some traces on github, twitter, mastodon
+so that others can follow the trail, modify and fork easily
+
+
 
 ---
+
+# Stigmergy is ...
+
+*if you slept here is the TlDr*
+
+<!---
+(too long didn't read)
+--->
+
+--- 
+##  a mechanism of indirect coordination 
+
+--- 
+## a self-organized system
+
+---
+
+## a loop : action -> trace -> action -> ...
+
+--- 
+
+## centered on individual choice and action 
+
+---
+
+## a mechanism producing complex structures 
+
+---
+
+## emerging when certain conditions are present
+
+
+
+---
+
+
+## References / sources
+
+Stigmergy, Heather Marsh 2012
+https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
+
+Stigmergic self-organization and the improvisation of Ushahidi (Janet Marsden, 2013)
+
+Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
+
+http://mark-elliott.net/blog/?page_id=24%20
+
+
+Self-organization in Communicating Groups:
+the emergence of coordination, shared references and collective
+intelligence
+Francis Heylighen, 2008.
+
+
+Francis Heyl
+
+---
+
+## More ...
+- http://lilianricaud.com/
+- http://github.com/lilianricaud
+- lilious@framapiaf.org (#JoinMastodon !)
+
+
+---
+
+
+
 
 # Valve, entreprise sans manager
 
@@ -733,10 +772,10 @@ Notez que Wikipedia a une section sur le « Valve time », le fait que les produ
 
 <!---
 
-Github est une plateforme de collaboration pour développeurs, bâtie sur un projet open source (Git dont je reparlerai dans un prochain article). Github est une compagnie privée à but lucratif, mais elle a pris les pratiques du monde de l’open source et les appliquée à l’organisation de l’ensemble de l’entreprise.
+Open Allocation
 
-Github utilise aussi l’ « open allocation » (choix des taches de façon autonome) et ses employés sont libres de s’attaquer à n’importe quel projet qui les intéresse sans demande formelle ou sans interférence managériale. Pour plus d’information sur le fonctionnement de Github lire cet excellent article:
-
+At GitHub, people work on an open allocation (http://www.forbes.com/sites/quora/2012/11/26/what-is-open-allocation/) basis. Unlike traditional companies where projects are assigned top-down, GitHubbers tackle whatever projects they want, without any formal requests
+or managerial interference.
     http://www.fastcolabs.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
 --->
 
@@ -769,17 +808,7 @@ Voir à ce sujet:
 ---
 
 
-# Les MOOCs, cours massif ouverts en ligne
 
-<!---
-
-Les MOOCs, sont un nouveau modèles de ces cours ouverts en ligne où l’apprentissage se fait de manière auto-organisé, favorisant l’auto-apprentissage et la sérendipité.
-
-S’il y a communication directe entre certains petits groupes de participants, une grosse partie de l’organisation se fait aussi via des traces laissés dans l’environnement en ligne. Voir:
-
-    Travail collaboratif en ligne au sein d’un cours massif ouvert (Mooc)
-    https://fr.wikipedia.org/wiki/Cours_en_ligne_ouvert_et_massif
-   
 --->
 
 ---
@@ -973,19 +1002,3 @@ Par organisation j’entends n’importe quel groupe humain structuré que ce so
 Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une tache. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
 
 --->
-
-
----
-
-
-## References / sources
-
-Stigmergic self-organization and the improvisation of Ushahidi Margery Doyle and Leslie Marsh
-Janet Marsden
-
----
-
-## More ...
-- http://lilianricaud.com/
-- http://github.com/lilianricaud
-- lilious@framapiaf.org (#JoinMastodon !)
