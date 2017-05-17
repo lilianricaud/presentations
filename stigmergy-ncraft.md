@@ -103,13 +103,32 @@ This is not really a game anymore and individuals tend to be treated like machin
 
 by default nothing is allowed or visible, there is a need for an authorization of the boss or the group.
 
+
+-> focus is always on the organization and the personalities involved
+-> requires secrecy yet publicity 
+-> requires authorizations
+-> only few people can work on the project
+-> those who do are under control of those who decides, event when those don't know the reality of the field
+
+## Pyramidal hierarchy and competitive models
+
+-> wastes resources on idea protection, advertisement, and more
+-> waste ressources on competition
+-> slow and poor reponse
+
+## Consensus-based hierarchy and cooperative models
+
+- everyone has the same influence even if they are not experts or doers
+- vulnerable to agent provocateurs
+- wastes a great deal of time and resources in both discussing and discussing the discussions
+- extremely slow for groups beyond 25
+
+
 --->
 
 ---
 
 # Any alternatives ?
-
-
 
 
 
@@ -425,7 +444,7 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 ## an idea is freely given
 
 --- 
-## The project is driven by the idea, 
+## The project is driven by the idea 
 <!---
 not by a personality or
 group of personalities.
@@ -433,53 +452,34 @@ group of personalities.
 
 ---
 
-## No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
-<!--- There is no need to discuss or
-vote on the idea, if an idea is exciting or necessary it will
-attract interest. The interest attracted will be from people
-actively involved in the system and willing to put effort
-into carrying the project further, not empty votes from
-people with little interest or involvement.
+## Permissionless engagement
+
+<!--- 
+No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
+
+There is no need to discuss or vote on the idea, if an idea is exciting or necessary it will attract interest. 
 --->
 
 ---
 
 ## Attracts contributive efforts, not empty votes
 
-<!---Since the
+<!---
+The interest attracted will be from people
+actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
+
+Since the
 project is supported or rejected based on contributed
 effort, not empty votes, input from people with more
 commitment to the idea will have greater weight.
 --->
 --- 
 
---- 
-## Doesn't need group permission to tell them what system to work on or what part to contribute
 
-<!--- s volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
 
-C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
-
-http://mark-elliott.net/blog/?page_id=24%20
+<!--- 
 
 --->
-
-# Stigmergic model
-
----
-
-![bg original 100%](modele-gouvernance-stigmergie.png)
-
-<!---
-In the Stigmergy chart, all workers have full autonomy to create as they wish; the power of the user group is in the ability to accept or reject the work. Since there is no officially designated person to perform a task the users are free to create alternatives if they do not like what they are offered. Workers are free to create regardless of acceptance or rejection; in the chart below some work may be accepted by the largest group, some alternatives for a different user group, some only by a small group, and sometimes the worker will be alone with their vision. In all cases the worker is still free to create as they wish.
-
---->
-
----
-
----
-
-
 
 
 ---
@@ -495,45 +495,15 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 ![bg](wikipedia-home.jpg)
 
 <!---
-I have look into Wikipedia as a stigmergic system (indirect coordination via traces left in the environment) and identified several key principles 
+To understand better how stigmergy can be used for growing projects, I have looked at Wikipedia trying to understand it as a stigmergic system (indirect coordination via traces left in the environment) From these observations, I've identified several key principles 
 
 --->
 
 ---
 
-# Superordinate goal
+# Environment with perceptibles traces
 
-> « Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. » – Vision of the Wikimedia Foundation
-
-<!--- The vision of the Wikimédia foundation is a good example of superordinate goal 
-
-https://en.wikipedia.org/wiki/Wikipedia:Purpose
-
---->
-
----
-
-# Simple rules
-
-Wikipedia five pillars
-
-    Wikipedia is an encyclopedia
-    Wikipedia is written from a neutral point of view
-    Wikipedia is free content that anyone can use, edit, 
-    and distribute
-    Editors should treat each other with respect and civility
-    Wikipedia has no firm rules
-
-
-<!--- Wikipedia has few simple rules but these are essential to the governance of the project 
-
-
-https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
---->
-
----
-
-# Leave some traces/change the environment to make actions visible
+Leave some traces/change the environment to make actions visible
 
 
 
@@ -585,7 +555,6 @@ a red link signals that the linked page  doesn't exist yet. The link was placed 
 
 ![bg original 100%](wikipedia-licence.png)
 
----
 
 ---
 
@@ -652,6 +621,43 @@ To ensure critical tasks are taken care of, a non-profit organization the Wikime
 
 ---
 
+# Simple rules
+
+Wikipedia five pillars
+
+    Wikipedia is an encyclopedia
+    Wikipedia is written from a neutral point of view
+    Wikipedia is free content that anyone can use, edit, 
+    and distribute
+    Editors should treat each other with respect and civility
+    Wikipedia has no firm rules
+
+
+<!--- Wikipedia has few simple rules but these are essential to the governance of the project 
+
+
+https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
+--->
+
+
+
+---
+
+# Superordinate goal
+
+> « Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. » – Vision of the Wikimedia Foundation
+
+<!--- The vision of the Wikimédia foundation is a good example of superordinate goal 
+
+https://en.wikipedia.org/wiki/Wikipedia:Purpose
+
+The superordinate goal is like the glue that attract and bind agents to the system, holding it together.
+
+--->
+
+
+---
+
 # Accept forks and parallel branches
 
 
@@ -668,7 +674,17 @@ However there is often a difference in one article written in different language
 
 ---
 
+# Open research 
 
+---
+
+github pattern language image
+
+---
+
+![bg original 90%](open-research-stigmergy-markdown-prez.png)
+
+<!---
 
 Github as a stool for stigmergy
 
@@ -680,8 +696,9 @@ Example of my work:
 leaving some traces on github, twitter, mastodon
 so that others can follow the trail, modify and fork easily
 
-example of tis talk, pattern language, ...
+example of this talk, pattern language, ...
 
+--->
 
 ---
 
