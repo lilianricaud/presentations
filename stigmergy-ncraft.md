@@ -26,6 +26,8 @@ musicians plays while listening closely to each others and adjusting constantly
 
 intense and practical only for small groups (2-7)
 
+This is more like playing
+
 --->
 
 ---
@@ -42,6 +44,8 @@ image source: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orches
 
 Works well but becomes difficult as the group grows, optimum below 25 people, requires conductors, managers, leader beyond that point.
 
+This is more like playing a game (with common game rules)
+
 --->
 
 
@@ -55,7 +59,9 @@ Works well but becomes difficult as the group grows, optimum below 25 people, re
 <!---
 # Command and control
 
-Works well for lare groups, but uniformize individuals
+Works well for large groups, but uniformize individuals.
+
+This is not really a game anymore and individuals tend to be treated like machines
 
 --->
 
