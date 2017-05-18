@@ -289,24 +289,14 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 
 --->
 
----
-
-
-# Process
-
 
 --- 
 ## An idea is freely given
 
 --- 
-## The project is driven by the idea, not by a personality or group of personalities. 
-<!---
 
---->
 
----
-
-## Agents can engage, when, where and how they want
+## Anyone can engage, when, where and how they want
 
 <!--- 
 No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
@@ -316,11 +306,25 @@ There is no need to discuss or vote on the idea, if an idea is exciting or neces
 
 ---
 
+## The project is driven by the idea, not by a personality or group of personalities. 
+
+<!---
+
+--->
+
+
+
+---
+
 ## No need for discussion or approval
 
 ---
 
 ## Individuals are in control over their own work
+
+---
+
+## If an idea is good it will receive the support required
 
 ---
 
@@ -335,10 +339,6 @@ effort, not empty votes, input from people with more commitment to the idea will
 
 ---
 
-## If an idea is good it will receive the support required
-
----
-
 ## Acceptance or rejection is for the work contributed, not the person contributing it
 
 --- 
@@ -349,8 +349,7 @@ effort, not empty votes, input from people with more commitment to the idea will
 
 ## Information sharing is driven by the information, not personal relationships
 
-<!---If data is relevant to several nodes it will be immediately transmitted to all, no formal meetings between official
-personalities are necessary.
+<!---If data is relevant to several nodes it will be immediately transmitted to all, no formal meetings between official personalities are necessary.
 --->
 
 ---
@@ -360,7 +359,7 @@ personalities are necessary.
 
 ---
 
-## Encourage self limitation, not indiscriminate growth
+## Self responsability for the work encourage self-limitation, not indiscriminate growth
 
 <!---
 
