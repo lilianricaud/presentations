@@ -250,48 +250,7 @@ It looks like the structure has been built by some mad genius, but everything ha
 
 
 
-# Examples of stigmergy
-
----
-
-![bg original](stigmergie-swarm-brid-flock.jpg)
-
-
-<!---
-
-Basic models of flocking behavior are controlled by three simple rules:
-Separation - avoid crowding neighbors (short range repulsion)
-Alignment - steer towards average heading of neighbors
-Cohesion - steer towards average position of neighbors (long range attraction)
-With these three simple rules, the flock moves in an extremely realistic way
-Again no central plan or control, communication via the environment
-
-From David Halles: www.davidhales.com
-
---->
-
----
-
-
-![bg original](stigmergie-traffic-routier.jpg)
-
-<!---
-road traffic: 
---->
-
----
-
-
-![bg original](cairn-stigmergie.jpg)
-
-<!---
-
-# Cairns
-In modern times, cairns are often erected as landmarks, a use they have had since ancient times.
-https://en.wikipedia.org/wiki/Cairn
-
-
---->
+# Not only for insects
 
 ---
 
@@ -307,16 +266,85 @@ https://en.wikipedia.org/wiki/Desire_path
 --->
 
 
---- 
+---
 
-![bg original](stigmergie-cicatrice-rail-structure-auch.png)
-
-<!---
-position of building and other landscape features acts as a trace for future building acts. Here one can see the remaining space left after the railway track was removed. building and property have adapted and although the track is not there anymore there is a remaining scar through the neighbourhood.
---->
-
+# Stigmergic model for human  organizations
 
 ---
+
+![bg original 100%](heather_marsh_stigmergy.png)
+
+<!--- a lot of this work was inspired by Heather Marsh article "Stigmergy" I cannot emphasize enough how much you must read it.
+
+https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
+
+--->
+
+---
+
+![bg original 100%](modele-gouvernance-stigmergie.png)
+
+<!---
+In the Stigmergy chart, all workers have full autonomy to create as they wish; the power of the user group is in the ability to accept or reject the work. Since there is no officially designated person to perform a task the users are free to create alternatives if they do not like what they are offered. Workers are free to create regardless of acceptance or rejection; in the chart below some work may be accepted by the largest group, some alternatives for a different user group, some only by a small group, and sometimes the worker will be alone with their vision. In all cases the worker is still free to create as they wish.
+
+--->
+
+---
+
+
+# Process
+
+
+--- 
+## An idea is freely given
+
+--- 
+## The project is driven by the idea 
+<!---
+not by a personality or
+group of personalities.
+--->
+
+---
+
+## Agents can engage, when, where and how they want
+
+<!--- 
+No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
+
+There is no need to discuss or vote on the idea, if an idea is exciting or necessary it will attract interest. 
+--->
+
+---
+
+## No need for discussion or approval
+
+---
+
+## Individuals in control over their own work
+
+---
+
+## Actions attracts contributive efforts, not empty votes
+
+<!---
+The interest attracted will be from people actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
+
+Since the project is supported or rejected based on contributed
+effort, not empty votes, input from people with more commitment to the idea will have greater weight.
+--->
+
+--- 
+
+## Aggregated effort of agents lead to emergence of complex structures
+
+<!--- 
+
+--->
+
+--- 
+
+
 
 ![bg original](Internet_map.jpg)
 
@@ -440,66 +468,6 @@ https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
 
 
 
-
---->
-
-
-
----
-
-# Stigmergic model
-
----
-
-![bg original 100%](modele-gouvernance-stigmergie.png)
-
-<!---
-In the Stigmergy chart, all workers have full autonomy to create as they wish; the power of the user group is in the ability to accept or reject the work. Since there is no officially designated person to perform a task the users are free to create alternatives if they do not like what they are offered. Workers are free to create regardless of acceptance or rejection; in the chart below some work may be accepted by the largest group, some alternatives for a different user group, some only by a small group, and sometimes the worker will be alone with their vision. In all cases the worker is still free to create as they wish.
-
---->
-
----
-
-
-# Process
-
-
---- 
-## An idea is freely given
-
---- 
-## The project is driven by the idea 
-<!---
-not by a personality or
-group of personalities.
---->
-
----
-
-## Permissionless engagement
-
-<!--- 
-No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
-
-There is no need to discuss or vote on the idea, if an idea is exciting or necessary it will attract interest. 
---->
-
----
-
-## Attracts contributive efforts, not empty votes
-
-<!---
-The interest attracted will be from people actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
-
-Since the project is supported or rejected based on contributed
-effort, not empty votes, input from people with more commitment to the idea will have greater weight.
---->
-
---- 
-
-## Aggregated effort of agents lead to emergence of complex structures
-
-<!--- 
 
 --->
 
@@ -907,5 +875,55 @@ Heather Marsh's article on stigmergy was itself translated stigmergically, with 
 http://pad.imaginationforpeople.org/p/stigmergy
 
 --->
+
+---
+
+![bg original](stigmergie-swarm-brid-flock.jpg)
+
+
+<!---
+
+Basic models of flocking behavior are controlled by three simple rules:
+Separation - avoid crowding neighbors (short range repulsion)
+Alignment - steer towards average heading of neighbors
+Cohesion - steer towards average position of neighbors (long range attraction)
+With these three simple rules, the flock moves in an extremely realistic way
+Again no central plan or control, communication via the environment
+
+From David Halles: www.davidhales.com
+
+--->
+
+---
+
+
+![bg original](stigmergie-traffic-routier.jpg)
+
+<!---
+road traffic: 
+--->
+
+---
+
+
+![bg original](cairn-stigmergie.jpg)
+
+<!---
+
+# Cairns
+In modern times, cairns are often erected as landmarks, a use they have had since ancient times.
+https://en.wikipedia.org/wiki/Cairn
+
+
+--->
+
+---
+
+![bg original](stigmergie-cicatrice-rail-structure-auch.png)
+
+<!---
+position of building and other landscape features acts as a trace for future building acts. Here one can see the remaining space left after the railway track was removed. building and property have adapted and although the track is not there anymore there is a remaining scar through the neighbourhood.
+--->
+
 
 ---
