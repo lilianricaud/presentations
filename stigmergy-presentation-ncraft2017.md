@@ -320,7 +320,7 @@ There is no need to discuss or vote on the idea, if an idea is exciting or neces
 
 ---
 
-## Individuals in control over their own work
+## Individuals are in control over their own work
 
 ---
 
@@ -337,17 +337,47 @@ effort, not empty votes, input from people with more commitment to the idea will
 
 ## If an idea is good it will receive the support required
 
+---
+
+## Acceptance or rejection is for the work contributed, not the person contributing it
+
 --- 
 
 ## No need for communication outside of task completion
 
 ---
 
-## Workgroups emerge, divide, specialize or disappear organically
+## Information sharing is driven by the information, not personal relationships
+
+<!---If data is relevant to several nodes it will be immediately transmitted to all, no formal meetings between official
+personalities are necessary.
+--->
 
 ---
 
-## Aggregated effort of agents lead to emergence of complex structures
+## Workgroups emerge, divide, specialize or disappear organically
+
+
+---
+
+## Encourage self limitation, not indiscriminate growth
+
+<!---
+
+Rather than the traditional corporate model of endless acquisition and expansion, stigmergy encourages splintering into different nodes. Because each individual is responsible
+only for their own work, and no one can direct a group of workers, expansion means more work for the individual,
+a self limiting prospect. As a system grows, the additional work requires either additional resources or
+splintering; as communication is easier and there is more autonomy in smaller groups, splintering is the more likely outcome of growth.
+
+--->
+
+---
+
+## The system is decentralized and resilient
+
+---
+
+## Aggregated efforts of agents leads to emergence of complex structures
 
 <!--- 
 
