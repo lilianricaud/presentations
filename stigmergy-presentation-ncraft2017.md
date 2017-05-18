@@ -69,6 +69,8 @@ This is more like playing a game (with common game rules)
 <!---
 # Command and control
 
+For larger groups having a leader and a chain of command becomes essential.
+
 Works well for large groups, but uniformize individuals.
 
 This is not really a game anymore and individuals tend to be treated like machines
@@ -128,7 +130,7 @@ by default nothing is allowed or visible, there is a need for an authorization o
 
 # Any alternatives ?
 
-
+*drumroll...*
 
 
 ---
@@ -146,6 +148,13 @@ by default nothing is allowed or visible, there is a need for an authorization o
 ---
 
 # Termite counsel ?
+
+
+![bg](termitiere-exemple-stigmergie.jpg)
+
+---
+
+# Self-organization !
 
 
 ![bg](termitiere-exemple-stigmergie.jpg)
@@ -198,8 +207,7 @@ Notes :1) the first ant find a food source (F), using some path (a), then it com
 
 Source: Johann Dréo https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr
 
-Ants use the environment as a support of communication. They exchange information indirectly by laying pheromones, describing the state of their "work". The informaion exchanged has a local reach, only ants located where pheromones are layed can have access to it.
-
+Ants use the environment as a support of communication. They exchange information indirectly by laying pheromones, describing the state of their "work". The information exchanged has a local reach, only ants located where pheromones are layed can have access to it.
 
 https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms
 
@@ -250,7 +258,7 @@ It looks like the structure has been built by some mad genius, but everything ha
 
 
 
-# Not only for insects
+# Humans also use stigmergy
 
 ---
 
@@ -291,12 +299,12 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 
 
 --- 
-## An idea is freely given
+## An idea is freely given and left in the open
 
 --- 
 
 
-## Anyone can engage, when, where and how they want
+## Anyone can engage, when, where, how and how long they want
 
 <!--- 
 No individual needs permission (competitive) or consensus (cooperative) to propose an idea or initiate a project. 
@@ -326,9 +334,13 @@ There is no need to discuss or vote on the idea, if an idea is exciting or neces
 
 ## If an idea is good it will receive the support required
 
+<!---
+In practice, that is not true yet, as few people have the free time to put into volunteer projects because most are tied to compulsory work under the existing financial system. Additionally, we still live in a personality driven system where only powerful personalities are heard.)
+--->
+
 ---
 
-## Action-centered: attracts contributive efforts, not empty votes
+## Action-centered: good projects attracts contributive efforts, not empty votes
 
 <!---
 The interest attracted will be from people actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
@@ -354,12 +366,12 @@ effort, not empty votes, input from people with more commitment to the idea will
 
 ---
 
-## Workgroups emerge, divide, specialize or disappear organically
+## Workgroups emerge, divide, specialize or disappear organically according to the needs of the system
 
 
 ---
 
-## Self responsability for the work encourage self-limitation, not indiscriminate growth
+## Self-responsability for the work encourage self-limitation, not indiscriminate growth
 
 <!---
 
@@ -398,7 +410,7 @@ The structure of the Internet. Although part of its infrastructure were planned,
 
 
 
-![bg 80%](logiciels-libres-celebres.jpg)
+![bg original 80%](logiciels-libres-celebres.jpg)
 
 <!---
 # Free software communities 
@@ -437,7 +449,7 @@ Janet Marsden
 ---
 
 # Stigmergy is not just for building code...
-*watch out for open social innovation*
+*watch out for open social innovation !*
 
 
 ---
@@ -533,8 +545,11 @@ To understand better how stigmergy can be used for growing projects, I have look
 
 # Environment with perceptibles traces
 
+<!---
+
 Modify the environment / leave some traces to make actions visible
 
+--->
 
 
 ---
