@@ -299,10 +299,9 @@ In the Stigmergy chart, all workers have full autonomy to create as they wish; t
 ## An idea is freely given
 
 --- 
-## The project is driven by the idea 
+## The project is driven by the idea, not by a personality or group of personalities. 
 <!---
-not by a personality or
-group of personalities.
+
 --->
 
 ---
@@ -325,7 +324,7 @@ There is no need to discuss or vote on the idea, if an idea is exciting or neces
 
 ---
 
-## Actions attracts contributive efforts, not empty votes
+## Action-centered: attracts contributive efforts, not empty votes
 
 <!---
 The interest attracted will be from people actively involved in the system and willing to put effort into carrying the project further, not empty votes from people with little interest or involvement.
@@ -334,7 +333,19 @@ Since the project is supported or rejected based on contributed
 effort, not empty votes, input from people with more commitment to the idea will have greater weight.
 --->
 
+---
+
+## If an idea is good it will receive the support required
+
 --- 
+
+## No need for communication outside of task completion
+
+---
+
+## Workgroups emerge, divide, specialize or disappear organically
+
+---
 
 ## Aggregated effort of agents lead to emergence of complex structures
 
