@@ -377,7 +377,7 @@ splintering; as communication is easier and there is more autonomy in smaller gr
 
 ---
 
-## Aggregated efforts of agents leads to emergence of complex structures
+## Aggregated efforts of agents leads to emergence of complex work
 
 <!--- 
 
@@ -438,7 +438,7 @@ Janet Marsden
 ---
 
 # Stigmergy is not just for building code...
-watch out for open social innovation
+*watch out for open social innovation*
 
 
 ---
