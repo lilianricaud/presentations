@@ -420,108 +420,8 @@ Linux, WordPress, Firefox … free software projects have now become mainstream.
 
 --->
 
----
-
-![bg original](ushahidi-map.png)
 
 
-<!---
-# Ushahidi crowdmapping platform
-
-Ushahidi was studied as a stigmergic system. Ushahidi is an open source crowdmapping platform that allows users to collect, aggregate and map data during crises and emergency situations.
-
-Ushahidi development is remarkable for several reasons:
-- Ushahidi first release was developped and put up in a week
-- the systeme was largely developped in Kenya, by kenyans, with limited technical ressources and infrastructures.
-- few days after its launch, Ushahidi was used by thousands.
-- Ushahdi was built by an ad-hoc self organized virtual team using modular tools that were mashed-up
-- ushahidi has spread and been used in several crisis, election monitoring, human right advocacy since then (60 000+ deployments)
-
-https://community.crowdmap.com/
-
-
-Stigmergic self-organization and the improvisation of Ushahidi Margery Doyle and Leslie Marsh
-Janet Marsden
-
-
---->
-
----
-
-# Stigmergy is not just for building code...
-*watch out for open social innovation !*
-
-
----
-
-
-![bg original](hackathon.jpeg)
-
----
-
-![](hackathon-2012-US-cities.jpg)
-
-<!---
-# Hackathons
-
-No one organised the hackathons globally, yet hundreds have been organized so far.
-
---->
-
-
----
-
-![bg original](alternatiba_caen_2015.jpg)
-
----
-
-![bg original](alternatiba_map.png)
-
-# Alternatiba
-
-<!---
-
-# Alternatiba
-
-Alternatiba is a framework to mobilise society to face the challenges of climate change. Numerous Alternatiba events, which provide hundreds of alternatives in order to raise people's awareness and to stimulate behaviour change, have been or will be organised in over sixty different French and European cities.
-
-https://en.wikipedia.org/wiki/Alternatiba,_Village_of_Alternatives
-
-https://umap.openstreetmap.fr/fr/map/groupes-alternatiba-anv_126274#6/46.536/5.515
-
-
-
-
---->
-
----
-
-
-![bg original](Nuit_Debout_-_Paris_-_41_mars_01.jpg)
-
-<!---
-
-#NuitDebout
-
-
-CC-BY-SA Olivier Ortelpa
-
---->
-
----
-# #NuitDebout 
-
-![bg](nuitdebout-map.png)
-
-<!---
-Inspired by spain's 15M movement and US's Occupy Wall Street, #Nuidebout has spread organically accross France and beyond.
-
-https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
-
-
-
-
---->
 
 
 ---
@@ -982,3 +882,107 @@ position of building and other landscape features acts as a trace for future bui
 
 
 ---
+
+---
+
+![bg original](ushahidi-map.png)
+
+
+<!---
+# Ushahidi crowdmapping platform
+
+Ushahidi was studied as a stigmergic system. Ushahidi is an open source crowdmapping platform that allows users to collect, aggregate and map data during crises and emergency situations.
+
+Ushahidi development is remarkable for several reasons:
+- Ushahidi first release was developped and put up in a week
+- the systeme was largely developped in Kenya, by kenyans, with limited technical ressources and infrastructures.
+- few days after its launch, Ushahidi was used by thousands.
+- Ushahdi was built by an ad-hoc self organized virtual team using modular tools that were mashed-up
+- ushahidi has spread and been used in several crisis, election monitoring, human right advocacy since then (60 000+ deployments)
+
+https://community.crowdmap.com/
+
+
+Stigmergic self-organization and the improvisation of Ushahidi Margery Doyle and Leslie Marsh
+Janet Marsden
+
+
+--->
+
+
+---
+
+# Stigmergy is not just for building code...
+*watch out for open social innovation !*
+
+---
+
+
+![bg original](hackathon.jpeg)
+
+---
+
+![](hackathon-2012-US-cities.jpg)
+
+<!---
+# Hackathons
+
+No one organised the hackathons globally, yet hundreds have been organized so far.
+
+--->
+
+
+---
+
+![bg original](alternatiba_caen_2015.jpg)
+
+---
+
+![bg original](alternatiba_map.png)
+
+# Alternatiba
+
+<!---
+
+# Alternatiba
+
+Alternatiba is a framework to mobilise society to face the challenges of climate change. Numerous Alternatiba events, which provide hundreds of alternatives in order to raise people's awareness and to stimulate behaviour change, have been or will be organised in over sixty different French and European cities.
+
+https://en.wikipedia.org/wiki/Alternatiba,_Village_of_Alternatives
+
+https://umap.openstreetmap.fr/fr/map/groupes-alternatiba-anv_126274#6/46.536/5.515
+
+
+
+
+--->
+
+---
+
+
+![bg original](Nuit_Debout_-_Paris_-_41_mars_01.jpg)
+
+<!---
+
+#NuitDebout
+
+
+CC-BY-SA Olivier Ortelpa
+
+--->
+
+---
+# #NuitDebout 
+
+![bg](nuitdebout-map.png)
+
+<!---
+Inspired by spain's 15M movement and US's Occupy Wall Street, #Nuidebout has spread organically accross France and beyond.
+
+https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
+
+
+
+
+--->
+
