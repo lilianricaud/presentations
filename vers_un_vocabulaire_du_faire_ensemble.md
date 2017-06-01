@@ -3,6 +3,12 @@
 
 ---
 
+<!---
+
+présentation en cours de conversion en format libre:
+
+l'originale: https://docs.google.com/presentation/d/1-cXRp1kNKPGFG5YsFH5os3KEkfVRLXA-D5Xv-ZfLSCA/edit#slide=id.gd163ff77_011
+
 
 # Quel est notre vocabulaire du faire ensemble ?
 
@@ -110,5 +116,71 @@ Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%
 
 ---
 
-![bg original](
+![bg original](ignite-talk-culture-hacking-seb-paquet.jpg)
 
+<!---
+
+"ignite" (20 diapos, 15 secondes/diapos) et Pecha kucha (20 images, 20 secondes) sont des formats de présentation ultra rapide, destinés a faire découvrir à un groupe un grand nombre d'idée en peu de temps et à "allumer/enflammer" les idées et la créativité des participants ("ignite" = allumer). Ce format a inspiré le format “ma thèse en 180 secondes ou des docorants présentent le sujet de leur thèse au grand public en 3 min et une seule diapo.
+
+ Source image: how to become a culture hacker, Seb Paquet https://www.youtube.com/watch?v=ojQT6U-gRAM
+ 
+ --->
+ 
+ ---
+ 
+ ![bg original](hackathon.jpg)
+ 
+ <!---
+ 
+ Hackathon: un "marathon" de hacking où les participants travaillent intensement sur du code dans le but de produire quelque chose à la fin.
+
+ Source image: http://newyork.thecityatlas.org/lifestyle/solutionism-nowhere/attachment/hackathon-2/
+ 
+ --->
+ 
+ ----
+
+![bg original](install-party.jpg)
+
+ 
+ <!---
+ Install/Coding party. Similaire au "hackathon" dans l'idée de se rassembler pour programmer, mais avec une connotation plus de plaisir (party=fête) et moins de travail intense (marathon). Notez ici l'importance du langage. Le message envoyé lorsqu'on invite quelqu'un a une fête ou a un marathon n'est pas le même. Le simple fait de choisir un nom commence déja à créer une architecture invisible qui va influencer les participants et la rencontre.
+
+ party Source image: http://www.cinemas-utopia.org/U-blog/toulouse/index.php?post/2008/04/03/La-liberte-guidant-le-peuple
+ 
+ --->
+ 
+ ---
+ 
+ ![bg original](accelerateur-de-projet.jpg)
+ 
+ <!---
+ 
+ Accélérateurs de projets: ce format de rencontre/reflexion collective dérivé de méthode d’éducation populaire vise a aider un porteur de projet à avancer grace à l'intelligence du groupe. Source image: Moustic 2011
+ 
+Recette: http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/accelerateur_de_projets.md
+ 
+ --->
+ ---
+ 
+ <!---
+ 
+ Batucada participative: un format intéressant expérimenté lors des rencontres moustic 2011 a la fois expérience de coopération vécue (les participants doivent être à l'écoute d'eux mêmes, de leur groupe et de l'ensemble des particiicipants) et aussi brise glace qui aide a créer du lien et de la convivialité entre une centaine de participants qui pour la plupart ne se connaissait pas avant.
+
+ Source image: Moustic 2011
+ --->
+ 
+ 
+ ---
+ # Comment aller plus loin ? Identifier les ingrédients clés qui marchent ?
+ 
+ 
+ - patterns comme outil de lecture des systèmes complexe
+ - utilisé pour identifier les ingrédients présents dans plusieurs formats
+ 
+ 
+ 
+ ---
+ # Trame
+ donner envie, apprendre les bases, apprentissage avancé, au dela de la maitrise (shu ha ri)
+ 
