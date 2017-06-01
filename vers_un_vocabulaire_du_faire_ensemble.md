@@ -15,9 +15,23 @@ conférences
 rencontres
 manifestations
 
+<!---
+
+Traditionnellement plusieurs types de rencontres professionnelles
+
+--->
+
 ---
 
 ![bg original](meeting.jpg)
+
+<!---
+
+Reunion: tout le monde connaît ces réunions interminables où on a peu de temps de paroles, où la discussion est très figée...
+
+ Source image: http://www.cafefootball.eu/2011/03/16/blog/ST.-JOHNSTONE-F.C.-HOST-SDSA-MEETING.aspx
+
+--->
 
 
 ---
