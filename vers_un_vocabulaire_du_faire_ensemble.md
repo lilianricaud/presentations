@@ -6,6 +6,12 @@
 
 # Quel est notre vocabulaire du faire ensemble ?
 
+<!---
+
+travailler, réunionner, brainstormer, manifester, “conférencer”, quelles autres formes de rencontres utiliser vous ?
+
+--->
+
 
 ---
 # Évènements traditionnels
@@ -82,9 +88,25 @@ Barcamp, une “non-conférence” auto-organisée par les participants qui orga
 
 ![bg original](barcamp-2.jpg)
 
+<!---
+
+Dans un barcamp, chacun est invité a être acteur (" pas de spectateur, tous participants !") et à contribuer à co-produire la “non-conférence”
+
+
+. Source image: http://blog.webreakstuff.com/2007/07/barcamp-portugal-2007/
+
+--->
+
 ---
 
 ![bg original](open-space-technology.jpg)
+
+<!---
+Oepn Space, autre mode de rencontre participatif, ancien mais a montré sa capacité a accueillir plus de 2000 participants. 
+
+Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%E2%80%93-at-barcamp%E2%80%A6/
+--->
+
 
 ---
 
