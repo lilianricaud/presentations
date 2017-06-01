@@ -17,4 +17,13 @@ manifestations
 
 ---
 
-![](meeting.jpg)
+![bg original](meeting.jpg)
+
+
+---
+
+![bg original](conference.jpg)
+
+---
+
+![bg original](manifestation.jpg)
