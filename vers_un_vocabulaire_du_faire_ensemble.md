@@ -108,7 +108,7 @@ Dans un barcamp, chacun est invité a être acteur (" pas de spectateur, tous pa
 ![bg original](open-space-technology.jpg)
 
 <!---
-Oepn Space, autre mode de rencontre participatif, ancien mais a montré sa capacité a accueillir plus de 2000 participants. 
+L'open Space ou forum ouvert en français autre mode de rencontre participatif, ancien mais a montré sa capacité a accueillir plus de 2000 participants. 
 
 Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%E2%80%93-at-barcamp%E2%80%A6/
 --->
@@ -162,14 +162,200 @@ Recette: http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_po
  
  --->
  ---
- 
+  ![bg original](batucada-participative.jpg)
  <!---
  
  Batucada participative: un format intéressant expérimenté lors des rencontres moustic 2011 a la fois expérience de coopération vécue (les participants doivent être à l'écoute d'eux mêmes, de leur groupe et de l'ensemble des particiicipants) et aussi brise glace qui aide a créer du lien et de la convivialité entre une centaine de participants qui pour la plupart ne se connaissait pas avant.
 
  Source image: Moustic 2011
+ 
+
  --->
  
+ 
+ 
+ ---
+
+![bg original](no-pants-day.jpg)
+
+
+ ---
+
+![bg original](burning-man.jpg)
+
+ ---
+
+![bg original](burning-man-2.jpg)
+
+ ---
+
+![bg original](museomix.png)
+
+
+ ---
+
+![bg original](gratiferia.jpg)
+
+ ---
+
+![bg original](park-ing-day.jpg)
+
+ ---
+
+![bg original](permablitz.jpg)
+
+ ---
+
+![bg original](disco-soupe.jpg)
+
+ ---
+
+![bg original](sunday-soup-cc.jpg)
+
+
+
+---
+
+Quelles sont les caractéristiques récurrentes ?
+
+- PARTICIPATIF: Plus participatifs et dynamiques que les rencontres professionnelles traditionnelles
+- OUVERTURE A PRIORI: basés sur des valeurs d'ouverture et de partage
+- CO-ORGANISATION:: il y a un transition de *organisés pour* vers *co-organisés avec* 
+- basés sur le volontariat, l'intéret, la passion individuelle
+- DIVERSITE: n'essayent pas de gommer les différences entres les individus et s'enrichissent de la diversité des participants
+- FUN: peu formels et les "fun" (l'amusement, le jeu) fait partie intégrante de l'évènement
+- COPIABLE: certains formats à succès se dupliquent spontanément et donnent naissance à des communautés globales. La recette est souvent mis à disposition pour favoriser cela
+
+
+---
+
+patterns evenement traditionnels
+
+DESCENDANT: une personn ou un groupe organise et mène la rencontre de manière descendante.
+
+OBLIGATION: il est obligatoire d'assister à la rencontre ou tout du moins mal vu de ne pas y participer
+
+CONTROLE A PRIORI: par défaut, ce qui n'est pas implicitement autorisé est interdit ou soumis à un controle.
+
+HOMOGENEITE: souvent il est iplicitement attendu que chacun soit comme les autres que ce soit au niveau de l'apparence ou 
+
+FORMEL: il es attendu des participants un certain formalisme, una attitude "professionnelle" ou le laisser-aller et les émotions personnelles ne sont pas souhaitables.
+
+INCOPIABLE: mis à part les réunions ou les conférences ou séminaire qui sont tellement standard qu'il n'y a pas de protection, les autres sont incopiables car protégés par un copyright ou l'absence d'indication pour les reproduire.
+
+ ---
+
+![bg original](ted-talk.jpg)
+
+
+ ---
+
+![bg original](map-parking-day-large.png)
+
+
+ ---
+ 
+# Enrichir notre vocabulaire du faire ensemble
+ 
+ C'est quoi la règle du jeu ?
+ 
+<!--- importance d'expliciter la règle du jeu (exemple ds réunions règle du jeu implicite: ça dure plutot autour d'une heure ou plus, ceux qui sont le plus extravertis monopolisent la parole, il n'y a généralement pas de role prédéfini à part parfois un animateur, on est généralement assis et autour d'une table, l'objectif est généralement aussi flou que les ingrédients. Tous ces éléments qui semblent naturels pourraient être requestionné et il n'y a aucun obligation de les avoir, pourtant la plupart des réunions fonctionnent de cette manière comme si c'était une règle obligatoire).
+
+--->
+ 
+ Football ou soccer ?
+ 
+ 
+ 
+ <!--- si je vous parle d'une réunion, vous me comprenez a peu près, si je vous parle d'une réunion ou le sparticipants sont assis en cercle ou seuls certains peuvent parler à certains moments prédéfinis, je devrai vous parler du format qui, ce qui prends un certain temps.
+ 
+ si je ne dispose pas d'un mot pour cet ensemble de règle, ce jeu, alors je devrai chaque fois trouver un moyen de désigner ce format en particulier.
+ 
+ Nommer avec un vocabulaire commun nous permettra alors de nous aligner plus facilement avec moins de bla bla.
+ 
+ 
+ de tels evenement sont nombreux, ils n'attendent qu'un vocabulaire commun pour se propsager et bientot il y aura des accents, et des argots puis des langues, mais au dela des chapelles existantes (agilité, educ pop, ...)
+ --->
+ 
+ ---
+ 
+ exemples evenements avec recette
+ 
+ disco soupe
+ alternatiba
+ incroyable comestibles
+ permablitz
+ 
+ ---
+ 
+ Le contexte influence les interactions de groupe
+ 
+ night club vs bureau
+ 
+ ---
+ 
+ # Le rôle des architectures
+ 
+ La même architecture est susceptible déclencher les mêmes résultats collectifs, peu importe les sujets, les défis, les places de marché et les acteurs qui sont en son centre. Une architetcure différente peut augmenter ou réduire la cpacité d'une communauté à faire face à ces sujets donnés, défis, places de marché, acteur. Les architectures influencent non seulement nos capacités, mais elles créent une nouvelle réalité (Noubel, J-F 2007)
+ 
+ # Capital culturel
+ - rendre visible
+ - rendre partageable
+
+des recettes pour documenter rendre visible et partageable
+des recettes libres pour être réutilisables
+
+---
+
+# vocabulaire commun pour se fédérer autour d'un objectif commun
+
+--- 
+# evenement = Zone Autonome Temporaire
+
+---
+# Evnement = bulle ou peut hacker ponctuellement la routine
+
+---
+
+# Reinventer nos façons de faire et vivre ensemble
+
+# Expérimentez, documentez, partagez !
+
+
+![bg original]() 
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
+ ---
+
+![bg original]()
+
  
  ---
  # Comment aller plus loin ? Identifier les ingrédients clés qui marchent ?
