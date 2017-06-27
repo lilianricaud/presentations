@@ -356,11 +356,25 @@ Ici le park(ing) day qui a connu un grand succès et synchronise sur une journé
  
  C'est quoi la règle du jeu ?
  
-<!--- importance d'expliciter la règle du jeu (exemple ds réunions règle du jeu implicite: ça dure plutot autour d'une heure ou plus, ceux qui sont le plus extravertis monopolisent la parole, il n'y a généralement pas de role prédéfini à part parfois un animateur, on est généralement assis et autour d'une table, l'objectif est généralement aussi flou que les ingrédients. Tous ces éléments qui semblent naturels pourraient être requestionné et il n'y a aucun obligation de les avoir, pourtant la plupart des réunions fonctionnent de cette manière comme si c'était une règle obligatoire).
+<!--- 
+importance d'expliciter la règle du jeu (exemple ds réunions règle du jeu implicite: ça dure plutot autour d'une heure ou plus, ceux qui sont le plus extravertis monopolisent la parole, il n'y a généralement pas de role prédéfini à part parfois un animateur, on est généralement assis et autour d'une table, l'objectif est généralement aussi flou que les ingrédients. Tous ces éléments qui semblent naturels pourraient être requestionné et il n'y a aucun obligation de les avoir, pourtant la plupart des réunions fonctionnent de cette manière comme si c'était une règle obligatoire).
 
 --->
  
  Football ou soccer ?
+ 
+ 
+ <!---
+ Un evenement peut être vu comme une sorte de jeu. Les règles commune régissent l’interaction et le fonctionnement du faire ensemble. C’est parce que chaque participant accepte qu’au football on ne peut pas toucher le ballon avec les mains (sauf exceptions très précises) que l’on peut jouer ensemble. 
+
+Ce cadre permet ensuite de s’amuser ensemble.
+
+Noter que formaliser avec des règles et un nom précis permet aussi d’avoir un vocabulaire commun. Ainsi quand je parle dis “vous voulez jouer au foot?” Tout le monde sait que je propose un jeu ou on ne peut pas toucher le ballon avec les mains. 
+
+Image: Street football à Caracas CC-BY Diego Cupolo https://en.wikipedia.org/wiki/Street_football#mediaviewer/File:Caracas_2010_Series.jpg
+--->
+ 
+ ---
  
  
  
@@ -390,6 +404,18 @@ Ici le park(ing) day qui a connu un grand succès et synchronise sur une journé
  night club vs bureau
  
  ---
+ ![bg original](bureau.jpg)
+ 
+ <!---
+ De même en réunion au bureau, on peut s’attendre à faire un travail sérieux, un brainstorm, prendre des décisions, mais bien qu’il soit aussi possible de s’amuser ou de flirter, ce n’est probablement pas le meilleur endroit.
+
+
+Image source: http://business.wikinut.com/img/yj_5c-dzbum7t2je/Office
+
+--->
+ 
+ 
+ ---
  
  # Le rôle des architectures
  
@@ -401,6 +427,23 @@ Ici le park(ing) day qui a connu un grand succès et synchronise sur une journé
 
 des recettes pour documenter rendre visible et partageable
 des recettes libres pour être réutilisables
+
+<!---
+
+Jean-François Noubel a écrit un article remarquable sur l’importance des architectures sur les rapports humains. Les architectures, au sens large, désignent les espaces structurés dans lesquels nous évoluons individuellement et collectivement.
+Ces espaces peuvent être facilement accessibles par nos sens (architecture des bâtiments, occupation de l’espace) ou perçues partiellement (langage, argent, convention sociales,…).
+Dans le premier cas on parle d’architectures visibles, dans le second cas d’architectures invisibles. Un même groupe se comportera différemment selon l’architecture dans lequel il évolue.
+Par exemple l’interaction au sein d’un groupe sera différente si tout le monde est assis en cercle ou bien si un audience est assise face à un speaker sur scène.
+Dans la configuration speaker-audience, le speaker (souvent sur scène, parfois avec micro) monopolise la parole, et même si le public peut participer, cette participation est très limitée, tandis que dans une table ronde l’interaction peut être beaucoup plus interactive.
+
+Texte original:
+
+The same architecture is likely to trigger the same collective outcomes no matter what topics, challenges, market places and players are in its center. A different architecture may empower or diminish the capability of a community to deal with these given topics, challenges, market places, players. Architectures not only influence our capabilities, but they create new reality (Noubel, J.F. 2007)
+
+Extrait de: http://www.thetransitioner.org/Architectures_and_HR_JFNoubel_v1.0.pdf
+
+
+--->
 
 ---
 
