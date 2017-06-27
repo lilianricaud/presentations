@@ -1,6 +1,15 @@
 # Les nouveaux évènements co-créatifs
 ## Du “DIY” (Do it Yourself) au “DIT” (Do it Together)
 
+
+
+---
+
+Cette présentation est mise à disposition sous licence CC-BY-SA (crédit Lilian Ricaud).
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+
+Note: cette présentation a été crée en markdown pour être plus facilement modifiable/réutilisable et vous pouvez la lire ou l'éditer sous forme de diaporama en téléchargeant le logiciel Marp.
+
 ---
 
 <!---
@@ -439,12 +448,7 @@ Image source: http://business.wikinut.com/img/yj_5c-dzbum7t2je/Office
  
  La même architecture est susceptible déclencher les mêmes résultats collectifs, peu importe les sujets, les défis, les places de marché et les acteurs qui sont en son centre. Une architetcure différente peut augmenter ou réduire la cpacité d'une communauté à faire face à ces sujets donnés, défis, places de marché, acteur. Les architectures influencent non seulement nos capacités, mais elles créent une nouvelle réalité (Noubel, J-F 2007)
  
- # Capital culturel
- - rendre visible
- - rendre partageable
 
-des recettes pour documenter rendre visible et partageable
-des recettes libres pour être réutilisables
 
 <!---
 
@@ -460,6 +464,29 @@ The same architecture is likely to trigger the same collective outcomes no matte
 
 Extrait de: http://www.thetransitioner.org/Architectures_and_HR_JFNoubel_v1.0.pdf
 
+
+--->
+
+--- 
+
+ # Capital culturel
+ - rendre visible
+ - rendre partageable
+
+---
+
+# des recettes pour documenter rendre visible et partageable
+
+
+---
+
+# des recettes “libres” pour être réutilisables
+
+
+<!---Connaissez vous le mot libre ? Libre signifie “libre de droit”, c’est a dire que n’importe qui peut réutiliser et remodifier librement les contenus, a seule condition de citer la source et de ne pas remettre un copyright sur les travaux dérivés. En ayant a disposition des recettes libres ont peut les partager, les améliorer, ...
+
+
+Les recettes améliorées peuvent elles mêmes être repartagés et ajoutés aux biens communs existants
 
 --->
 
