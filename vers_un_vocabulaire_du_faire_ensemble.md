@@ -178,39 +178,119 @@ Recette: http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_po
 
 ![bg original](no-pants-day.jpg)
 
+<!--- 
+
+No pants day: un happening artistique où des milliers de participants se rassemblent et se dispersent dans le métro new yorkais pour surprendre et faire sourire, sortir les gens de la routine. Lancé par le collectif Improv Everywhere (aussi inventeur des "Freeze parties"), ce format type flashmob a été copié dans plusieurs villes.
+
+--->
 
  ---
 
 ![bg original](burning-man.jpg)
 
+<!---
+
+Burning man: un festival où des milliers de participants (plus de 50 000 les dernières années)se rassemblent chaque année dans le desert du nevada pendant une semaine pour une expérience artistique et humaine hors norme. 
+
+Source image: http://elblogdegnomo.blogspot.fr/2010_09_01_archive.html
+
+--->
+
  ---
 
 ![bg original](burning-man-2.jpg)
 
+<!---
+
+Burning man: un festival où des milliers de participants (plus de 50 000 les dernières années)se rassemblent chaque année dans le desert du nevada pendant une semaine pour une expérience artistique et humaine hors norme. 
+
+
+
+Source image: http://blog.twoonix.com/2011/12/beim-nationalen-it-tag-darf-twoonix-nicht-fehlen/
+
+--->
+
  ---
 
 ![bg original](museomix.png)
+
+<!---
+
+Museomix un évènement ou des professionnelles et des amateurs se rassemblent en équipe plusieurs jours pour créer des prototypes d'exposition interactifs et innovants. Apparu récemment, ce format Inspiré du hackathon et de burning man a déja commencé a être dupliqué dans plusieurs villes française.
+
+ Source images: Museomix.com
+ 
+ --->
 
 
  ---
 
 ![bg original](gratiferia.jpg)
 
+<!---
+
+Une gratiferia est une sorte de brocante, mais entièrement basé sur le don. Contrairement au troc, il n’y a pas de notion d’échange et chacun est libre de prendre ce qu’il veut (tout en restant raisonable)
+ 
+Image source: http://laorquesta.mx/slp-organiza-su-primera-gratiferia/
+
+--->
+
  ---
 
 ![bg original](park-ing-day.jpg)
+
+<!---
+
+Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoyens ne pourraient pas eux aussi occuper l’espace public ? Park(ing) day est une journée de mobilisation festive pour s’approprier l’espace public et faire réfléchir à nos modes de vie, la place des citoyens, des voitures, en créant des parcs temporaires sur des places de parking (et en payant le parcmètre !)
+
+ Source image: ?
+ 
+ --->
 
  ---
 
 ![bg original](permablitz.jpg)
 
+<!---
+
+Permablitz: un evenement où un groupe d'étudiants conduits par un enseignant en permaculture se regroupe pour transformer un terrain en un jardin de manière très rapide ("blitz" = éclair). 
+
+Source image: http://www.permaculturedesign.fr/un-permablitz-en-haute-vienne/
+
+--->
+
  ---
 
 ![bg original](disco-soupe.jpg)
 
+<!---
+
+Disco soupe est un événement qui consiste a se rassembler pour récupérér des denrées destinées a être jetées et a cuisiner des plats a partager, le tout en musique d'où la "disco"-soupe. Notez comme le nom "fun" incite à la curiosité et à la découverte.
+
+ Source image: http://blogs.lexpress.fr/suv/2012/09/18/disco-soupe-le-repas-collaboratif-qui-fait-du-bien/
+
+
+--->
+
  ---
 
 ![bg original](sunday-soup-cc.jpg)
+
+<!---
+
+C'est un mélange de repas de quartier, de pitch de startups et de micro-financement participatif, le tout en mode auto-organisé.
+
+Le principe: un repas qui sert à récolter des fonds. Les participants payent 5$ pour "une soupe, une salade et une vote". Avant le repas ils assistent à 4 pitch de 4 min de projets sociaux innovants pour améliorer la ville de Detroit. Les participants au repas votent pour un projet, et le projet gagnant reçoit les fond récoltés pour faire avancer son projet, le repas servant aussi à réseauter, créer du lien et des collaborations entre les habitants.
+
+Comme souvent une recette pour partager le mode d'emploi:
+http://detroitsoup.com/startyourown/
+
+et un site global pour relier les communautés/événements:
+http://sundaysoup.org/
+
+Source image: 
+
+--->
 
 
 
@@ -225,6 +305,12 @@ Quelles sont les caractéristiques récurrentes ?
 - DIVERSITE: n'essayent pas de gommer les différences entres les individus et s'enrichissent de la diversité des participants
 - FUN: peu formels et les "fun" (l'amusement, le jeu) fait partie intégrante de l'évènement
 - COPIABLE: certains formats à succès se dupliquent spontanément et donnent naissance à des communautés globales. La recette est souvent mis à disposition pour favoriser cela
+
+<!---
+
+Ces formes de rencontres ont une grande diversité mais on retrouve des caractéristiques communes. 
+
+--->
 
 
 ---
@@ -247,11 +333,22 @@ INCOPIABLE: mis à part les réunions ou les conférences ou séminaire qui sont
 
 ![bg original](ted-talk.jpg)
 
+<!---
+
+Les formats à succès donnent naissance a des communautés de pratiques globales centrées autour de l'évènement et où des groupes organisent localement leur propres évènements de manière synchrone ou asynchrone. Ici TED, dont le format lui même est peu participatifs, mais dont la duplication et l’organisation par des groupes locaux permet une grande diversité d'évènements et de vidéos produites.
+
+--->
+
 
  ---
 
 ![bg original](map-parking-day-large.png)
 
+<!---
+
+Ici le park(ing) day qui a connu un grand succès et synchronise sur une journée des participants de très nombreux endroits autour d’une idée commune. (presque 1000 parcs temporaire en 2011!)
+
+--->
 
  ---
  
