@@ -7,9 +7,11 @@
 ---
 
 **Cette présentation est mise à disposition sous licence CC-BY-SA (crédit Lilian Ricaud).**
+
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
-**Note: cette présentation a été crée en markdown pour être plus facilement modifiable/réutilisable et vous pouvez la lire ou l'éditer sous forme de diaporama en téléchargeant le logiciel Marp.**
+**Note: cette présentation a été crée en markdown pour être plus facilement modifiable/réutilisable et vous pouvez la lire ou l'éditer sous forme de diaporama en téléchargeant le logiciel Marp. Ouvrez le fichier avec Marp ou un éditeur texte pour voir les notes du présentateur.**
+
 
 ---
 
