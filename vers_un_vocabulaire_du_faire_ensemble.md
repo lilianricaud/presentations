@@ -353,15 +353,23 @@ Ici le park(ing) day qui a connu un grand succès et synchronise sur une journé
  ---
  
 # Enrichir notre vocabulaire du faire ensemble
+
+---
+
+  ![bg original](football_soccer.jpg)
  
- C'est quoi la règle du jeu ?
+ # C'est quoi la règle du jeu ?
  
 <!--- 
 importance d'expliciter la règle du jeu (exemple ds réunions règle du jeu implicite: ça dure plutot autour d'une heure ou plus, ceux qui sont le plus extravertis monopolisent la parole, il n'y a généralement pas de role prédéfini à part parfois un animateur, on est généralement assis et autour d'une table, l'objectif est généralement aussi flou que les ingrédients. Tous ces éléments qui semblent naturels pourraient être requestionné et il n'y a aucun obligation de les avoir, pourtant la plupart des réunions fonctionnent de cette manière comme si c'était une règle obligatoire).
 
 --->
  
- Football ou soccer ?
+---
+
+  ![bg](football_soccer.jpg)
+ 
+ #  Football ou soccer ?
  
  
  <!---
@@ -402,6 +410,16 @@ Image: Street football à Caracas CC-BY Diego Cupolo https://en.wikipedia.org/wi
  Le contexte influence les interactions de groupe
  
  night club vs bureau
+ 
+ ---
+  ![bg original](nightclub.jpg)
+ 
+ 
+<!--- En boite de nuit, nous nous attendons à rencontrer des nouvelles personnes, nous amuser, flirter, mais s’il est possible de faire un brainstorm ou un travail sérieux, ce n’est probablement pas le meilleur endroit pour cela.
+
+Image source: http://www.stag-bratislava.com/activity-bratislava-guided-night-club-entrance
+
+--->
  
  ---
  ![bg original](bureau.jpg)
