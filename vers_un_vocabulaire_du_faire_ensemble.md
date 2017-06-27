@@ -1,5 +1,6 @@
 # Les nouveaux évènements co-créatifs
-## Du “DIY” (Do it Yourself) au “DIT” (Do it Together)
+
+## *vers un vocabulaire du faire ensemble*
 
 
 
