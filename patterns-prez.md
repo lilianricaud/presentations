@@ -172,7 +172,7 @@ Patterns = systèmes intégrant plusieurs forces (architectures, mais aussi soci
 ---
 
 # Patterns vs forme externe
-texte
+
 
 <!---
 Attention vu de l'extérieur, un élément donné peut avoir une apparence identique à un autre et pourtant il s'agit de deux patterns différents avec différentes forces.
