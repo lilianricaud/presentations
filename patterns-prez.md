@@ -172,7 +172,7 @@ Patterns = systèmes intégrant plusieurs forces (architectures, mais aussi soci
 ---
 
 # Patterns vs forme externe
-
+texte
 
 <!---
 Attention vu de l'extérieur, un élément donné peut avoir une apparence identique à un autre et pourtant il s'agit de deux patterns différents avec différentes forces.
@@ -300,9 +300,11 @@ Village généré par itérations successives vs lotissement assemblé pour donn
 ![](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-mur-vegetalise-avignon.jpg)
 Mur végétalisé à Avignon: "ordre" non naturel: assemblage artificiel de diverses espèces, conséquences: système non stable, pas d'auto-maintenance et grand cout énérgétique pour maintenir cette apparence d'ordre
 
+---
+
 # Structure générée: Ilot moussu
 
-![](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-Ilot_moussu-montpellier.jpg)
+![](pattern-Ilot_moussu-montpellier.jpg)
 Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square.
 
 La structure générée, le calcaire s'accumulle et donne des formes particulières, tandis que la vie trouve sa place en raison des conditions du lieu (brumisation constante, emplacements niche). Tant que les conditions restent similaires le système est très stable.
