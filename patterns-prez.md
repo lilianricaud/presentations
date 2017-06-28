@@ -1,4 +1,28 @@
+# Introduction aux Patterns
+
+
+---
+
+
+# Analogies
+
+
+---
+
+Quelles sont les caractéristiques récurrentes d'un système donné ?
+
+et pour les sous systèmes qui le compose ?
+
+Exercice: dans chacun des cas repérer les analogies:
+
+- maisons basques:
+- espadrilles
+
+---
+
 # Patterns
+
+Trame, schéma, patron, 
 
 ---
 
@@ -37,14 +61,24 @@ groove, tonalité, technique, progression d'accord, gamme, culture
 
 salsa: clave +
 
+---
+
 MUSIQUE PUNK: CHANT CRIE, SATURATION, POWER CHORDS, 3 ACCORDS, BASSE REPETITIVE, BATTERIE LOURDE ET SECHE, 4/4, SIMPLICITE, SOLOS BASIQUES, PAROLES CONFRONTATRICES, ATTITUDE NIHILISTE, CRITIQUE SOCIALE
+
+---
 
 MUSIQUE SALSA: CLAVE, RHYTMES RAPIDES, CUIVRE, SECTION PERCUSSION, ALIGNEMENT PERCUSSION-CLAVE, GUAJEO, BASSE TUMBAO, MONAS, APPEL ET REPONSE
 https://en.wikipedia.org/wiki/Salsa_music#Music_structure
 
+---
+
 MUSIQUE BLUES: GAMME PENTATONIQUE MINEURE, BASSE REPETITIVE, GUITARE MELODIQUE, APPEL ET REPONSE, 4/4
 
+---
+
 MUSIQUE FLAMENCO: GUITARE ACCOUSTIQUE, JEU AUX DOIGTS, CHANT INTENSE, PERCUSION CORPORELLE
+
+---
 
 MUSIQUE METAL: RYTHMES LOURDS, SON SATURE, LONG SOLOS, MUSIQUE TECHNIQUE
 
@@ -56,6 +90,7 @@ MUSIQUE METAL: RYTHMES LOURDS, SON SATURE, LONG SOLOS, MUSIQUE TECHNIQUE
 - sucré-salé
 - curry
 - herbes-fraiches
+- tomate-basilic
 
 ---
 
@@ -67,14 +102,27 @@ Fenetres, eglises, maisons
 
 ### Variations de Patterns 
 
+
+---
+
+
 MUR = contexte: besoin de se protéger des intempéries, bêtes sauvages, autres personnes, protections visuelle. Solution: enceinte protégée séparant intérieur et extérieur. Peux être faites en bois, bambous, paille, terre, pierre, brique...
+
+---
+
 
 PORTE: contexte: besoin de se protéger avec des MURS, mais nécessité de rentrer et sortir. Solution: dans l'enceinte ménager une ouverture qui peut être ouverte et fermée de façon dynamique via un panneau. (déclinaisons du pattern utilisant différents sous pattern: porte charnière, porte glissière, tissu, herse... l'usage de l'un ou l'autre de sous pattern est dicté par les besoins du contexte)
 
+---
+
+
 EGLISE: lieu inspirant le recueillement, la spiritualité, la connexion quelque chose de plus grand que soit, mais avec une fonction de lieu d'accueil de rituels. Espace amenagé ou on peut rentrer en (grand) groupe, possède tres généralement une élévation pour créer une connexion visuelle avec le ciel (CLOCHER; differents types de clocher: clocher murs toulousains, clochés tordus barran, cloches type minarets (ariège, clocher séparé de st-michel a bordeaux, double tours cathédrale auch).
 
+---
+
+
 GUITARE: MANCHE + CHEVALET + CORDES tendues sur manche entre sillon et chevalet.
-vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches) https://en.wikipedia.org/wiki/Acoustic_guitar
+variante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches) https://en.wikipedia.org/wiki/Acoustic_guitar
 
 ---
 
@@ -121,15 +169,62 @@ Patterns = systèmes intégrant plusieurs forces (architectures, mais aussi soci
 
 ---
 
-attention la forme externe peut sembler similaire, mais les forces en présence sont différentes:
+---
 
-TROTTOIR DE PASSAGE: dans les villes occidentales un troittoir sert de lieu de passage protégé des voitures pour les pietons
+# Patterns vs forme externe
 
-TROTOIR DE VIE: dans les villes du sud, un troittoir est un lieu de vie où l'on rencontre du monde, installe un marché, dort.
 
-La forme architecturale est similaire, mais le système social lié est tres different, il s'agit donc de deux patterns différents.
+<!---
+Attention vu de l'extérieur, un élément donné peut avoir une apparence identique à un autre et pourtant il s'agit de deux patterns différents avec différentes forces.
+
+La forme architecturale est similaire, mais le système social associé est très différent, il s'agit donc de deux patterns différents.
 
 Le processus qui conduit au pattern est clé, la forme externe n'est que la conséquence de l'interaction des forces. Un bon processus conduira a un pattern adapté.
+
+--->
+
+---
+
+# TROTTOIR DE PASSAGE
+
+<!--- dans les villes occidentales un troittoir sert de lieu de passage protégé des voitures pour les pietons
+
+--->
+---
+
+![bg original](sidewalk-us.jpg)
+
+---
+
+![bg original](sidewalk-us-2.jpg)
+
+---
+
+# TROTTOIR DE VIE
+
+<!---
+dans les villes du sud, un troittoir est un lieu de vie où l'on rencontre du monde, installe un marché, dort.
+--->
+
+---
+
+![bg original](sidewalk-india.jpg)
+
+---
+
+![bg original](sidewalk-india-2.jpg)
+
+---
+
+![bg original](sidewalk-india-3.jpg)
+
+---
+
+
+![bg original](sidewalk-india-4.jpg)
+
+---
+
 
 ---
 
@@ -182,14 +277,14 @@ http://permaculture-sans-frontieres.org/fr/pattern
 
 # Usage traditionnel des patterns
 
-Outil de lecture et de comprehensions du monde (interprétation, sens, meaning)
-Chants et culture orale: outils de décodage de patterns
+- Outil de lecture et de comprehensions du monde (interprétation, sens, meaning)
+- Chants et culture orale: outils de décodage de patterns
 - ile polynésiennes: chant pour lire les signe et retrouver son chemin 
 - Chants aborigènes = cartes du territoire
-- chant samoan pour assembler un canoé
+- chant samoan = séquence générative pour assembler un canoé
 - Eim, la lecture des signes
 - symboles
-- myhthes
+- mythes
 
 ---
 
