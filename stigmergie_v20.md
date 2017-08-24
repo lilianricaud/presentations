@@ -1,5 +1,47 @@
 # Trame prez stigmergie V2
 
+# Stigmergie, auto-organisation et collaboration à grande échelle
+
+## Co-construire 2017
+
+CC-BY-SA Lilian RICAUD
+
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+
+<!-- footer:stigmergie - CC-BY-SA Lilian RICAUD 
+
+
+Note: cette présentation a été rédigée en markdown en utilisant le  logiciel libre Marp et exportée en PDF dans le même dépot.
+
+Ceci permet de partager la présentation ainsi que le fichier source dans un format facile à cloner, partager et modifier.
+
+Le contenu lui même peut être lu en ligne via github et le fichier peut être exporté, lu et modifié en uilisant Marp.
+
+Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
+
+-->
+
+---
+
+![bg original](orchestre-chef.jpg)
+
+<!--- 
+
+## orchestre: les taches sont réparties préalablement, chacun joue sa partition sous la conduite d'un chef d'orchestre
+
+source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
+
+--->
+
+---
+![bg original](jazz-band-jam.jpg)
+
+<!--- 
+improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéfinie, mais sont en écoute les un des autres pour collaborer.
+
+--->
+
+
 ## les formes de collaborations
 
 ### Collaboration
