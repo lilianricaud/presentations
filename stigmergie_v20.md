@@ -31,6 +31,11 @@ Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
 
+Marche bien, mais devient difficile au fur et à mesre que la taille du groupe augmente avec une taille optimale au dessous de 25 personnes. Nécessite un chef, un guide au dela de ce point.
+
+on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règles du jeu communes à toustes).
+
+
 --->
 
 ---
@@ -38,6 +43,10 @@ source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_o
 
 <!--- 
 improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéfinie, mais sont en écoute les un des autres pour collaborer.
+
+intense et faisable seulement pour de tout petits groupes (2-7)
+
+on "joue" ensemble (sans règles du jeu)
 
 --->
 
