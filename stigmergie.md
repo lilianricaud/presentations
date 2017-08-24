@@ -44,7 +44,7 @@ improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéf
 # Inconvénients des modes d'organisation actuels:
 
 <!---
-collaboration a grande echelle necessite système de reprsentation.
+collaboration a grande echelle necessite système de représentation.
 
 résolution d'un problème -> création d'une entité nominale (comité, comission, organisation, entreprise, ong, agence gouvernementale)
 
