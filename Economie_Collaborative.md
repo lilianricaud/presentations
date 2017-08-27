@@ -5,7 +5,7 @@
 ### Licences et auteurs: 
 CC-BY-SA Lilian RICAUD - Céline LAPORTE
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
 ----
 
@@ -36,7 +36,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : transport
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aire_de_Covoiturage_Arvert-La_Tremblade.jpg/800px-Aire_de_Covoiturage_Arvert-La_Tremblade.jpg)
+![](images/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aire_de_Covoiturage_Arvert-La_Tremblade.jpg/800px-Aire_de_Covoiturage_Arvert-La_Tremblade.jpg)
 
 ----
 
@@ -48,7 +48,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : objets
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/tipkin-communs.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/tipkin-communs.jpg)
 
 ----
 
@@ -60,7 +60,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : production/distribution agricole
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/amap.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/amap.jpg)
 
 ----
 
@@ -72,7 +72,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : Commerce
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/la-louve-supermarche-coop.png)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/la-louve-supermarche-coop.png)
 
 ----
 
@@ -83,7 +83,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : lieu de travail
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/la-serre-coworking.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/la-serre-coworking.jpg)
 
 ----
 
@@ -93,7 +93,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : Outils comptables et juridiques
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/smartfr.png)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/smartfr.png)
 
 ----
 
@@ -104,7 +104,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : Energie
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/enercoop_tracabilite.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/enercoop_tracabilite.jpg)
 
 ----
 
@@ -115,7 +115,7 @@ Cette présentation introduits brievemement la notion d'économie collaborative 
 
 ## Des exemples : Fabrication numérique
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/fablab.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/fablab.jpg)
 
 ----
 
@@ -126,7 +126,7 @@ Source: ??
 
 ## Des exemples : Action collective
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/disco-soupe-2.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/disco-soupe-2.jpg)
 
 ----
 
@@ -138,7 +138,7 @@ Source: ??
 
 ## Des exemples : Savoirs
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/wikipedia-home.jpg)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/wikipedia-home.jpg)
 
 ----
 
@@ -149,7 +149,7 @@ Source: Wikipedia
 
 ## Des exemples : Financement participatif
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/crowdfunding-local-projets-loco.png)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2015/09/crowdfunding-local-projets-loco.png)
 
 ----
 
