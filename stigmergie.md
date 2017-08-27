@@ -7,7 +7,7 @@
 
 CC-BY-SA Lilian RICAUD
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
 <!-- footer:stigmergie - CC-BY-SA Lilian RICAUD -->
 
@@ -20,7 +20,7 @@ avantage ? inconvénients ?
 
 ---
 
-![bg original](orchestre-chef.jpg)
+![bg original](images/orchestre-chef.jpg)
 
 <!--- 
 
@@ -31,7 +31,7 @@ source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_o
 --->
 
 ---
-![bg original](jazz-band-jam.jpg)
+![bg original](images/jazz-band-jam.jpg)
 
 <!--- 
 improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéfinie, mais sont en écoute les un des autres pour collaborer.
@@ -97,7 +97,7 @@ Les systèmes coopératifs utilisent fréquemment le consensus ou le vote pour p
 
 
 ----
-![150%](systeme-hierarchique.png)
+![150%](images/systeme-hierarchique.png)
 
 ---
 
@@ -105,7 +105,7 @@ Les systèmes coopératifs utilisent fréquemment le consensus ou le vote pour p
 
 ----
 
-![150%](hierarchie-du-consensus.png)
+![150%](images/hierarchie-du-consensus.png)
 
 ---
 
@@ -142,7 +142,7 @@ Parce que le projet est conduit par un groupe, et même si c’est un groupe coo
 # Y a t-il une alternative ?
 ---
 
-![bg original](termitiere-exemple-stigmergie.jpg)
+![bg original](images/termitiere-exemple-stigmergie.jpg)
 
 
 ---
@@ -150,14 +150,14 @@ Parce que le projet est conduit par un groupe, et même si c’est un groupe coo
 # Un chef des termites ?
 
 
-![bg](termitiere-exemple-stigmergie.jpg)
+![bg](images/termitiere-exemple-stigmergie.jpg)
 
 ---
 
 # Un conseil des termites ?
 
 
-![bg](termitiere-exemple-stigmergie.jpg)
+![bg](images/termitiere-exemple-stigmergie.jpg)
 
 <!---
 When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
@@ -186,14 +186,14 @@ Wikipedia
 
 # Stigmergie chez les fourmis
 
-![bg](safari_ants.jpg)
+![bg](images/safari_ants.jpg)
 <!---Image:
 Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2179109
 --->
 
 ---
 
-![bg original](stigmergie-fourmis-choix-chemin.png)
+![bg original](images/stigmergie-fourmis-choix-chemin.png)
 
 <!---
 
@@ -211,7 +211,7 @@ https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis
 
 ---
 
-![bg original ](stigmergie-fourmiliere.png)
+![bg original ](images/stigmergie-fourmiliere.png)
 
 <!---
 La stigmergie produit des structures complexes
@@ -224,7 +224,7 @@ https://www.youtube.com/watch?v=lFg21x2sj-M
 
 --->
 ---
-![bg original ](stigmergie-fourmiliere-2.png)
+![bg original ](images/stigmergie-fourmiliere-2.png)
 
 <!---
 La stigmergie produit des structures complexes
@@ -272,7 +272,7 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
-![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
 
 ---
 
@@ -280,7 +280,7 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
-![bg original 100%](modele-gouvernance-stigmergie.png)
+![bg original 100%](images/modele-gouvernance-stigmergie.png)
 
 ---
 
@@ -444,7 +444,7 @@ autonomie des agents et équipes émergentes
 
 # Wikipédia comme système stigmergique
 
-![bg](wikipedia-home.jpg)
+![bg](images/wikipedia-home.jpg)
 
 ---
 
@@ -475,7 +475,7 @@ Principes fondateurs de Wikipedia
 
 ---
 
-![bg original 90%](wikipedia-ebauche.jpg)
+![bg original 90%](images/wikipedia-ebauche.jpg)
 
 <!--- 
 
@@ -489,7 +489,7 @@ Le bandeau signalant la qualité d’ébauche et encourageant la participation r
 
 ---
 
-![bg original 90%](wikipedia-lien-article-a-creer.jpg)
+![bg original 90%](images/wikipedia-lien-article-a-creer.jpg)
 
 <!---
 
@@ -503,16 +503,16 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ---
 
-![bg original 90%](wiki-modifier.jpg)
+![bg original 90%](images/wiki-modifier.jpg)
 
 ---
 
-![bg original 90%](wikipedia-discussion.jpg)
+![bg original 90%](images/wikipedia-discussion.jpg)
 
 
 ---
 
-![bg original 90%](wikipedia-n-hesitez-pas.png)
+![bg original 90%](images/wikipedia-n-hesitez-pas.png)
 
 ---
 
@@ -520,7 +520,7 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ---
 
-![bg original 100%](wikipedia-licence.png)
+![bg original 100%](images/wikipedia-licence.png)
 
 ---
 
@@ -552,7 +552,7 @@ Ceci peut aussi poser parfois problème au niveau de l’intégration des nouvea
 
 ---
 
-![bg original 90%](wikipedia-historique.jpg)
+![bg original 90%](images/wikipedia-historique.jpg)
 
 ---
 
@@ -560,7 +560,7 @@ Ceci peut aussi poser parfois problème au niveau de l’intégration des nouvea
 
 ---
 
-![bg original 90%](wikipedia-modification-recentes.jpg)
+![bg original 90%](images/wikipedia-modification-recentes.jpg)
 
 <!---
 
@@ -575,7 +575,7 @@ Le système d’historique qui enregistre et permet de comparer les différentes
 
 ---
 
-![bg original 90%](wikipedia-campagne-de-don.png)
+![bg original 90%](images/wikipedia-campagne-de-don.png)
 
 <!---
 Si certaines taches ne sont pas critiques pour l’encyclopédie (si un article est incomplet, cela ne nuit pas à l’avenir du projet), d’autres en revanche sont essentielles. Si les serveurs qui hébergent le projet tombent en panne ou que le nom de domaine n’est pas renouvelé, cela aura un grave impact sur le projet.
@@ -616,7 +616,7 @@ Notez cependant qu’il est courant qu’un même article rédigé dans différe
 
 ---
 
-![bg original](stigmergie-swarm-brid-flock.jpg)
+![bg original](images/stigmergie-swarm-brid-flock.jpg)
 
 <!---
 essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un super-organisme
@@ -624,7 +624,7 @@ essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un supe
 
 ---
 
-![bg original](stigmergie-traffic-routier.jpg)
+![bg original](images/stigmergie-traffic-routier.jpg)
 
 <!---
 traffic routier: 
@@ -632,7 +632,7 @@ traffic routier:
 
 --- 
 
-![bg original](stigmergie-cicatrice-rail-structure-auch.png)
+![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
 
 <!---
 agencement d'une ville
@@ -641,7 +641,7 @@ agencement d'une ville
 
 ---
 
-![bg original](Internet_map.jpg)
+![bg original](images/Internet_map.jpg)
 
 <!---
 Internet
@@ -652,7 +652,7 @@ Internet
 
 # Traduction stigmergique
 
-![bg](traduction-stigmergique-pad.png)
+![bg](images/traduction-stigmergique-pad.png)
 
 <!---
 L'article sur la stigmergie de heather Marsh a lui même été traduit de manière stigmergique, sans concertation particulière entre les participants et principalement via les traces laissées sur le pad:
@@ -664,7 +664,7 @@ http://pad.imaginationforpeople.org/p/stigmergy
 
 # Les communautés du libre
 
-![bg 80%](logiciels-libres-celebres.jpg)
+![bg 80%](images/logiciels-libres-celebres.jpg)
 
 <!---
 
