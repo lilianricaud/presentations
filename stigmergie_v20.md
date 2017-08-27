@@ -90,7 +90,6 @@ on "joue" ensemble (sans règles du jeu)
 
 ---
 
-
 ![](images/stigmergie_la_hierarchie_molle.jpg)
 
 ---
@@ -115,7 +114,197 @@ roulement de tambour ...
 ---
 
 
-## Stigmergie
+---
+
+![bg original](images/termitiere-exemple-stigmergie.jpg)
+
+
+---
+
+# Un chef des termites ?
+
+
+![bg](images/termitiere-exemple-stigmergie.jpg)
+
+---
+
+# Un conseil des termites ?
+
+
+![bg](images/termitiere-exemple-stigmergie.jpg)
+
+<!---
+When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
+https://en.wikipedia.org/wiki/Termite#Communication
+
+Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
+
+--->
+
+---
+
+# Stigmergie
+
+> grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action »
+
+---
+
+# stigmergie
+
+
+> La stigmergie est une méthode de communication indirecte dans un environnement émergent auto-organisé, où les individus communiquent entre eux en modifiant leur environnement.
+
+Wikipedia
+
+---
+
+# Stigmergie chez les fourmis
+
+![bg](images/safari_ants.jpg)
+<!---Image:
+Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2179109
+--->
+
+---
+
+![bg original](images/stigmergie-fourmis-choix-chemin.png)
+
+<!---
+
+Notes : 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
+
+Source: https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr
+
+Plus d'informations:
+
+Les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès.
+
+https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis
+
+--->
+
+---
+
+![bg original ](images/stigmergie-fourmiliere.png)
+
+<!---
+La stigmergie produit des structures complexes
+
+La vidéo ci-dessous montre une fourmilière déterrée par des chercheurs après avoir été remplie de béton pour figer sa structure. Le résultat est à couper le souffle.
+
+https://www.youtube.com/watch?v=lFg21x2sj-M
+
+
+
+--->
+---
+![bg original ](images/stigmergie-fourmiliere-2.png)
+
+<!---
+La stigmergie produit des structures complexes
+
+
+La structure couvre 50 mètres carrés, descend à 8 mètres de profondeur et lors de sa conception a nécessité le déplacement de 40 tonnes de terre.
+
+Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi la route la plus courte,  la structure comportant de véritables  « autoroutes » souterraines et des routes plus petites, connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
+
+On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
+
+--->
+
+---
+
+
+
+# la stigmergie c'est ...
+
+ 
+--- 
+##  un mécanisme de coordination indirecte
+
+--- 
+## un système auto-organisé
+
+---
+
+## une boucle: action -> trace -> action ...
+
+--- 
+
+## orienté sur l'action et le choix individuel 
+
+---
+
+## un mécanisme qui produit des structures complexes 
+
+sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
+
+---
+
+# La stigmergie pour les organisations humaines
+
+
+---
+
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
+
+---
+
+# Modèle stigmergique
+
+---
+
+![bg original 100%](images/modele-gouvernance-stigmergie.png)
+
+---
+
+# Modèle stigmergique
+## Ouverture / autorisation *a priori*
+
+--- 
+
+## liberté de créer sans prendre en compte acceptation ou rejet 
+
+--- 
+
+## liberté d'accepter ou de rejeter un travail, une tache
+
+--- 
+
+## liberté de créer une alternative
+
+---
+
+# Processus
+
+
+--- 
+## une idée est donnée librement
+
+--- 
+## le projet menée par l(idée, pas par la personnalité de(s) auteur(s)
+
+--- 
+## pas besoin de permission (modèle pyramide) ou consensus (modele coopératif) pour proposer une idée ou initier un projet
+
+--- 
+## une idée interessante attire des *efforts contributifs* pas des votes vides
+
+--- 
+## pas besoin de permission du groupe sur la facon de mener le projet ou le choix de la contribution
+
+<!---
+
+une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités. Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. Il n’y a pas besoin de discuter ou de voter une idée, si une idée est intéressante ou nécessaire, elle va susciter de l’intérêt. L’intérêt viendra de personnes activement impliquées dans le système et qui auront la volonté de fournir les efforts pour porter le projet plus loin. Cela ne viendra pas de votes vides de personnes qui n’ont qu’un tout petit peu d’intérêt ou d’implication dans le projet . Tant que le projet est soutenu ou rejeté sur la base d’efforts contributifs et non pas sur des votes vides, la contribution de personnes engagées dans l’idée aura plus de poids. La stigmergie met aussi les individus en situation de contrôler leur propre travail, ils n’ont pas besoin de la permission du groupe pour leur dire avec quelle méthode travailler ou à quelle partie contribuer.
+
+--->
+
+---
+
+
+---
+
+
 
 ### 
 
