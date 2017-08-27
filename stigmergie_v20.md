@@ -298,6 +298,21 @@ _connaissez vous d'autres exemples ?_
 
 ---
 
+![bg original 100%](images/heather_marsh_stigmergy.png)
+
+<!--- une très grande partie de ce travail a été inspiré par l'article "Stigmergy" écrit par Heather Marsh. Je n'insisterai jamais assez sur l'importance de lire cet article brillant.
+
+https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
+
+traductino française: http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/
+
+--->
+
+
+---
+
+
+
 
 ![bg original](images/stigmergie_projet_mene_par_idee.jpg)
 
@@ -319,6 +334,44 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 ---
 
 
+![bg original](images/Internet_map.jpg)
+
+<!---
+Internet
+--->
+
+
+---
+
+# Traduction stigmergique
+
+![bg](images/traduction-stigmergique-pad.png)
+
+<!---
+L'article sur la stigmergie de heather Marsh a lui même été traduit de manière stigmergique, sans concertation particulière entre les participants et principalement via les traces laissées sur le pad:
+http://pad.imaginationforpeople.org/p/stigmergy
+
+--->
+
+---
+
+# Les communautés du libre
+
+![bg 80%](images/logiciels-libres-celebres.jpg)
+
+<!---
+
+Les communautés du libre
+
+Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
+
+C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
+
+http://mark-elliott.net/blog/?page_id=24%20
+
+--->
+
+---
 
 ---
 
@@ -347,6 +400,7 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ---
 
+# Peut on promouvoir la stigmergie ?
 
 ---
 
@@ -358,30 +412,9 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ---
 
-# Objectif prépondérant
-
-> « Imaginez un monde dans lequel chaque être humain peut librement obtenir et partager des connaissances. Ceci est notre engagement. » – Vision de la Wikimedia foundation
-
-<!--- La vision de la Wikimédia foundation est un bel exemple d’objectif prépondérant --->
-
----
-
-# Règles simples
-
-Principes fondateurs de Wikipedia
-
-    Pertinence encyclopédique
-    Neutralité de point de vue,
-    Contenu libre
-    Savoir-vivre
-    Souplesse des règles
 
 
-<!--- Wikipédia possède quelques règles simples, mais essentielles qui régissent le projet et sa gouvernance --->
-
----
-
-# Laisser des traces/modifier l’environnement pour rendre visible l’action en cours
+# Un environnement avec des traces perceptibles
 
 ---
 
@@ -436,7 +469,7 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ---
 
-# Auto allocation des tâches
+# Auto-attribution des tâches
 
 <!---
 Sur Wikipédia,chacun est libre de se positionner sur à peu près n’importe quelle tache.
@@ -478,7 +511,6 @@ Le système d’historique qui enregistre et permet de comparer les différentes
 
 --->
 
-
 ---
 
 # Gestion des taches critiques / essentielles
@@ -497,6 +529,33 @@ L’objectif de la Wikimedia Foundation est de « promouvoir la croissance et le
 Elle ne possède aucun droit éditorial sur les contenus proposés sur le site de Wikipédia mais organise les campagnes de financement et redistribue les dons des utilisateurs pour faire tourner les taches critiques des projets (hébergement des différents projets Wikimedia multilingues, développements informatiques, actions de communication…).
 
 --->
+
+---
+
+# Règles simples
+
+Principes fondateurs de Wikipedia
+
+    Pertinence encyclopédique
+    Neutralité de point de vue,
+    Contenu libre
+    Savoir-vivre
+    Souplesse des règles
+
+
+<!--- Wikipédia possède quelques règles simples, mais essentielles qui régissent le projet et sa gouvernance --->
+
+
+---
+
+# Objectif prépondérant
+
+> « Imaginez un monde dans lequel chaque être humain peut librement obtenir et partager des connaissances. Ceci est notre engagement. » – Vision de la Wikimedia foundation
+
+<!--- La vision de la Wikimédia foundation est un bel exemple d’objectif prépondérant --->
+
+---
+
 
 ---
 
@@ -530,7 +589,116 @@ questions/réponses avec les retours du public
 
 ---
 
+# Open research 
 
+---
+
+![bg original](images/github-open-research.png)
+
+<!---
+using github as an open notebook and collaboration tool 
+
+--->
+
+---
+
+![bg original](images/open-patternpedia-daktary.png)
+
+<!---
+
+using Daktary as a github reader to show content in a user friendly web interface. You can see it as a CMS using github as an open database.
+
+--->
+
+
+---
+
+![bg original](images/open-research-stigmergy-markdown-prez.png)
+
+<!---
+
+Github as a stool for stigmergy
+
+
+When you work, leave an artifact somewhere where others can find it.
+
+Example of my work:
+
+leaving some traces on github, twitter, mastodon
+so that others can follow the trail, modify and fork easily
+
+example of this talk, pattern language, ...
+
+--->
+
+---
+
+# Stigmergy is ...
+
+*if you slept here is the TlDr*
+
+<!---
+(too long didn't read)
+--->
+
+--- 
+##  a mechanism of indirect coordination 
+
+--- 
+## a self-organized system
+
+---
+
+## a loop : action -> trace -> action -> ...
+
+--- 
+
+## a method of large-scale collaboration
+
+---
+
+## centered on individual choice and action 
+
+---
+
+## a mechanism producing complex structures 
+
+---
+
+## emerging when certain conditions are present
+
+---
+
+## a way to produce software, events, change the world...
+
+
+
+---
+
+
+## References / sources
+
+Stigmergy; Binding chaos (Heather Marsh 2012)
+https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
+
+Stigmergic self-organization and the improvisation of Ushahidi (Janet Marsden, 2013)
+
+Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Mark Elliot,2007)
+
+http://mark-elliott.net/blog/?page_id=24%20
+
+
+Self-organization in Communicating Groups: the emergence of coordination, shared references and collective
+intelligence (Francis Heylighen, 2008)
+
+---
+
+## More ...
+- http://lilianricaud.com/
+- http://github.com/lilianricaud
+- lilious@framapiaf.org (#JoinMastodon !)
+
+---
 
 ---
 
@@ -563,44 +731,6 @@ la construction d'une ville au niveau global se fait (faisait) en grande partie 
 
 ---
 
-![bg original](images/Internet_map.jpg)
-
-<!---
-Internet
---->
-
-
----
-
-# Traduction stigmergique
-
-![bg](images/traduction-stigmergique-pad.png)
-
-<!---
-L'article sur la stigmergie de heather Marsh a lui même été traduit de manière stigmergique, sans concertation particulière entre les participants et principalement via les traces laissées sur le pad:
-http://pad.imaginationforpeople.org/p/stigmergy
-
---->
-
----
-
-# Les communautés du libre
-
-![bg 80%](images/logiciels-libres-celebres.jpg)
-
-<!---
-
-Les communautés du libre
-
-Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
-
-C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
-
-http://mark-elliott.net/blog/?page_id=24%20
-
---->
-
----
 
 # Valve, entreprise sans manager
 
