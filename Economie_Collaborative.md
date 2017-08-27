@@ -5,7 +5,7 @@
 ### Licences et auteurs: 
 CC-BY-SA Lilian RICAUD - Céline LAPORTE
 
-![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
 ----
 
