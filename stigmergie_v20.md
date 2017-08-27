@@ -4,7 +4,7 @@
 
 CC-BY-SA Lilian RICAUD
 
-![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
 <!-- footer:stigmergie - CC-BY-SA Lilian RICAUD 
 
