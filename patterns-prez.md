@@ -134,7 +134,7 @@ BICYCLETTE = DRAISIENNE + PEDALIER
 
 ---
 
-![[bg original]](Bicycle_evolution-fr.svg.png)
+![[bg original]](images/Bicycle_evolution-fr.svg.png)
 
 ---
 
@@ -192,11 +192,11 @@ Le processus qui conduit au pattern est clé, la forme externe n'est que la cons
 --->
 ---
 
-![bg original](sidewalk-us.jpg)
+![bg original](images/sidewalk-us.jpg)
 
 ---
 
-![bg original](sidewalk-us-2.jpg)
+![bg original](images/sidewalk-us-2.jpg)
 
 ---
 
@@ -208,20 +208,20 @@ dans les villes du sud, un troittoir est un lieu de vie où l'on rencontre du mo
 
 ---
 
-![bg original](sidewalk-india.jpg)
+![bg original](images/sidewalk-india.jpg)
 
 ---
 
-![bg original](sidewalk-india-2.jpg)
+![bg original](images/sidewalk-india-2.jpg)
 
 ---
 
-![bg original](sidewalk-india-3.jpg)
+![bg original](images/sidewalk-india-3.jpg)
 
 ---
 
 
-![bg original](sidewalk-india-4.jpg)
+![bg original](images/sidewalk-india-4.jpg)
 
 ---
 
@@ -304,7 +304,7 @@ Mur végétalisé à Avignon: "ordre" non naturel: assemblage artificiel de dive
 
 # Structure générée: Ilot moussu
 
-![](pattern-Ilot_moussu-montpellier.jpg)
+![](images/pattern-Ilot_moussu-montpellier.jpg)
 Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square.
 
 La structure générée, le calcaire s'accumulle et donne des formes particulières, tandis que la vie trouve sa place en raison des conditions du lieu (brumisation constante, emplacements niche). Tant que les conditions restent similaires le système est très stable.
