@@ -4,7 +4,7 @@
 
 CC-BY-SA Lilian RICAUD
 
-![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+![](images/http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
 <!-- footer:stigmergie - CC-BY-SA Lilian RICAUD 
 
@@ -22,16 +22,16 @@ Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 ---
 
-![](stigmergie_les_extravertis.jpg)
+![](images/stigmergie_les_extravertis.jpg)
 
 ---
 
 
-![](stigmergie_les_yakafokon.jpg)
+![](images/stigmergie_les_yakafokon.jpg)
 
 ---
 
-![bg original](orchestre-chef.jpg)
+![bg original](images/orchestre-chef.jpg)
 
 <!--- 
 
@@ -47,7 +47,7 @@ on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règle
 --->
 
 ---
-![bg original](jazz-band-jam.jpg)
+![bg original](images/jazz-band-jam.jpg)
 
 <!--- 
 improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéfinie, mais sont en écoute les un des autres pour collaborer.
@@ -86,7 +86,7 @@ on "joue" ensemble (sans règles du jeu)
 
 ---
 
-![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
 
 ---
 
@@ -100,7 +100,7 @@ _connaissez vous des exemples ?_
 
 # Wikipédia comme système stigmergique
 
-![bg](wikipedia-home.jpg)
+![bg](images/wikipedia-home.jpg)
 
 ---
 
@@ -131,7 +131,7 @@ Principes fondateurs de Wikipedia
 
 ---
 
-![bg original 90%](wikipedia-ebauche.jpg)
+![bg original 90%](images/wikipedia-ebauche.jpg)
 
 <!--- 
 
@@ -145,7 +145,7 @@ Le bandeau signalant la qualité d’ébauche et encourageant la participation r
 
 ---
 
-![bg original 90%](wikipedia-lien-article-a-creer.jpg)
+![bg original 90%](images/wikipedia-lien-article-a-creer.jpg)
 
 <!---
 
@@ -159,16 +159,16 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ---
 
-![bg original 90%](wiki-modifier.jpg)
+![bg original 90%](images/wiki-modifier.jpg)
 
 ---
 
-![bg original 90%](wikipedia-discussion.jpg)
+![bg original 90%](images/wikipedia-discussion.jpg)
 
 
 ---
 
-![bg original 90%](wikipedia-n-hesitez-pas.png)
+![bg original 90%](images/wikipedia-n-hesitez-pas.png)
 
 ---
 
@@ -176,7 +176,7 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ---
 
-![bg original 100%](wikipedia-licence.png)
+![bg original 100%](images/wikipedia-licence.png)
 
 ---
 
@@ -208,7 +208,7 @@ Ceci peut aussi poser parfois problème au niveau de l’intégration des nouvea
 
 ---
 
-![bg original 90%](wikipedia-historique.jpg)
+![bg original 90%](images/wikipedia-historique.jpg)
 
 ---
 
@@ -216,7 +216,7 @@ Ceci peut aussi poser parfois problème au niveau de l’intégration des nouvea
 
 ---
 
-![bg original 90%](wikipedia-modification-recentes.jpg)
+![bg original 90%](images/wikipedia-modification-recentes.jpg)
 
 <!---
 
@@ -231,7 +231,7 @@ Le système d’historique qui enregistre et permet de comparer les différentes
 
 ---
 
-![bg original 90%](wikipedia-campagne-de-don.png)
+![bg original 90%](images/wikipedia-campagne-de-don.png)
 
 <!---
 Si certaines taches ne sont pas critiques pour l’encyclopédie (si un article est incomplet, cela ne nuit pas à l’avenir du projet), d’autres en revanche sont essentielles. Si les serveurs qui hébergent le projet tombent en panne ou que le nom de domaine n’est pas renouvelé, cela aura un grave impact sur le projet.
@@ -284,7 +284,7 @@ questions/réponses avec les retours du public
 
 ---
 
-![bg original](stigmergie-swarm-brid-flock.jpg)
+![bg original](images/stigmergie-swarm-brid-flock.jpg)
 
 <!---
 essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un super-organisme
@@ -292,7 +292,7 @@ essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un supe
 
 ---
 
-![bg original](stigmergie-traffic-routier.jpg)
+![bg original](images/stigmergie-traffic-routier.jpg)
 
 <!---
 traffic routier: 
@@ -300,7 +300,7 @@ traffic routier:
 
 --- 
 
-![bg original](stigmergie-cicatrice-rail-structure-auch.png)
+![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
 
 <!---
 agencement d'une ville
@@ -309,7 +309,7 @@ agencement d'une ville
 
 ---
 
-![bg original](Internet_map.jpg)
+![bg original](images/Internet_map.jpg)
 
 <!---
 Internet
@@ -320,7 +320,7 @@ Internet
 
 # Traduction stigmergique
 
-![bg](traduction-stigmergique-pad.png)
+![bg](images/traduction-stigmergique-pad.png)
 
 <!---
 L'article sur la stigmergie de heather Marsh a lui même été traduit de manière stigmergique, sans concertation particulière entre les participants et principalement via les traces laissées sur le pad:
@@ -332,7 +332,7 @@ http://pad.imaginationforpeople.org/p/stigmergy
 
 # Les communautés du libre
 
-![bg 80%](logiciels-libres-celebres.jpg)
+![bg 80%](images/logiciels-libres-celebres.jpg)
 
 <!---
 
