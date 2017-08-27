@@ -20,15 +20,49 @@ Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 -->
 
 
----
-
-![](images/stigmergie_les_extravertis.jpg)
+[](images/stigmergie_la_concurrence.jpg)
 
 ---
 
+[](images/stigmergie_la_hierarchie_molle.jpg)
 
-![](images/stigmergie_les_yakafokon.jpg)
+---
 
+[](images/stigmergie_la_propriete_intellectuelle.jpg)
+
+---
+
+[](images/stigmergie_la_schizophrenie.jpg)
+
+---
+
+[](images/stigmergie_le_consensus_mou.jpg)
+
+---
+
+[](images/stigmergie_le_demarrage.jpg)
+
+---
+
+[](images/stigmergie_le_pouvoir_d_agir.jpg)
+
+---
+
+[](images/stigmergie_les_problemes.jpg)
+
+---
+
+[](images/stigmergie_les_tueurs_idees.jpg)
+
+---
+
+[](images/stigmergie_le_chef.jpg)
+
+---
+
+[](images/stigmergie_projet_mene_par_idee.jpg)
+
+---
 ---
 
 ![bg original](images/orchestre-chef.jpg)
