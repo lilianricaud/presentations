@@ -13,57 +13,13 @@ Note: cette présentation a été rédigée en markdown en utilisant le  logicie
 
 Ceci permet de partager la présentation ainsi que le fichier source dans un format facile à cloner, partager et modifier.
 
-Le contenu lui même peut être lu en ligne via github et le fichier peut être exporté, lu et modifié en uilisant Marp.
+Le contenu lui même peut être lu en ligne via github et le fichier peut être exporté, lu et modifié en utilisant Marp.
 
 Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 -->
-
-
-[](images/stigmergie_la_concurrence.jpg)
-
 ---
 
-[](images/stigmergie_la_hierarchie_molle.jpg)
-
----
-
-[](images/stigmergie_la_propriete_intellectuelle.jpg)
-
----
-
-[](images/stigmergie_la_schizophrenie.jpg)
-
----
-
-[](images/stigmergie_le_consensus_mou.jpg)
-
----
-
-[](images/stigmergie_le_demarrage.jpg)
-
----
-
-[](images/stigmergie_le_pouvoir_d_agir.jpg)
-
----
-
-[](images/stigmergie_les_problemes.jpg)
-
----
-
-[](images/stigmergie_les_tueurs_idees.jpg)
-
----
-
-[](images/stigmergie_le_chef.jpg)
-
----
-
-[](images/stigmergie_projet_mene_par_idee.jpg)
-
----
----
 
 ![bg original](images/orchestre-chef.jpg)
 
@@ -91,7 +47,7 @@ intense et faisable seulement pour de tout petits groupes (2-7)
 on "joue" ensemble (sans règles du jeu)
 
 --->
-
+---
 
 ## les formes de collaborations
 
@@ -109,6 +65,50 @@ on "joue" ensemble (sans règles du jeu)
 
 ### Inconvénients
 
+---
+
+![](images/stigmergie_la_schizophrenie.jpg)
+
+---
+
+![](images/stigmergie_la_concurrence.jpg)
+
+---
+
+
+![](images/stigmergie_le_chef.jpg)
+
+---
+
+![](images/stigmergie_la_propriete_intellectuelle.jpg)
+
+---
+
+
+
+![](images/stigmergie_le_consensus_mou.jpg)
+
+---
+
+
+![](images/stigmergie_la_hierarchie_molle.jpg)
+
+---
+
+![](images/stigmergie_le_pouvoir_d_agir.jpg)
+
+---
+
+![](images/stigmergie_les_problemes.jpg)
+
+---
+
+![](images/stigmergie_les_tueurs_idees.jpg)
+
+---
+
+
+
 
 
 ## Stigmergie
@@ -124,12 +124,20 @@ on "joue" ensemble (sans règles du jeu)
 
 ---
 
-## Pause discussion public
+## Pause discussion 
 
 _connaissez vous des exemples ?_
 
+<!--- discussion dans la salle --->
 
+---
 
+![](images/stigmergie_le_demarrage.jpg)
+
+---
+![bg original](images/stigmergie_projet_mene_par_idee.jpg)
+
+---
 
 
 # Wikipédia comme système stigmergique
