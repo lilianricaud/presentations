@@ -107,8 +107,12 @@ on "joue" ensemble (sans règles du jeu)
 
 ---
 
+# une autre option ?
+roulement de tambour ...
 
+<!--- visuel roulement de tambour--->
 
+---
 
 
 ## Stigmergie
