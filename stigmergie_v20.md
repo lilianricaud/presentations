@@ -250,6 +250,23 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
+## Pause discussion 
+
+_connaissez vous des exemples ?_
+
+<!--- discussion dans la salle --->
+
+---
+
+![](images/stigmergie_le_demarrage.jpg)
+
+---
+![bg original](images/stigmergie_projet_mene_par_idee.jpg)
+
+---
+
+---
+
 # Modèle stigmergique
 
 ---
@@ -304,33 +321,6 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ---
 
-
-
-### 
-
-# La stigmergie pour les organisations humaines
-
-
----
-
-![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
-
----
-
-## Pause discussion 
-
-_connaissez vous des exemples ?_
-
-<!--- discussion dans la salle --->
-
----
-
-![](images/stigmergie_le_demarrage.jpg)
-
----
-![bg original](images/stigmergie_projet_mene_par_idee.jpg)
-
----
 
 
 # Wikipédia comme système stigmergique
