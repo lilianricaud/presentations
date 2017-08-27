@@ -1,5 +1,3 @@
-# Trame prez stigmergie V2
-
 # Stigmergie, auto-organisation et collaboration à grande échelle
 
 ## Co-construire 2017
@@ -20,6 +18,11 @@ Le contenu lui même peut être lu en ligne via github et le fichier peut être 
 Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 -->
+
+
+---
+
+![bg original](stigmergie_les_extravertis.jpg)
 
 ---
 
