@@ -47,21 +47,27 @@ intense et faisable seulement pour de tout petits groupes (2-7)
 on "joue" ensemble (sans règles du jeu)
 
 --->
+
+
 ---
 
-## les formes de collaborations
+![bg original](images/command-and-control.jpeg)
 
-### Collaboration
+<!---
+# Command and control
 
-### Coopération
+Pour de très larges groupes, avoir un leader et une chaine de commandement devient essentiel.
 
-### Intelligence collective originelle
+Cela marche bien pour de très large groupe, mais cela uniformise les individus. 
 
-### Intelligence collective pyramidale
+cela n'est plus vraiment un jeu et les individus ont tendance à être traités comme des machines.
 
-### Intelligence collective essaim
+--->
 
-### intelligence collective holomidale
+
+
+---
+
 
 ### Inconvénients
 
@@ -83,8 +89,6 @@ on "joue" ensemble (sans règles du jeu)
 ![](images/stigmergie_la_propriete_intellectuelle.jpg)
 
 ---
-
-
 
 ![](images/stigmergie_le_consensus_mou.jpg)
 
@@ -114,6 +118,28 @@ on "joue" ensemble (sans règles du jeu)
 
 
 ---
+
+---
+
+# Hierarchie pyramidale et modèles competitifs
+
+
+----
+![150%](images/systeme-hierarchique.png)
+
+---
+
+# Hierarchie de consensus et modèles coopératifs
+
+----
+
+![150%](images/hierarchie-du-consensus.png)
+
+---
+
+# Hierarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
+
+![bg](images/forbidden-symbol.png)
 
 # une autre option ?
 roulement de tambour ...
@@ -250,7 +276,7 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ---
 
-# La stigmergie pour les organisations humaines
+# La stigmergie existe aussi chez les humains
 
 
 ---
@@ -261,13 +287,16 @@ sans avoir besoin de plan, de contrôle ou même de communication directe entre 
 
 ## Pause discussion 
 
-_connaissez vous des exemples ?_
+_connaissez vous d'autres exemples ?_
 
 <!--- discussion dans la salle --->
 
 
 ---
 
+# La stigmergie pour les organisations humaines
+
+---
 
 
 ![bg original](images/stigmergie_projet_mene_par_idee.jpg)
