@@ -22,7 +22,12 @@ Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 ---
 
-![bg original](stigmergie_les_extravertis.jpg)
+![](stigmergie_les_extravertis.jpg)
+
+---
+
+
+![](stigmergie_les_yakafokon.jpg)
 
 ---
 
