@@ -27,7 +27,7 @@ This allows me to share my work without adding extra work for myself.
 
 --- 
 
-![bg original](jazz-band-jam.jpg)
+![bg original](images/jazz-band-jam.jpg)
 
 <!--- 
 ## Collaboration: jazz band improvising
@@ -44,7 +44,7 @@ This is more like playing
 ---
 
 
-![bg original](orchestre-chef.jpg)
+![bg original](images/orchestre-chef.jpg)
 
 <!--- 
 
@@ -64,7 +64,7 @@ This is more like playing a game (with common game rules)
 
 ---
 
-![bg original](command-and-control.jpeg)
+![bg original](images/command-and-control.jpeg)
 
 <!---
 # Command and control
@@ -83,7 +83,7 @@ This is not really a game anymore and individuals tend to be treated like machin
 
 
 ----
-![150%](systeme-hierarchique.png)
+![150%](images/systeme-hierarchique.png)
 
 ---
 
@@ -91,13 +91,13 @@ This is not really a game anymore and individuals tend to be treated like machin
 
 ----
 
-![150%](hierarchie-du-consensus.png)
+![150%](images/hierarchie-du-consensus.png)
 
 ---
 
 # Pyramidal and consensus based hierarchy are models of *a priori* control
 
-![bg](forbidden-symbol.png)
+![bg](images/forbidden-symbol.png)
 
 <!--- 
 
@@ -135,7 +135,7 @@ by default nothing is allowed or visible, there is a need for an authorization o
 
 ---
 
-![bg original](termitiere-exemple-stigmergie.jpg)
+![bg original](images/termitiere-exemple-stigmergie.jpg)
 
 
 ---
@@ -143,21 +143,21 @@ by default nothing is allowed or visible, there is a need for an authorization o
 # Termite leaders ?
 
 
-![bg](termitiere-exemple-stigmergie.jpg)
+![bg](images/termitiere-exemple-stigmergie.jpg)
 
 ---
 
 # Termite counsel ?
 
 
-![bg](termitiere-exemple-stigmergie.jpg)
+![bg](images/termitiere-exemple-stigmergie.jpg)
 
 ---
 
 # Self-organization !
 
 
-![bg](termitiere-exemple-stigmergie.jpg)
+![bg](images/termitiere-exemple-stigmergie.jpg)
 
 <!---
 When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
@@ -192,14 +192,14 @@ https://en.wikipedia.org/wiki/Stigmergy
 
 # Stigmergy in ant societies
 
-![bg](safari_ants.jpg)
+![bg](images/safari_ants.jpg)
 <!---Image:
 Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2179109
 --->
 
 ---
 
-![bg original](stigmergie-fourmis-choix-chemin.png)
+![bg original](images/stigmergie-fourmis-choix-chemin.png)
 
 <!---
 
@@ -225,7 +225,7 @@ Over time it dissipates away leaving no trace
 
 ---
 
-![bg original ](stigmergie-fourmiliere.png)
+![bg original ](images/stigmergie-fourmiliere.png)
 
 <!---
 Stigmergy produce complex structures
@@ -239,7 +239,7 @@ https://www.youtube.com/watch?v=lFg21x2sj-M
 
 --->
 ---
-![bg original ](stigmergie-fourmiliere-2.png)
+![bg original ](images/stigmergie-fourmiliere-2.png)
 
 <!---
 Stigmergy produce complex structures
@@ -263,7 +263,7 @@ It looks like the structure has been built by some mad genius, but everything ha
 ---
 
 
-![bg original 100%](desire-path-cc-by-sa-opensourceway.jpg)
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
 
 <!---
 
@@ -280,7 +280,7 @@ https://en.wikipedia.org/wiki/Desire_path
 
 ---
 
-![bg original 100%](heather_marsh_stigmergy.png)
+![bg original 100%](images/heather_marsh_stigmergy.png)
 
 <!--- a lot of this work was inspired by Heather Marsh article "Stigmergy" I cannot emphasize enough how much you must read it.
 
@@ -290,7 +290,7 @@ https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
 
 ---
 
-![bg original 100%](modele-gouvernance-stigmergie.png)
+![bg original 100%](images/modele-gouvernance-stigmergie.png)
 
 <!---
 In the Stigmergy chart, all workers have full autonomy to create as they wish; the power of the user group is in the ability to accept or reject the work. Since there is no officially designated person to perform a task the users are free to create alternatives if they do not like what they are offered. Workers are free to create regardless of acceptance or rejection; in the chart below some work may be accepted by the largest group, some alternatives for a different user group, some only by a small group, and sometimes the worker will be alone with their vision. In all cases the worker is still free to create as they wish.
@@ -398,7 +398,7 @@ splintering; as communication is easier and there is more autonomy in smaller gr
 
 
 
-![bg original](Internet_map.jpg)
+![bg original](images/Internet_map.jpg)
 
 <!---
 The structure of the Internet. Although part of its infrastructure were planned, most of it grew organically without any central planning.
@@ -410,7 +410,7 @@ The structure of the Internet. Although part of its infrastructure were planned,
 
 
 
-![bg original 80%](logiciels-libres-celebres.jpg)
+![bg original 80%](images/logiciels-libres-celebres.jpg)
 
 <!---
 # Free software communities 
@@ -434,7 +434,7 @@ Linux, WordPress, Firefox … free software projects have now become mainstream.
 
 # Wikipedia as a stigmergic system 
 
-![bg](wikipedia-home.jpg)
+![bg](images/wikipedia-home.jpg)
 
 <!---
 To understand better how stigmergy can be used for growing projects, I have looked at Wikipedia trying to understand it as a stigmergic system (indirect coordination via traces left in the environment) From these observations, I've identified several key principles 
@@ -454,7 +454,7 @@ Modify the environment / leave some traces to make actions visible
 
 ---
 
-![bg original 90%](wikipedia-ebauche.jpg)
+![bg original 90%](images/wikipedia-ebauche.jpg)
 
 <!--- 
 
@@ -466,7 +466,7 @@ The size of an article is a first signal to encourage others to improve the arti
 
 ---
 
-![bg original 90%](wikipedia-lien-article-a-creer.jpg)
+![bg original 90%](images/wikipedia-lien-article-a-creer.jpg)
 
 <!---
 
@@ -481,16 +481,16 @@ a red link signals that the linked page  doesn't exist yet. The link was placed 
 
 ---
 
-![bg original 90%](wiki-modifier.jpg)
+![bg original 90%](images/wiki-modifier.jpg)
 
 ---
 
-![bg original 90%](wikipedia-discussion.jpg)
+![bg original 90%](images/wikipedia-discussion.jpg)
 
 
 ---
 
-![bg original 90%](wikipedia_be_bold.png)
+![bg original 90%](images/wikipedia_be_bold.png)
 
 ---
 
@@ -498,7 +498,7 @@ a red link signals that the linked page  doesn't exist yet. The link was placed 
 
 ---
 
-![bg original 100%](wikipedia-licence.png)
+![bg original 100%](images/wikipedia-licence.png)
 
 
 ---
@@ -528,7 +528,7 @@ This can also be a problem to integrate newcomers, other cultural groups, or exp
 
 ---
 
-![bg original 90%](wikipedia-historique.jpg)
+![bg original 90%](images/wikipedia-historique.jpg)
 
 ---
 
@@ -536,7 +536,7 @@ This can also be a problem to integrate newcomers, other cultural groups, or exp
 
 ---
 
-![bg original 90%](wikipedia-modification-recentes.jpg)
+![bg original 90%](images/wikipedia-modification-recentes.jpg)
 
 <!---
 
@@ -552,7 +552,7 @@ Recent changes and History systems records the differents versions and allow pag
 
 ---
 
-![bg original 90%](wikipedia-campagne-de-don.png)
+![bg original 90%](images/wikipedia-campagne-de-don.png)
 
 <!---
 
@@ -623,7 +623,7 @@ However there is often a difference in one article written in different language
 
 ---
 
-![bg original](github-open-research.png)
+![bg original](images/github-open-research.png)
 
 <!---
 using github as an open notebook and collaboration tool 
@@ -632,7 +632,7 @@ using github as an open notebook and collaboration tool
 
 ---
 
-![bg original](open-patternpedia-daktary.png)
+![bg original](images/open-patternpedia-daktary.png)
 
 <!---
 
@@ -643,7 +643,7 @@ using Daktary as a github reader to show content in a user friendly web interfac
 
 ---
 
-![bg original](open-research-stigmergy-markdown-prez.png)
+![bg original](images/open-research-stigmergy-markdown-prez.png)
 
 <!---
 
@@ -819,7 +819,7 @@ Open space seems to have several stigmergic principles:
 
 # UT7 ?
 
-![bg original](traduction-stigmergique-pad.png)
+![bg original](images/traduction-stigmergique-pad.png)
 
 
 <!---
@@ -833,7 +833,7 @@ http://pad.imaginationforpeople.org/p/stigmergy
 
 ---
 
-![bg original](stigmergie-swarm-brid-flock.jpg)
+![bg original](images/stigmergie-swarm-brid-flock.jpg)
 
 
 <!---
@@ -852,7 +852,7 @@ From David Halles: www.davidhales.com
 ---
 
 
-![bg original](stigmergie-traffic-routier.jpg)
+![bg original](images/stigmergie-traffic-routier.jpg)
 
 <!---
 road traffic: 
@@ -861,7 +861,7 @@ road traffic:
 ---
 
 
-![bg original](cairn-stigmergie.jpg)
+![bg original](images/cairn-stigmergie.jpg)
 
 <!---
 
@@ -874,7 +874,7 @@ https://en.wikipedia.org/wiki/Cairn
 
 ---
 
-![bg original](stigmergie-cicatrice-rail-structure-auch.png)
+![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
 
 <!---
 position of building and other landscape features acts as a trace for future building acts. Here one can see the remaining space left after the railway track was removed. building and property have adapted and although the track is not there anymore there is a remaining scar through the neighbourhood.
@@ -885,7 +885,7 @@ position of building and other landscape features acts as a trace for future bui
 
 ---
 
-![bg original](ushahidi-map.png)
+![bg original](images/ushahidi-map.png)
 
 
 <!---
@@ -918,11 +918,11 @@ Janet Marsden
 ---
 
 
-![bg original](hackathon.jpeg)
+![bg original](images/hackathon.jpeg)
 
 ---
 
-![](hackathon-2012-US-cities.jpg)
+![](images/hackathon-2012-US-cities.jpg)
 
 <!---
 # Hackathons
@@ -934,11 +934,11 @@ No one organised the hackathons globally, yet hundreds have been organized so fa
 
 ---
 
-![bg original](alternatiba_caen_2015.jpg)
+![bg original](images/alternatiba_caen_2015.jpg)
 
 ---
 
-![bg original](alternatiba_map.png)
+![bg original](images/alternatiba_map.png)
 
 # Alternatiba
 
@@ -960,7 +960,7 @@ https://umap.openstreetmap.fr/fr/map/groupes-alternatiba-anv_126274#6/46.536/5.5
 ---
 
 
-![bg original](Nuit_Debout_-_Paris_-_41_mars_01.jpg)
+![bg original](images/Nuit_Debout_-_Paris_-_41_mars_01.jpg)
 
 <!---
 
@@ -974,7 +974,7 @@ CC-BY-SA Olivier Ortelpa
 ---
 # #NuitDebout 
 
-![bg](nuitdebout-map.png)
+![bg](images/nuitdebout-map.png)
 
 <!---
 Inspired by spain's 15M movement and US's Occupy Wall Street, #Nuidebout has spread organically accross France and beyond.
