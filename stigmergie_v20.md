@@ -256,24 +256,37 @@ _connaissez vous des exemples ?_
 
 <!--- discussion dans la salle --->
 
+
+---
+
+
+
+![bg original](images/stigmergie_projet_mene_par_idee.jpg)
+
+<!---
+
+# Processus
+
+une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités. Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. Il n’y a pas besoin de discuter ou de voter une idée, si une idée est intéressante ou nécessaire, elle va susciter de l’intérêt. L’intérêt viendra de personnes activement impliquées dans le système et qui auront la volonté de fournir les efforts pour porter le projet plus loin. Cela ne viendra pas de votes vides de personnes qui n’ont qu’un tout petit peu d’intérêt ou d’implication dans le projet . Tant que le projet est soutenu ou rejeté sur la base d’efforts contributifs et non pas sur des votes vides, la contribution de personnes engagées dans l’idée aura plus de poids. La stigmergie met aussi les individus en situation de contrôler leur propre travail, ils n’ont pas besoin de la permission du groupe pour leur dire avec quelle méthode travailler ou à quelle partie contribuer.
+
+--->
+
+
+
 ---
 
 ![](images/stigmergie_le_demarrage.jpg)
 
----
-![bg original](images/stigmergie_projet_mene_par_idee.jpg)
 
 ---
 
----
 
-# Modèle stigmergique
 
 ---
 
 ![bg original 100%](images/modele-gouvernance-stigmergie.png)
 
----
+<!---
 
 # Modèle stigmergique
 ## Ouverture / autorisation *a priori*
@@ -290,31 +303,9 @@ _connaissez vous des exemples ?_
 
 ## liberté de créer une alternative
 
----
-
-# Processus
-
-
---- 
-## une idée est donnée librement
-
---- 
-## le projet menée par l(idée, pas par la personnalité de(s) auteur(s)
-
---- 
-## pas besoin de permission (modèle pyramide) ou consensus (modele coopératif) pour proposer une idée ou initier un projet
-
---- 
-## une idée interessante attire des *efforts contributifs* pas des votes vides
-
---- 
-## pas besoin de permission du groupe sur la facon de mener le projet ou le choix de la contribution
-
-<!---
-
-une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités. Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. Il n’y a pas besoin de discuter ou de voter une idée, si une idée est intéressante ou nécessaire, elle va susciter de l’intérêt. L’intérêt viendra de personnes activement impliquées dans le système et qui auront la volonté de fournir les efforts pour porter le projet plus loin. Cela ne viendra pas de votes vides de personnes qui n’ont qu’un tout petit peu d’intérêt ou d’implication dans le projet . Tant que le projet est soutenu ou rejeté sur la base d’efforts contributifs et non pas sur des votes vides, la contribution de personnes engagées dans l’idée aura plus de poids. La stigmergie met aussi les individus en situation de contrôler leur propre travail, ils n’ont pas besoin de la permission du groupe pour leur dire avec quelle méthode travailler ou à quelle partie contribuer.
-
 --->
+
+
 
 ---
 
@@ -499,7 +490,7 @@ questions/réponses avec les retours du public
 
 
 
-
+---
 
 
 
@@ -528,7 +519,7 @@ traffic routier:
 ![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
 
 <!---
-agencement d'une ville
+la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
 --->
 
 
