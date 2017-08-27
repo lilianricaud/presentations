@@ -589,14 +589,14 @@ questions/réponses avec les retours du public
 
 ---
 
-# Open research 
+# Recherche ouverte
 
 ---
 
 ![bg original](images/github-open-research.png)
 
 <!---
-using github as an open notebook and collaboration tool 
+Usage de github comme carte de note ouvert et outil de collaboration
 
 --->
 
@@ -605,31 +605,20 @@ using github as an open notebook and collaboration tool
 ![bg original](images/open-patternpedia-daktary.png)
 
 <!---
-
-using Daktary as a github reader to show content in a user friendly web interface. You can see it as a CMS using github as an open database.
+usage de Daktary comme lecteur de contenus github plus ergonomique.
+On peut voir daktary comme un outil de gestion de contenu utilisant github comme une base de donnée ouverte.
 
 --->
-
 
 ---
 
-![bg original](images/open-research-stigmergy-markdown-prez.png)
+![l](images/stigmergic_work_typofixing.png)
 
 <!---
 
-Github as a stool for stigmergy
+un exemple de travail qui utilise la stigmergie: après avoir mis en ligne un présentation, j'ai posté un message sur le réseau social libre Mastodon, et un utilisateur que je ne connais à suivi le lien, découvert le sujet et a corrigé 53 fautes d'orthographes avant de soumettre le contenus à mon approbation.
 
-
-When you work, leave an artifact somewhere where others can find it.
-
-Example of my work:
-
-leaving some traces on github, twitter, mastodon
-so that others can follow the trail, modify and fork easily
-
-example of this talk, pattern language, ...
-
---->
+avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fortement et/ou partira dans des directions absolument imprévisibles au départ.
 
 ---
 
@@ -911,16 +900,78 @@ http://www.inf.ucv.cl/~bcrawford/Cuesta_Olivares/Stigmergy/1-s2.0-S1389041712000
 ---
 
 
-# autre exemples
+---
 
-- disco soupe, 
-- les anonymous / les indignés / #NuitDebout 
+# La stigmergie ce n'est pas juste pour écrire du code
+*gardez un oeil sur l'innovation sociale ouverte !*
 
-<!--- 
- # visuels stigmergie manquants
+---
 
-- roulement de tambour
-- Un chef des termites ?
-- Un conseil des termites ?
+
+![bg original](images/hackathon.jpeg)
+
+---
+
+![](images/hackathon-2012-US-cities.jpg)
+
+<!---
+# Hackathons
+
+No one organised the hackathons globally, yet hundreds have been organized so far.
+
+--->
+
+
+---
+
+![bg original](images/alternatiba_caen_2015.jpg)
+
+---
+
+![bg original](images/alternatiba_map.png)
+
+# Alternatiba
+
+<!---
+
+# Alternatiba
+
+Alternatiba is a framework to mobilise society to face the challenges of climate change. Numerous Alternatiba events, which provide hundreds of alternatives in order to raise people's awareness and to stimulate behaviour change, have been or will be organised in over sixty different French and European cities.
+
+https://en.wikipedia.org/wiki/Alternatiba,_Village_of_Alternatives
+
+https://umap.openstreetmap.fr/fr/map/groupes-alternatiba-anv_126274#6/46.536/5.515
+
+
+
+
+--->
+
+---
+
+
+![bg original](images/Nuit_Debout_-_Paris_-_41_mars_01.jpg)
+
+<!---
+
+#NuitDebout
+
+
+CC-BY-SA Olivier Ortelpa
+
+--->
+
+---
+# #NuitDebout 
+
+![bg](images/nuitdebout-map.png)
+
+<!---
+Inspired by spain's 15M movement and US's Occupy Wall Street, #Nuidebout has spread organically accross France and beyond.
+
+https://framacarte.org/fr/map/nuitdebout_2186#5/46.260/13.135
+
+
+
 
 --->
