@@ -47,7 +47,7 @@ Traditionnellement plusieurs types de rencontres professionnelles
 
 ---
 
-![bg original](meeting.jpg)
+![bg original](images/meeting.jpg)
 
 <!---
 
@@ -60,7 +60,7 @@ Reunion: tout le monde connaît ces réunions interminables où on a peu de temp
 
 ---
 
-![bg original](conference.jpg)
+![bg original](images/conference.jpg)
 
 <!---
 
@@ -72,7 +72,7 @@ Conférence : même s'il y a plusieurs intervenants et même si on laisse le pu
 
 ---
 
-![bg original](manifestation.jpg)
+![bg original](images/manifestation.jpg)
 
 <!---
 
@@ -93,7 +93,7 @@ Depuis plusieurs années on voit de nouveaux formats d'évènements apparaitre. 
 
 ---
 
-![bg original](barcamp.jpg)
+![bg original](images/barcamp.jpg)
 
 <!---
 Barcamp, une “non-conférence” auto-organisée par les participants qui proposent les sessions par regroupement d'affinités
@@ -104,7 +104,7 @@ Barcamp, une “non-conférence” auto-organisée par les participants qui prop
 
 ---
 
-![bg original](barcamp-2.jpg)
+![bg original](images/barcamp-2.jpg)
 
 <!---
 
@@ -117,7 +117,7 @@ Dans un barcamp, chacun est invité à être acteur (" pas de spectateur, tous p
 
 ---
 
-![bg original](open-space-technology.jpg)
+![bg original](images/open-space-technology.jpg)
 
 <!---
 L'open Space ou forum ouvert en français, autre mode de rencontre participatif, ancien mais qui a montré sa capacité a accueillir plus de 2000 participants. 
@@ -128,7 +128,7 @@ Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%
 
 ---
 
-![bg original](ignite-talk-culture-hacking-seb-paquet.jpg)
+![bg original](images/ignite-talk-culture-hacking-seb-paquet.jpg)
 
 <!---
 
@@ -140,7 +140,7 @@ Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%
  
  ---
  
- ![bg original](hackathon.jpg)
+ ![bg original](images/hackathon.jpg)
  
  <!---
  
@@ -152,7 +152,7 @@ Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%
  
  ----
 
-![bg original](install-party.jpg)
+![bg original](images/install-party.jpg)
 
  
  <!---
@@ -164,7 +164,7 @@ Source image: http://www.youngentrepreneur.com/blog/startup-news/this-one-time-%
  
  ---
  
- ![bg original](accelerateur-de-projet.jpg)
+ ![bg original](images/accelerateur-de-projet.jpg)
  
  <!---
  
@@ -174,7 +174,7 @@ Recette: http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_po
  
  --->
  ---
-  ![bg original](batucada-participative.jpg)
+  ![bg original](images/batucada-participative.jpg)
  <!---
  
  Batucada participative : un format intéressant expérimenté lors des rencontres moustic 2011 a la fois expérience de coopération vécue (les participants doivent être à l'écoute d'eux-mêmes, de leur groupe et de l'ensemble des particicipants) et aussi brise-glace qui aide a créer du lien et de la convivialité entre une centaine de participants qui pour la plupart ne se connaissaient pas avant.
@@ -188,7 +188,7 @@ Recette: http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_po
  
  ---
 
-![bg original](no-pants-day.jpg)
+![bg original](images/no-pants-day.jpg)
 
 <!--- 
 
@@ -198,7 +198,7 @@ No pants day : un happening artistique où des milliers de participants se rass
 
  ---
 
-![bg original](burning-man.jpg)
+![bg original](images/burning-man.jpg)
 
 <!---
 
@@ -210,7 +210,7 @@ Source image: http://elblogdegnomo.blogspot.fr/2010_09_01_archive.html
 
  ---
 
-![bg original](burning-man-2.jpg)
+![bg original](images/burning-man-2.jpg)
 
 <!---
 
@@ -224,7 +224,7 @@ Source image: http://blog.twoonix.com/2011/12/beim-nationalen-it-tag-darf-twooni
 
  ---
 
-![bg original](museomix.png)
+![bg original](images/museomix.png)
 
 <!---
 
@@ -237,7 +237,7 @@ Museomix un évènement ou des professionnel⋅le⋅s et des amateurs se rassemb
 
  ---
 
-![bg original](gratiferia.jpg)
+![bg original](images/gratiferia.jpg)
 
 <!---
 
@@ -249,7 +249,7 @@ Image source: http://laorquesta.mx/slp-organiza-su-primera-gratiferia/
 
  ---
 
-![bg original](park-ing-day.jpg)
+![bg original](images/park-ing-day.jpg)
 
 <!---
 
@@ -261,7 +261,7 @@ Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoy
 
  ---
 
-![bg original](permablitz.jpg)
+![bg original](images/permablitz.jpg)
 
 <!---
 
@@ -273,7 +273,7 @@ Source image: http://www.permaculturedesign.fr/un-permablitz-en-haute-vienne/
 
  ---
 
-![bg original](disco-soupe.jpg)
+![bg original](images/disco-soupe.jpg)
 
 <!---
 
@@ -286,7 +286,7 @@ Disco soupe est un événement qui consiste a se rassembler pour récupérér de
 
  ---
 
-![bg original](sunday-soup-cc.jpg)
+![bg original](images/sunday-soup-cc.jpg)
 
 <!---
 
@@ -343,7 +343,7 @@ INCOPIABLE : mis à part les réunions ou les conférences ou séminaires qui s
 
  ---
 
-![bg original](ted-talk.jpg)
+![bg original](images/ted-talk.jpg)
 
 <!---
 
@@ -354,7 +354,7 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 
  ---
 
-![bg original](map-parking-day-large.png)
+![bg original](images/map-parking-day-large.png)
 
 <!---
 
@@ -368,7 +368,7 @@ Ici le park(ing) day qui a connu un grand succès et synchronise sur une journé
 
 ---
 
-  ![bg original](football_soccer.jpg)
+  ![bg original](images/football_soccer.jpg)
  
  # C'est quoi la règle du jeu ?
  
@@ -379,7 +379,7 @@ importance d'expliciter la règle du jeu (exemple ds réunions règle du jeu imp
  
 ---
 
-  ![bg](football_soccer.jpg)
+  ![bg](images/football_soccer.jpg)
  
  #  Football ou soccer ?
  
@@ -424,7 +424,7 @@ Image: Street football à Caracas CC-BY Diego Cupolo https://en.wikipedia.org/wi
  night club vs bureau
  
  ---
-  ![bg original](nightclub.jpg)
+  ![bg original](images/nightclub.jpg)
  
  
 <!--- En boite de nuit, nous nous attendons à rencontrer des nouvelles personnes, nous amuser, flirter, mais s’il est possible de faire un brainstorm ou un travail sérieux, ce n’est probablement pas le meilleur endroit pour cela.
@@ -434,7 +434,7 @@ Image source: http://www.stag-bratislava.com/activity-bratislava-guided-night-cl
 --->
  
  ---
- ![bg original](bureau.jpg)
+ ![bg original](images/bureau.jpg)
  
  <!---
  De même en réunion au bureau, on peut s’attendre à faire un travail sérieux, un brainstorm, prendre des décisions, mais bien qu’il soit aussi possible de s’amuser ou de flirter, ce n’est probablement pas le meilleur endroit.
@@ -510,39 +510,39 @@ Les recettes améliorées peuvent elles_mêmes être repartagées et ajoutées a
 # Expérimentez, documentez, partagez !
 
 
-![bg original]() 
+![bg original](images/) 
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  ---
 
-![bg original]()
+![bg original](images/)
 
  
  ---
