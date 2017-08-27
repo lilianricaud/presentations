@@ -102,7 +102,16 @@ on "joue" ensemble (sans règles du jeu)
 
 ---
 
+![](images/stigmergie_blabla.jpg)
+
+---
+
 ![](images/stigmergie_les_tueurs_idees.jpg)
+
+---
+
+![](images/stigmergie_blabla.jpg)
+
 
 ---
 
@@ -748,4 +757,11 @@ http://www.inf.ucv.cl/~bcrawford/Cuesta_Olivares/Stigmergy/1-s2.0-S1389041712000
 - disco soupe, 
 - les anonymous / les indignés / #NuitDebout 
 
+<!--- 
+ # visuels stigmergie manquants
 
+- roulement de tambour
+- Un chef des termites ?
+- Un conseil des termites ?
+
+--->
