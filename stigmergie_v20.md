@@ -668,7 +668,7 @@ avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fo
 
 ---
 
-## un moyen de produire des logiciels, des évènements, de changer le monde 
+## un moyen de produire des logiciels, des évènements, de changer le monde ...
 
 
 
