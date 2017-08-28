@@ -324,12 +324,6 @@ traduction française: http://www.lilianricaud.com/travail-en-reseau/la-stigmerg
 ---
 
 
----
-![](images/stigmergie_modele.jpg
-)
-
----
-
 ![bg original](images/stigmergie_projet_mene_par_idee.jpg)
 
 <!---
@@ -346,6 +340,30 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ![](images/stigmergie_le_demarrage.jpg)
 
+
+---
+
+![](images/stigmergie_modele.jpg
+)
+
+<!---
+
+# Modèle stigmergique
+## Ouverture / autorisation *a priori*
+
+--- 
+
+## liberté de créer sans prendre en compte acceptation ou rejet 
+
+--- 
+
+## liberté d'accepter ou de rejeter un travail, une tache
+
+--- 
+
+## liberté de créer une alternative
+
+--->
 
 ---
 
@@ -386,32 +404,6 @@ C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot
 http://mark-elliott.net/blog/?page_id=24%20
 
 --->
-
----
-
----
-
-![bg original 100%](images/modele-gouvernance-stigmergie.png)
-
-<!---
-
-# Modèle stigmergique
-## Ouverture / autorisation *a priori*
-
---- 
-
-## liberté de créer sans prendre en compte acceptation ou rejet 
-
---- 
-
-## liberté d'accepter ou de rejeter un travail, une tache
-
---- 
-
-## liberté de créer une alternative
-
---->
-
 
 
 ---
