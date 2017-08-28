@@ -420,7 +420,9 @@ http://mark-elliott.net/blog/?page_id=24%20
 
 ---
 
+# Quels ingrédients ?
 
+---
 
 # Un environnement avec des traces perceptibles
 
@@ -628,45 +630,45 @@ un exemple de travail qui utilise la stigmergie: après avoir mis en ligne un pr
 
 avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fortement et/ou partira dans des directions absolument imprévisibles au départ.
 
----
-
-# Stigmergy is ...
-
-*if you slept here is the TlDr*
-
-<!---
-(too long didn't read)
 --->
 
---- 
-##  a mechanism of indirect coordination 
-
---- 
-## a self-organized system
-
 ---
 
-## a loop : action -> trace -> action -> ...
+# En résumé ...
+
+*la stigmergie, c'est*
+
+
 
 --- 
+##  a mecanisme de coordination indirecte
 
-## a method of large-scale collaboration
-
----
-
-## centered on individual choice and action 
+--- 
+## un systeme auto-organisé
 
 ---
 
-## a mechanism producing complex structures 
+## une boucle : action -> trace -> action -> ...
+
+--- 
+
+## une méthode de collaboration à grande échelle
 
 ---
 
-## emerging when certain conditions are present
+## un mécanisme centré sur l'action et le choix individuel 
 
 ---
 
-## a way to produce software, events, change the world...
+## un mécanisme produisant des structures complexes
+
+---
+
+## hénomène qui émerge quand certaines conditions sont présentes
+
+---
+
+## un moyen de produire des logiciels, des évènements, de changer le monde 
 
 
 
