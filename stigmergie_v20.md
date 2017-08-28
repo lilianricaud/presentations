@@ -641,7 +641,7 @@ avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fo
 
 
 --- 
-##  a mecanisme de coordination indirecte
+##  un mecanisme de coordination indirecte
 
 --- 
 ## un systeme auto-organisé
@@ -664,7 +664,7 @@ avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fo
 
 ---
 
-## hénomène qui émerge quand certaines conditions sont présentes
+## un phénomène émergent (ou pas)
 
 ---
 
