@@ -125,15 +125,17 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 
 
 ----
-![150%](images/systeme-hierarchique.png)
+![150%](images/hierarchie_pyramidale.jpg)
 
 ---
+
+
 
 # Hierarchie de consensus et modèles coopératifs
 
 ----
 
-![150%](images/hierarchie-du-consensus.png)
+![](images/hierarchie_de_consensus.jpg)
 
 ---
 
@@ -141,10 +143,25 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 
 ![bg](images/forbidden-symbol.png)
 
-# une autre option ?
-roulement de tambour ...
+---
 
-<!--- visuel roulement de tambour--->
+# une autre option ?
+![](images/roulement_de_tambour.jpg)
+
+
+---
+
+
+
+
+
+
+---
+
+
+---
+![](images/stigmergie_modele.jpg
+)
 
 ---
 
@@ -153,26 +170,34 @@ roulement de tambour ...
 
 ![bg original](images/termitiere-exemple-stigmergie.jpg)
 
+<!--- 
+
+Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
+
+--->
+
 
 ---
 
 # Un chef des termites ?
 
-
-![bg](images/termitiere-exemple-stigmergie.jpg)
+![](images/stigmergie_roi_termites.jpg)
 
 ---
 
-# Un conseil des termites ?
 
 
-![bg](images/termitiere-exemple-stigmergie.jpg)
+
+![](images/stigmergie_conseil_termites.jpg
+)
 
 <!---
+# Un conseil des termites ?
+
 When termites construct their nests, they use predominantly indirect communication. No single termite would be in charge of any particular construction project. Individual termites react rather than think, but at a group level, they exhibit a sort of collective cognition. Specific structures or other objects such as pellets of soil or pillars cause termites to start building. The termite adds these objects onto existing structures, and such behaviour encourages building behaviour in other workers. The result is a self-organised process whereby the information that directs termite activity results from changes in the environment rather than from direct contact among individuals. Source:
 https://en.wikipedia.org/wiki/Termite#Communication
 
-Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
+
 
 --->
 
