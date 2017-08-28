@@ -152,22 +152,6 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 ---
 
 
-
-
-
-
----
-
-
----
-![](images/stigmergie_modele.jpg
-)
-
----
-
-
----
-
 ![bg original](images/termitiere-exemple-stigmergie.jpg)
 
 <!--- 
@@ -179,13 +163,16 @@ Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
 
 ---
 
-# Un chef des termites ?
 
 ![](images/stigmergie_roi_termites.jpg)
 
+<!---
+
+# Un chef des termites ?
+
+--->
+
 ---
-
-
 
 
 ![](images/stigmergie_conseil_termites.jpg
@@ -329,7 +316,7 @@ _connaissez vous d'autres exemples ?_
 
 https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
 
-traductino française: http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/
+traduction française: http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/
 
 --->
 
@@ -337,7 +324,11 @@ traductino française: http://www.lilianricaud.com/travail-en-reseau/la-stigmerg
 ---
 
 
+---
+![](images/stigmergie_modele.jpg
+)
 
+---
 
 ![bg original](images/stigmergie_projet_mene_par_idee.jpg)
 
