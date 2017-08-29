@@ -89,4 +89,7 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 - utilisez la matrice comme outil d'aide à la reflexion
 - Comment reformuleriez-vous cette hypothèse ?
 - Comment la préciseriez-vous ?
-- 
+- Donner 2 exemples (+ ou -) illustrant cette hypothèse
+- Un regard bienveillant
+- Un regard critique
+- Positionnement du groupe (pour, contre, indécis...)
