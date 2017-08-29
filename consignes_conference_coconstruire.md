@@ -23,6 +23,15 @@ Choix de 2 personnes éloquentes par groupe
 
 3eme partie
 
+---
+
+# Règles du jeu
+
+- soyez bienveillants
+- tous les points de vues sont légitimes, il n'y a pas une vérité absolue
+- évitez les monologues ou les ping pong à 2: une astuce, remettre la parole au centre après avoir parlé
+- Soyez à l'écoute du centre
+
 
 ---
 
@@ -93,3 +102,13 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 - Un regard bienveillant
 - Un regard critique
 - Positionnement du groupe (pour, contre, indécis...)
+- **allez à l'essentiel, vous avez 10 min**
+
+---
+
+# Recroisement des hypothèses entre les deux sous-groupes
+- les 2 sous-groupes ayant travaillé sur la même question se rapprochent
+- Compilation des travaux
+- Positionnement
+- Choix des rapporteurs (si possible homme/femme)
+- Soyez brefs dans vos échanges afin de vous partager la parole (vous avez 10 min)
