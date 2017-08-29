@@ -1,6 +1,13 @@
 # L'intelligence collective sauvera-t-elle l'humanité ou est-ce une mode de plus ?
 la conférence dont vous êtes le héros
 
+---
+
+# Intention
+- faire une conférence sans conférencier
+- co-construire
+- expérimenter, on prendra peut être une gamelle, mais c'est pas grave
+- **pour réussir à plus de 100 et en une heure: le temps sera limité, _allez à l'essentiel !!!_** 
 
 ---
 
@@ -9,6 +16,13 @@ la conférence dont vous êtes le héros
 <!---dessin mélanie --->
 
 1er partie: définition collective de l'intelligence collective: construire du sens et une définition commune de l'ic
+
+2eme partie: travail sur les thèmes/hypothèses: co-construire un savoir commun sur les hypothèses
+
+Choix de 2 personnes éloquentes par groupe
+
+3eme partie
+
 
 ---
 
@@ -51,5 +65,28 @@ la conférence dont vous êtes le héros
 
 # Capitalisation définition de l'IC
 
-2 groupes de 12 volontaires ?
+- 2 sous-groupes de 12 volontaires
+- rédiger une synthèse
 
+---
+
+# Travail sur les hypothèses
+
+il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypothèses.
+
+---
+
+# Les hypothèses
+- L'intelligence collective peut-elle se passer du numérique et/ou des licences libres ?
+- L'intelligence collective existe-t-elle vraiment dans l'enseignement ?
+- L'intelligence collective peut-elle vraiment se pratiquer dans le privé ?
+- L'intelligence collective peut-elle (vraiment) être menée à l'échelle d'un large territoire ?
+
+---
+
+# Travail par groupe de 12
+
+- utilisez la matrice comme outil d'aide à la reflexion
+- Comment reformuleriez-vous cette hypothèse ?
+- Comment la préciseriez-vous ?
+- 
