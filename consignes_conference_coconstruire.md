@@ -3,11 +3,12 @@ la conférence dont vous êtes le héros
 
 ---
 
-# Intention
+# Votre mission si vous l'acceptez
 - faire une conférence sans conférencier
 - co-construire
-- expérimenter, on prendra peut être une gamelle, mais c'est pas grave
-- **pour réussir à plus de 100 et en une heure: le temps sera limité, _allez à l'essentiel !!!_** 
+- expérimenter (on prendra peut être une gamelle, mais c'est pas grave)
+
+**pour réussir à plus de 100 et en une heure: le temps sera limité, _allez à l'essentiel !!!_** 
 
 ---
 
@@ -21,7 +22,7 @@ la conférence dont vous êtes le héros
 
 Choix de 2 personnes éloquentes par groupe
 
-3eme partie
+3eme partie: mode conférence
 
 ---
 
@@ -112,3 +113,19 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 - Positionnement
 - Choix des rapporteurs (si possible homme/femme)
 - Soyez brefs dans vos échanges afin de vous partager la parole (vous avez 10 min)
+
+---
+
+# 3eme partie: mode conférence
+- prépa de la salle
+- les rapporteurs ont 5 min pour affiner leur discours.
+
+
+# Conférence
+- definitoin de l'intelligence collective
+- hypothèses
+- conclusion
+
+---
+
+#
