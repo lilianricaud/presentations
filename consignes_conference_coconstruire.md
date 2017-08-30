@@ -17,24 +17,7 @@ la conférence dont vous êtes le héros !
 
 ![](images/processus_conference_coconstruite.jpg)
 
-<!---dessin mélanie 
-
-1er partie: définition collective de l'intelligence collective: construire du sens et une définition commune de l'ic
-
-sous-groupes 3 -> 6 -> 12
-
-2eme partie: travail sur les thèmes/hypothèses: co-construire un savoir commun sur les hypothèses
-
-10 sous groupes de 12, 2 sous-groupes par thèmes.
-
-5 thèmes: definition IC + 4 hypothèses de travail
-
-
-Choix de 2 rapporteurs / personnes éloquentes par groupe
-
-3ème partie: mode conférence 
-
---->
+ 
 
 ---
 
