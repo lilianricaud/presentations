@@ -15,6 +15,8 @@ la conférence dont vous êtes le héros !
 
 # Déroulé
 
+![](images/processus_conference_coconstruite.jpg)
+
 <!---dessin mélanie 
 
 1er partie: définition collective de l'intelligence collective: construire du sens et une définition commune de l'ic
