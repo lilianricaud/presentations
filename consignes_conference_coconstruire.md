@@ -6,7 +6,7 @@ la conférence dont vous êtes le héros !
 # Votre mission si vous l'acceptez:
 - co-construire une conférence sans conférencier
 - expérimenter (on prendra peut être une gamelle, mais c'est pas grave)
-- passer un bon moment
+- se rencontrer et passer un bon moment
 
 **pour réussir à plus de 100 et en une heure: le temps sera limité, _allez à l'essentiel !!!_** 
 
@@ -63,7 +63,7 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 - se présenter les uns aux autres  (nom-prénom)
 - par 6, discutez les notions déja identifiées
 - **complétez** UNE des 2 feuilles (l’autre est abandonnée) avec 3 notions supplémentaires
-- Vous avez 3 min !
+- Vous avez 5 min !
 
 ---
 
@@ -72,7 +72,7 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 - chaque groupe de 6 s'associe à un autre groupe de 6
 - se présenter les uns aux autres (nom-prénom)
 - par 12, discutez les notions déja identifiées
-- complétez UNE des 2 feuilles (l’autre est abandonnée) avec 6 notions, concepts,idées supplémentaires qui vous viennent à l’esprit quand vous pensez à l’intelligence collective et au mots déjà présents sur la feuille.
+- complétez UNE des 2 feuilles (l’autre est abandonnée) avec 6 notions, concepts,idées supplémentaires
 - Vous avez 7 min !
 - La feuille complétée est collée sur le mur prévu.
 
@@ -84,7 +84,7 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 
 # Capitalisation définition de l'IC
 
-- 2 sous-groupes de 12 volontaires
+- 2 sous-groupes de 12 participants
 - rédiger une synthèse
 
 ---
@@ -96,7 +96,7 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 ---
 
 # Les hypothèses
-- L'intelligence collective peut-elle se passer du numérique et/ou des licences libres ?
+- L'intelligence collective peut-elle se passer du numérique ? 
 - L'intelligence collective existe-t-elle vraiment dans l'enseignement ?
 - L'intelligence collective peut-elle vraiment se pratiquer dans le privé ?
 - L'intelligence collective peut-elle vraiment être menée à l'échelle d'un large territoire ?
