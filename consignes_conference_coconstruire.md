@@ -13,15 +13,6 @@ la conférence dont vous êtes le héros !
 
 ---
 
-# Règles du jeu
-
-- soyez bienveillants
-- tous les points de vues sont légitimes, il n'y a pas une vérité absolue
-- évitez les monologues ou les ping pong à 2: une astuce, remettre la parole au centre après avoir parlé
-- Soyez à l'écoute du centre
-
----
-
 # Déroulé
 
 <!---dessin mélanie 
@@ -45,6 +36,15 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 
 ---
 
+# Règles du jeu
+
+- soyez bienveillants
+- tous les points de vues sont légitimes, il n'y a pas une vérité absolue
+- évitez les monologues ou les ping pong à 2: une astuce: utilisez un baton de parole
+
+
+---
+
 # 1er partie: définition collective de l'intelligence collective
 
 
@@ -54,7 +54,7 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 - se placer par 3 avec une mindmap papier
 - se présenter les uns aux autres (nom-prénom, rien de plus pour l’instant !)
 - discutez pour identifier 3 notions, concepts, idées qui vous viennent à l’esprit quand vous pensez à l’intelligence collective.
-- Vous avez 3 min !
+- **Vous avez 3 min !**
 
 ---
 # 2ème itération : Tour d’échange
@@ -63,7 +63,7 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 - se présenter les uns aux autres  (nom-prénom)
 - par 6, discutez les notions déja identifiées
 - **complétez** UNE des 2 feuilles (l’autre est abandonnée) avec 3 notions supplémentaires
-- Vous avez 5 min !
+- **Vous avez 5 min !**
 
 ---
 
@@ -73,7 +73,7 @@ Choix de 2 rapporteurs / personnes éloquentes par groupe
 - se présenter les uns aux autres (nom-prénom)
 - par 12, discutez les notions déja identifiées
 - complétez UNE des 2 feuilles (l’autre est abandonnée) avec 6 notions, concepts,idées supplémentaires
-- Vous avez 7 min !
+- **Vous avez 7 min !**
 - La feuille complétée est collée sur le mur prévu.
 
 ---
@@ -106,12 +106,7 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 # Travail par groupe de 12
 
 - utilisez la matrice comme outil d'aide à la reflexion
-- Comment reformuleriez-vous cette hypothèse ?
-- Comment la préciseriez-vous ?
-- Donner 2 exemples (+ ou -) illustrant cette hypothèse
-- Un regard bienveillant
-- Un regard critique
-- Positionnement du groupe (pour, contre, indécis...)
+- Prévoyez un **scribe**
 - **allez à l'essentiel, vous avez 10 min**
 
 ---
@@ -119,15 +114,14 @@ il y aura 8 sous-groupes, travaillant sur 4 hypothèses, soit 2 groupes par hypo
 # Recroisement des hypothèses entre les deux sous-groupes
 - les 2 sous-groupes ayant travaillé sur la même question se rapprochent
 - Compilation des travaux
-- Positionnement
 - Choix des rapporteurs (si possible homme/femme)
-- Soyez brefs dans vos échanges afin de vous partager la parole (vous avez 10 min)
+- Soyez brefs dans vos échanges afin de vous partager la parole (**vous avez 10 min**)
 
 ---
 
 # 3eme partie: mode conférence
-- prépa de la salle
-- les rapporteurs ont 5 min pour affiner leur discours.
+- préparation de la salle
+- les rapporteurs ont **5 min** pour affiner leur discours.
 
 ---
 
