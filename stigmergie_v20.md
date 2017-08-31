@@ -18,8 +18,12 @@ Le contenu lui même peut être lu en ligne via github et le fichier peut être 
 Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 -->
+
 ---
 
+# Comment travaillons nous ensemble ?
+
+---
 
 ![bg original](images/orchestre-chef.jpg)
 
@@ -29,7 +33,7 @@ Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
 
-Marche bien, mais devient difficile au fur et à mesre que la taille du groupe augmente avec une taille optimale au dessous de 25 personnes. Nécessite un chef, un guide au dela de ce point.
+Marche bien, mais devient difficile au fur et à mesure que la taille du groupe augmente avec une taille optimale au dessous de 25 personnes. Nécessite un chef, un guide au dela de ce point.
 
 on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règles du jeu communes à toustes).
 
@@ -69,7 +73,16 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 ---
 
 
-### Inconvénients
+# Inconvénients des modes de travail actuels
+
+<!---
+
+levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle situation
+
+--->
+
+
+
 
 ---
 
@@ -121,25 +134,37 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 
 ---
 
-# Hierarchie pyramidale et modèles competitifs
+# Hiérarchie pyramidale et modèles compétitifs
 
 
 ----
 ![150%](images/hierarchie_pyramidale.jpg)
 
+<!---
+
+moi l'individu, je ne suis pas libre de mes choix et je me sens un peu écrasé par cette hiérachie
+
+--->
+
 ---
 
 
-
-# Hierarchie de consensus et modèles coopératifs
+# Hiérarchie de consensus et modèles coopératifs
 
 ----
 
 ![](images/hierarchie_de_consensus.jpg)
 
+
+<!---
+
+même si c'est "coopératif", moi l'individu, je ne suis pas libre de mes choix et je me sens un peu écrasé par cette hiérachie
+
+--->
+
 ---
 
-# Hierarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
+# Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
 
 ![bg](images/forbidden-symbol.png)
 
@@ -155,6 +180,8 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 ![bg original](images/termitiere-exemple-stigmergie.jpg)
 
 <!--- 
+
+Voyons ce qui se passe chez les termites ? Comment s'organisent elles pour fonctionner ensemble ?
 
 Source image: Photo prise par Bmdavll et mise à disposition sous License GFDL
 
@@ -205,7 +232,16 @@ Wikipedia
 
 ---
 
-# Stigmergie chez les fourmis
+# stigmergie
+
+
+> La stigmergie est une méthode de **communication indirecte** dans un environnement **émergent auto-organisé**, où les individus communiquent entre eux **en modifiant leur environnement**.
+
+Wikipedia
+
+---
+
+# La stigmergie chez les fourmis
 
 ![bg](images/safari_ants.jpg)
 <!---Image:
@@ -632,6 +668,18 @@ avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fo
 
 --->
 
+--- 
+
+# A creuser: Méthode SKA
+(_Stigmergie-Kanban-Agile_)
+
+
+<!---
+
+https://github.com/b3j0f/ska/wiki
+
+--->
+
 ---
 
 # En résumé ...
@@ -644,7 +692,7 @@ avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fo
 ##  un mecanisme de coordination indirecte
 
 --- 
-## un systeme auto-organisé
+## un système auto-organisé
 
 ---
 
@@ -689,6 +737,8 @@ http://mark-elliott.net/blog/?page_id=24%20
 
 Self-organization in Communicating Groups: the emergence of coordination, shared references and collective
 intelligence (Francis Heylighen, 2008)
+
+Méthode SKA (stigmergy, kanban, agile):https://github.com/b3j0f/ska/wiki
 
 ---
 
