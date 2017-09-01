@@ -293,6 +293,8 @@ Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation 
 
 On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
 
+Pourtant toutes les fourmis ne sont pas actives: http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-sont-grosses-paresseuses-qui-ne-font-rien-et-est-pas-tout-jean-luc-mercier-2228365.html
+
 --->
 
 ---
