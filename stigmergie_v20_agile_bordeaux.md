@@ -1,10 +1,20 @@
 # Stigmergie, auto-organisation et collaboration à grande échelle
 
-## Co-construire 2017
+
+## Agile Tour Bordeaux 2017
+
+![](images/Sponsors-atbdx2017.png)
+
+---
 
 CC-BY-SA Lilian RICAUD
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
+
+
+
+
+
 
 <!-- footer:stigmergie - CC-BY-SA Lilian RICAUD 
 
@@ -18,6 +28,7 @@ Le contenu lui même peut être lu en ligne via github et le fichier peut être 
 Ceci me permet de partager mes contenus sans travail supplémentaire pour moi.
 
 -->
+
 
 ---
 
