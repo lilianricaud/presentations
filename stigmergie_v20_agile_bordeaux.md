@@ -141,9 +141,8 @@ levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle si
 
 ---
 
----
 
-# Hiérarchie pyramidale et modèles compétitifs
+# Modèles compétitifs et hiérarchie pyramidale
 
 
 ----
@@ -158,7 +157,7 @@ moi l'individu, je ne suis pas libre de mes choix et je me sens un peu écrasé 
 ---
 
 
-# Hiérarchie de consensus et modèles coopératifs
+# Modèles coopératifs et hiérarchie de consensus
 
 ----
 
@@ -613,10 +612,7 @@ Principes fondateurs de Wikipedia
 
 ---
 
-
----
-
-# Accepter les branches parallèles
+# Croissance organique / Accepter les branches parallèles
 
 
 <!---
