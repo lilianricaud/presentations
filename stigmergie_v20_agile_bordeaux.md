@@ -7,13 +7,11 @@
 
 ---
 
+# Stigmergie, auto-organisation et collaboration à grande échelle
+
 CC-BY-SA Lilian RICAUD
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
-
-
-
-
 
 
 <!-- footer:stigmergie - CC-BY-SA Lilian RICAUD 
@@ -73,7 +71,7 @@ on "joue" ensemble (sans règles du jeu)
 
 Pour de très larges groupes, avoir un leader et une chaine de commandement devient essentiel.
 
-Cela marche bien pour de très large groupe, mais cela uniformise les individus. 
+Cela marche bien pour de très larges groupes, mais cela uniformise les individus. 
 
 cela n'est plus vraiment un jeu et les individus ont tendance à être traités comme des machines.
 
@@ -525,11 +523,10 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 ![bg original 100%](images/wikipedia-licence.png)
 
----
 
 ---
 
-# Auto-attribution des tâches
+# Auto-attribution des tâches / Auto-organisation
 
 <!---
 Sur Wikipédia,chacun est libre de se positionner sur à peu près n’importe quelle tache.
@@ -573,7 +570,7 @@ Le système d’historique qui enregistre et permet de comparer les différentes
 
 ---
 
-# Gestion des taches critiques / essentielles
+# Gestion des taches essentielles
 
 ---
 
@@ -632,7 +629,12 @@ Pourtant, on pourrait imaginer une architecture où chaque sujet pourrait avoir 
 
 Notez cependant qu’il est courant qu’un même article rédigé dans différentes langues montre des différences et des spécificités liées à la culture, au niveau de connaissance… On peut donc aussi voir les différentes Wikipédias multilingues comme des branches parallèles qui peuvent se nourrir mutuellement. C’est une richesse sous exploité à l’heure actuelle. On pourrait imaginer la mise en place de mécanismes pour tirer parti de cette diversité.
 
+
 --->
+
+---
+
+# Retrospective
 
 --- 
 
@@ -643,9 +645,6 @@ Notez cependant qu’il est courant qu’un même article rédigé dans différe
 questions/réponses avec les retours du public
 
 --->
-
-
-
 
 ---
 
@@ -686,6 +685,17 @@ avec plusieurs cycles successifs, on peut imaginer que le contenu s'enrichira fo
 
 # A creuser: Méthode SKA
 (_Stigmergie-Kanban-Agile_)
+
+---
+
+Étapes :
+
+- On se met d'accord sur l'objectif global et principal en laissant les détails de côté
+- on cherche un projet qui nous intéresse et on le copie (fork)
+- on agit sur sa propre copie du projet
+- on propose les modifications aux intéressés (contribution)
+- on regroupe les actions ou on mène des actions séparées
+- on fait en sorte que l'action laisse des traces pour qu'elle soit réutilisable par d'autres ou pour revenir en arrière dans le cas d'une erreur (retour en phase 1)
 
 
 <!---
