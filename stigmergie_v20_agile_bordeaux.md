@@ -894,43 +894,9 @@ Dans le forum ouvert on retrouve plusieurs principes du modèle stigmergique, no
 Lire:
 
     http://www.pratiques-collaboratives.net/Forum-Ouvert-une-presentataion-du-comment-faire.html
-Twitter dopé par ses utilisateurs
 
-Savez vous que de nombreuses innovations sur la plateforme de Twitter n’ont pas initiés pas l’entreprise, mais par les utilisateurs et développeurs externes ?
-
-Certains des outils les plus utilisés aujourd’hui comme le moteur de recherche ou le logiciel de publication Tweetdeck, ont été à la base conçues par des développeurs externes, puis rachetés par l’entreprise.
-
-Ceci a été rendu possible par la mise à disposition par Twitter des données sous une forme qui permet aux développeurs de bâtir spontanément des services sur la plateforme existante (des interfaces de programmation appellées APIs pour ceux qui connaissent).
-
-De même des innovations sociales, les RT (retweets = faire suivre), les #hashtags viennent des usages des utilisateurs, et se sont spontanément popularisés avant d’être intégrées plus tard par l’entreprise comme des fonctionnalités bâties en dur dans la plateforme.
-
-Twitter a eu l’intelligence (au moins a ses débuts, c’est moins vrai maintenant) d’utiliser cette innovation spontanée en l’incorporant dans la plateforme principale.
-
-Concise, publique, asymétrique, la conversation elle même sur Twitter se prête à une coopération stigmergique.
-La plateforme de crowdmapping Ushahidi
-
-Plus récemment dans un article scientifique publié en 2013, la chercheuse Janet Marsden a étudié le développement de la plateforme logicielle de crowdmapping Ushahidi en la regardant sous un angle stigmergique.
-
-Ushahidi est une plateforme open source qui permet de collecter, d’agréger et de cartographier de l’information en situation d’urgence ou de crise.
-
-Le développement d’Ushahidi est remarquable pour plusieurs raisons:
-
-    La version originale d’Ushahidi a été développée et mise en place en une semaine.
-    Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
-    Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
-
-L’auteur explique que l’avancée des réseaux de communication distribués comme l’internet et les réseaux ubiquitaires ont rendus obsolète l’approche top-down de développement de logiciels.
-
-A la place, les outils utilisés sont des composants modulaires adaptables, autogérés et combinés en mash-ups. De même les équipes de développement logiciels et les participants sont spontanées et ad-hoc, fonctionnant comme des organisations virtuelles.
-
-L’environnement de travail qui facilite la coordination des agents est fourni par la plateforme logicielle Ushahidi, incluant ses composants, interfaces et leur affordance pour les participants (l’affordance est la capacité d’un système ou d’un produit à suggérer sa propre utilisation) .
-
-Notez que Ushahidi s’est propagé de façon spontanée et a été depuis été utilisé dans de nombreux endroits dans le monde pour cartographier des situations de crises de façon participative.
-
-Plus sur Ushahidi comme système stigmergique dans cet article très intéressant: Stigmergic self-organization and the improvisation of Ushahidi
-
- 
 --->
+
 ---
 
 # Twitter dopé par ses utilisateurs
