@@ -150,6 +150,11 @@ Collectivement:
  * que permet / favorise il ? (capacitation)
  * que freine / defavorise il ? (décapacitation)
 
+Images 
+- fenetres du portugal
+- maisons du pays basque
+- bike-patterns-open-hardware.jpg
+
 ---
 
 # Alexander et la méthode des patterns
