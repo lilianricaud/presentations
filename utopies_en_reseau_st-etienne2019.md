@@ -1,3 +1,12 @@
+
+![bg original](images/cairns_minerve.jpg)
+
+<!--- 
+source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
+--->
+
+---
+
 # Utopies en réseau
 
 ## *bâtir le monde de demain,* 
@@ -5,7 +14,9 @@
 
 ![bg](images/cairns_minerve.jpg)
 
-<!--- source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
+<!--- 
+source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
+--->
 
 ---
 
@@ -422,5 +433,12 @@ traffic routier:
 la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
 --->
 
+---
+
+![bg original](images/cairns_minerve.jpg)
+
+<!--- 
+source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
+--->
 
 ---
