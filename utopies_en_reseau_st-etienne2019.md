@@ -60,7 +60,7 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 
 ---
 
-# Inconvénients des modes de travail actuels
+# Les systèmes pyramidaux et coopératifs sont fermés a priori
 
 <!---
 
@@ -69,18 +69,7 @@ levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle si
 --->
 
 
-
-
 ---
-
-![](images/stigmergie_la_schizophrenie.jpg)
-
----
-
-![](images/stigmergie_la_concurrence.jpg)
-
----
-
 
 ![](images/stigmergie_le_chef.jpg)
 
@@ -95,6 +84,16 @@ levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle si
 ---
 
 ![](images/stigmergie_la_hierarchie_molle.jpg)
+
+
+
+---
+
+![](images/stigmergie_la_schizophrenie.jpg)
+
+---
+
+![](images/stigmergie_la_concurrence.jpg)
 
 ---
 
