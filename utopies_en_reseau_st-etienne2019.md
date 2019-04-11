@@ -3,7 +3,7 @@
 # Comment travaillons nous ensemble ?
 
 ---
-![bg original](images/music-jam.jpg)
+![bg original](images/music_jam.jpg)
 
 <!--- 
 improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéfinie, mais sont en écoute les un des autres pour collaborer.
@@ -11,6 +11,11 @@ improvisation d'un jazz band: les musiciens ne jouent pas une partition prédéf
 intense et faisable seulement pour de tout petits groupes (2-7)
 
 on "joue" ensemble (sans règles du jeu)
+
+source image CC-BY-SA Aude Vanlathem
+https://fr.wikipedia.org/wiki/Fichier:Ligue_d%27improvisation_montr%C3%A9alaise_(LIM)_20110529-32.jpg
+
+
 
 --->
 
