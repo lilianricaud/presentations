@@ -314,6 +314,70 @@ Read more at http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-so
 
 --->
 
+
+---
+# La stigmergie pour les organisations humaines
+
+---
+
+![bg original 100%](images/heather_marsh_stigmergy.png)
+
+<!--- une très grande partie de ce travail a été inspiré par l'article "Stigmergy" écrit par Heather Marsh. Je n'insisterai jamais assez sur l'importance de lire cet article brillant.
+
+https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
+
+traduction française: http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/
+
+--->
+
+
+---
+
+
+![bg original](images/stigmergie_projet_mene_par_idee.jpg)
+
+<!---
+
+# Processus
+
+une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités. Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. Il n’y a pas besoin de discuter ou de voter une idée, si une idée est intéressante ou nécessaire, elle va susciter de l’intérêt. L’intérêt viendra de personnes activement impliquées dans le système et qui auront la volonté de fournir les efforts pour porter le projet plus loin. Cela ne viendra pas de votes vides de personnes qui n’ont qu’un tout petit peu d’intérêt ou d’implication dans le projet . Tant que le projet est soutenu ou rejeté sur la base d’efforts contributifs et non pas sur des votes vides, la contribution de personnes engagées dans l’idée aura plus de poids. La stigmergie met aussi les individus en situation de contrôler leur propre travail, ils n’ont pas besoin de la permission du groupe pour leur dire avec quelle méthode travailler ou à quelle partie contribuer.
+
+--->
+
+
+
+---
+
+![](images/stigmergie_le_demarrage.jpg)
+
+
+---
+
+![](images/stigmergie_modele.jpg
+)
+
+---
+
+# Modèle stigmergique
+
+---
+
+## Ouverture / autorisation *a priori*
+
+--- 
+
+## liberté de créer sans prendre en compte l'acceptation ou le rejet 
+
+--- 
+
+## liberté d'accepter ou de rejeter un travail, une tache
+
+--- 
+
+## liberté de créer une alternative
+
+--->
+
 ---
 
 ![bg original](images/stigmergie-swarm-brid-flock.jpg)
