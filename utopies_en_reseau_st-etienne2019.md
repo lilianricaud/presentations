@@ -1,5 +1,33 @@
 ---
 
+Savez vous que Wikipédia est la première encyclopédie en taille et en consultation ?
+
+24,808,989 sites web soit plus de 30% des sites web tournent sous Wordpress 
+ 
+
+<!---
+(source: - https://w3techs.com/technologies/overview/content_management/all
+- https://trends.builtwith.com/cms/WordPress)
+
+statistiques à propos de wikipédia avril 2019
+
+https://en.wikipedia.org/wiki/Wikipedia
+
+>318,690 active users[notes 2] and >81,416,982 registered users 1,184 administrators (English)
+
+Available in	303 languages
+Nombre de pages
+English 5,838,385
+Cebuano 5,331,861
+Swedish 3,748,771
+German 2,290,542
+French 2,096,912 
+
+--->
+
+--- 
+
+
 # Comment travaillons nous ensemble ?
 
 ---
@@ -77,14 +105,6 @@ levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle si
 
 ![](images/stigmergie_la_propriete_intellectuelle.jpg)
 
----
-
-![](images/stigmergie_le_consensus_mou.jpg)
-
----
-
-![](images/stigmergie_la_hierarchie_molle.jpg)
-
 
 
 ---
@@ -114,6 +134,17 @@ levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle si
 ---
 
 ![](images/stigmergie_blabla.jpg)
+
+---
+
+![](images/stigmergie_la_hierarchie_molle.jpg)
+
+
+---
+
+![](images/stigmergie_le_consensus_mou.jpg)
+
+
 
 
 ---
