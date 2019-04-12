@@ -481,4 +481,14 @@ source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/60593524
 
 <!--- source: https://www.makehaven.org/blog/makehaven-becomes-first-fab-lab-connecticut
 
+---
+
+![bg original](vonhippel-innovation.jpg)
+
+source: http://sloanreview.mit.edu/the-magazine/2011-fall/53105/the-age-of-the-consumer-innovator/#side4
+
+via internet actu 
+
+http://www.internetactu.net/2012/06/28/von-hippel-le-paradigme-de-linnovation-par-lutilisateur/
+
 --->
