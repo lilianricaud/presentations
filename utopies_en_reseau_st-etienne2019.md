@@ -35,9 +35,9 @@ source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/60593524
 
 # 3 mini-conférences
 
-- stigmergie et coopération ouvertes
-- tiers lieux et innovation sociale ouverte
-- les événements co-créatifs comme outils du faire ensemble
+- coopération ouverte: de la pyramide à la fourmilière
+- tiers lieux: terreau / graines du travail en transition.
+- les événements co-créatifs: vers un langage du faire ensemble
 
 ---
 
@@ -476,3 +476,9 @@ source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/60593524
 --->
 
 ---
+
+![bg original](images/fablabs_map2016.png)
+
+<!--- source: https://www.makehaven.org/blog/makehaven-becomes-first-fab-lab-connecticut
+
+--->
