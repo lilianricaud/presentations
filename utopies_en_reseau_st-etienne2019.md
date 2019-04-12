@@ -510,3 +510,16 @@ http://www.internetactu.net/2012/06/28/von-hippel-le-paradigme-de-linnovation-pa
 ---
 
 ![bg original 80%](images/seats2meet-business-model.png)
+
+
+
+
+---
+
+![bg original 80%](images/seats2meet-dahsboard.png)
+
+
+
+---
+
+![bg original 80%](images/seats2meet-creativity-konwledge.png)
