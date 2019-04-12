@@ -24,10 +24,24 @@ source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/60593524
 
 ![](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2012/10/creative-commons-by-sa-300x104.png)
 
+<!---
+
 **Note: cette présentation a été créée en markdown pour être plus facilement modifiable/réutilisable et vous pouvez la lire ou l'éditer sous forme de diaporama en téléchargeant le logiciel Marp. Ouvrez le fichier avec Marp ou un éditeur texte pour voir les notes du présentateur.**
+
+--->
 
 
 ---
+
+# 3 mini-conférences
+
+- stigmergie et coopération ouvertes
+- tiers lieux et innovation sociale ouverte
+- les événements co-créatifs comme outils du faire ensemble
+
+---
+
+![bg original](images/wikipedia.jpg)
 
 ---
 
@@ -44,7 +58,7 @@ statistiques à propos de wikipédia avril 2019
 
 https://en.wikipedia.org/wiki/Wikipedia
 
->318,690 active users[notes 2] and >81,416,982 registered users 1,184 administrators (English)
+>318,690 active users and >81,416,982 registered users 1,184 administrators (English)
 
 Available in	303 languages
 Nombre de pages
