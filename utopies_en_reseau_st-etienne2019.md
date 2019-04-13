@@ -164,6 +164,8 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 
 <!---
 
+le modèle pyramidal a permis de grandes réalisations: donner un exemple tres serieux et un exemple bien absurde du style urine de coyotte.
+
 levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle situation
 
 --->
@@ -504,6 +506,17 @@ cities have a latent purposer to function as information storage and retrieval d
 ![bg original](images/fablabs_map2016.png)
 
 <!--- source: https://www.makehaven.org/blog/makehaven-becomes-first-fab-lab-connecticut
+
+---
+
+![bg original](images/ateliers_sous_groupes_80_personnes.jpg)
+
+---
+
+/home/lilian/Bureau/projets_metacartes/com/selection/ateliers_sous_groupes_80_personnes.jpg
+/home/lilian/Bureau/projets_metacartes/com/selection/cercle_80_personnes.jpg
+/home/lilian/Bureau/projets_metacartes/com/selection/cercle_samoan_80_personnes.jpg
+
 
 ---
 
