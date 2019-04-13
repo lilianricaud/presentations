@@ -835,6 +835,10 @@ Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoy
  ![bg original](images/miami-park1-Street-Plans-Collaborative.jpg)
  
  
+ --- 
+ 
+ ![bg original](images/map-parking-day-2011.png)
+ 
  ---
 
 ![bg original](images/museomix.png)
