@@ -41,13 +41,20 @@ source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/60593524
 
 ---
 
-![bg](images/wikipedia-home.jpg)
+## coopération ouverte: de la pyramide à la fourmilière
 
 ---
 
 ![bg 80%](images/logiciels-libres-celebres.jpg)
 
 <!---
+
+24,808,989 sites web soit plus de 30% des sites web tournent sous Wordpress 
+
+https://w3techs.com/technologies/overview/content_management/all
+- https://trends.builtwith.com/cms/WordPress)
+
+95% de serveurs et plus de 50% des smartphones basés sur linux.
 
 Les communautés du libre
 
@@ -61,14 +68,14 @@ http://mark-elliott.net/blog/?page_id=24%20
 
 ---
 
-Savez vous que Wikipédia est la première encyclopédie en taille et en consultation ?
+![bg](images/wikipedia-home.jpg)
 
-24,808,989 sites web soit plus de 30% des sites web tournent sous Wordpress 
- 
+---
 
 <!---
-(source: - https://w3techs.com/technologies/overview/content_management/all
-- https://trends.builtwith.com/cms/WordPress)
+Savez vous que Wikipédia est la première encyclopédie en taille et en consultation ?
+
+(source: 
 
 statistiques à propos de wikipédia avril 2019
 
@@ -467,6 +474,8 @@ traffic routier:
 la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
 --->
 
+
+
 ---
 
 ![bg original](images/cairns_minerve.jpg)
@@ -474,6 +483,21 @@ la construction d'une ville au niveau global se fait (faisait) en grande partie 
 <!--- 
 source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
 --->
+
+
+
+
+---
+
+# La ville comme système de stockage et d'accès à l'information
+
+<!---
+Like-minded businesses cluster together because thee are financial incentives to do so - what academics call economy of agglomeration - enabling craftmen to share techniques and services that they wouldn't necessarily be able to enjoy on their own. That clustering becomes a self perpetuating cycle: potential consumers and employees have an easier time finding the goods and  jobs they're looking for, the shared information makes the clustered businesses more competitive than isolated ones p107
+cities have a latent purposer to function as information storage and retrieval device. Cities were creating user-friendly interfaces thousand of years before anyone even dreamed of digital computers. Cities transmit useful new ideas to the wider population ensuring powerful new techniques don't disappear. Steven Johnson, Emergence, p108.
+--->
+
+
+
 
 ---
 
