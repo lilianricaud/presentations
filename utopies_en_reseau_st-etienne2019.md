@@ -844,6 +844,10 @@ Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoy
  --->
  
  ---
+ 
+  ![bg original](images/guerilla-gardening-alemagne.jpg)
+ 
+ ---
 
 ![bg original](images/museomix.png)
 
