@@ -934,7 +934,11 @@ source: Source image: http://www.lemag-numerique-rennais.com/2012/10/carto-party
 --->
 ---
 
-![bg original](images/wiki_loves_monument.jpg)
+![bg original 80%](images/wiki_loves_monument.jpg)
+
+---
+
+![align=top](images/singly-hackathon-infographic.jpg)
 
 ---
 
