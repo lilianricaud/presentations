@@ -952,6 +952,16 @@ source: Source image: http://www.lemag-numerique-rennais.com/2012/10/carto-party
 
 ![bg original](images/100-interventions-en-1-jour-montreal-2.jpg)
 
+
+---
+
+/home/lilian/SparkleShare/presentations/images/tradeschool.png
+
+---
+
+/home/lilian/SparkleShare/presentations/images/repair-cafe-public-domain-1024x577.jpg
+
+
 ---
 
 Quelles sont les caractéristiques récurrentes ?
@@ -1009,6 +1019,10 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 Nuit debout, Occupy, Indignés, Alternatiba, 
 des micro-utopies en réseau
 
+/home/lilian/SparkleShare/presentations/images/nuitdebout-map.png
+
+
+/home/lilian/SparkleShare/presentations/images/Nuit_Debout_-_Paris_-_41_mars_01.jpg
 
 --- 
 
