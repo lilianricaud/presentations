@@ -920,8 +920,21 @@ http://sundaysoup.org/
 Source image: 
 
 --->
+---
 
+![bg original](images/osm-montpellier-standard.jpg)
 
+---
+
+![bg original](images/carto-party-accessibilite.jpg)
+
+<!---
+source: Source image: http://www.lemag-numerique-rennais.com/2012/10/carto-party-handimap-un-rendez-vous-pour-ameliorer-les-donnees-1784
+
+--->
+---
+
+![bg original](images/wiki_loves_monument.jpg)
 
 ---
 
