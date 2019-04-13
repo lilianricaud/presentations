@@ -58,53 +58,6 @@ nouveau PARADIGME DE COOPÉRATION
 
 ## coopération ouverte: de la pyramide à la fourmilière
 
----
-
-![bg 80%](images/logiciels-libres-celebres.jpg)
-
-<!---
-
-24,808,989 sites web soit plus de 30% des sites web tournent sous Wordpress 
-
-https://w3techs.com/technologies/overview/content_management/all
-- https://trends.builtwith.com/cms/WordPress)
-
-95% de serveurs et plus de 50% des smartphones basés sur linux.
-
-Les communautés du libre
-
-Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
-
-C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
-
-http://mark-elliott.net/blog/?page_id=24%20
-
---->
-
----
-
-![bg](images/wikipedia-home.jpg)
-
-<!---
-Savez vous que Wikipédia est la première encyclopédie en taille et en consultation ?
-
-(source: 
-
-statistiques à propos de wikipédia avril 2019
-
-https://en.wikipedia.org/wiki/Wikipedia
-
->318,690 active users and >81,416,982 registered users 1,184 administrators (English)
-
-Available in	303 languages
-Nombre de pages
-English 5,838,385
-Cebuano 5,331,861
-Swedish 3,748,771
-German 2,290,542
-French 2,096,912 
-
---->
 
 --- 
 
@@ -497,6 +450,55 @@ traduction française: http://www.lilianricaud.com/travail-en-reseau/la-stigmerg
 
 --->
 
+---
+
+![bg 80%](images/logiciels-libres-celebres.jpg)
+
+<!---
+
+24,808,989 sites web soit plus de 30% des sites web tournent sous Wordpress 
+
+https://w3techs.com/technologies/overview/content_management/all
+- https://trends.builtwith.com/cms/WordPress)
+
+95% de serveurs et plus de 50% des smartphones basés sur linux.
+
+Les communautés du libre
+
+Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
+
+C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
+
+http://mark-elliott.net/blog/?page_id=24%20
+
+--->
+
+---
+
+![bg](images/wikipedia-home.jpg)
+
+<!---
+Savez vous que Wikipédia est la première encyclopédie en taille et en consultation ?
+
+(source: 
+
+statistiques à propos de wikipédia avril 2019
+
+https://en.wikipedia.org/wiki/Wikipedia
+
+>318,690 active users and >81,416,982 registered users 1,184 administrators (English)
+
+Available in	303 languages
+Nombre de pages
+English 5,838,385
+Cebuano 5,331,861
+Swedish 3,748,771
+German 2,290,542
+French 2,096,912 
+
+--->
+
+
 
 ---
 
@@ -557,6 +559,13 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ## Pause questions
 
+10-15 min
+
+
+--- 
+
+# Des tiers lieux aux tiers usages
+
 
 --- 
 
@@ -569,6 +578,11 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 <!--- source: https://www.makehaven.org/blog/makehaven-becomes-first-fab-lab-connecticut
 
 --->
+
+---
+
+
+---
 
 
 # Quel est notre vocabulaire du faire ensemble ?
