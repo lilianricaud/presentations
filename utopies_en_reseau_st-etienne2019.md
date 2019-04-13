@@ -269,8 +269,6 @@ même si c'est "coopératif", moi l'individu, je ne suis pas libre de mes choix 
 # Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
 
 
-le modèle pyramidal a permis de grandes réalisations et d'autres plus absurdes
-
 ![bg](images/forbidden-symbol.png)
 
 ---
@@ -403,6 +401,81 @@ Read more at http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-so
 
 --->
 
+# en résumé, la stigmergie c'est ...
+
+ 
+--- 
+##  un mécanisme de coordination indirecte
+
+--- 
+## un système auto-organisé
+
+---
+
+## une boucle: action -> trace -> action ...
+
+--- 
+
+## un mode de foncttionement orienté sur l'action et le choix individuel 
+
+---
+
+## un mécanisme qui produit des structures complexes 
+
+sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
+
+---
+
+# D'autres exemples...
+
+
+![bg original](images/stigmergie-swarm-brid-flock.jpg)
+
+
+<!---
+essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un super-organisme
+--->
+
+
+---
+
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
+
+
+---
+
+![bg original](images/stigmergie-traffic-routier.jpg)
+
+<!---
+traffic routier: 
+--->
+
+--- 
+
+![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
+
+<!---
+la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
+--->
+
+<!---
+
+# La ville comme système de stockage et d'accès à l'information
+
+Like-minded businesses cluster together because thee are financial incentives to do so - what academics call economy of agglomeration - enabling craftmen to share techniques and services that they wouldn't necessarily be able to enjoy on their own. That clustering becomes a self perpetuating cycle: potential consumers and employees have an easier time finding the goods and  jobs they're looking for, the shared information makes the clustered businesses more competitive than isolated ones p107
+cities have a latent purposer to function as information storage and retrieval device. Cities were creating user-friendly interfaces thousand of years before anyone even dreamed of digital computers. Cities transmit useful new ideas to the wider population ensuring powerful new techniques don't disappear. Steven Johnson, Emergence, p108.
+--->
+
+
+---
+
+![bg original](images/cairns_minerve.jpg)
+
+<!--- 
+source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
+--->
+
+
 
 ---
 # La stigmergie pour les organisations humaines
@@ -447,7 +520,7 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ---
 
-# Modèle stigmergique
+# Quelques caractéristiques du modèle stigmergique
 
 ---
 
@@ -465,56 +538,24 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ## liberté de créer une alternative
 
---->
+---
+
+## coordination via les traces laissées
+
+
 
 ---
 
-![bg original](images/stigmergie-swarm-brid-flock.jpg)
 
-<!---
-essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un super-organisme
---->
 
----
 
-![bg original](images/stigmergie-traffic-routier.jpg)
 
-<!---
-traffic routier: 
---->
+## Pause questions
+
 
 --- 
 
-![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
-
-<!---
-la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
---->
-
-
-
----
-
-![bg original](images/cairns_minerve.jpg)
-
-<!--- 
-source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
---->
-
-
-
-
----
-
-# La ville comme système de stockage et d'accès à l'information
-
-<!---
-Like-minded businesses cluster together because thee are financial incentives to do so - what academics call economy of agglomeration - enabling craftmen to share techniques and services that they wouldn't necessarily be able to enjoy on their own. That clustering becomes a self perpetuating cycle: potential consumers and employees have an easier time finding the goods and  jobs they're looking for, the shared information makes the clustered businesses more competitive than isolated ones p107
-cities have a latent purposer to function as information storage and retrieval device. Cities were creating user-friendly interfaces thousand of years before anyone even dreamed of digital computers. Cities transmit useful new ideas to the wider population ensuring powerful new techniques don't disappear. Steven Johnson, Emergence, p108.
---->
-
-
-
+![bg original](images/fablab_amsterdam.jpg)
 
 ---
 
