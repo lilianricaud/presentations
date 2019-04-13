@@ -404,11 +404,14 @@ Read more at http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-so
 # en résumé, la stigmergie c'est ...
 
  
+---
+
+## un système auto-organisé
+
+ 
 --- 
 ##  un mécanisme de coordination indirecte
 
---- 
-## un système auto-organisé
 
 ---
 
@@ -416,18 +419,18 @@ Read more at http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-so
 
 --- 
 
-## un mode de foncttionement orienté sur l'action et le choix individuel 
+## un mode de fonctionement orienté sur l'action et le choix individuel 
 
 ---
 
 ## un mécanisme qui produit des structures complexes 
 
-sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
+*sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.*
 
 ---
-
+<!---
 # D'autres exemples...
-
+--->
 
 ![bg original](images/stigmergie-swarm-brid-flock.jpg)
 
@@ -439,16 +442,25 @@ essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un supe
 
 ---
 
-![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
-
-
----
-
 ![bg original](images/stigmergie-traffic-routier.jpg)
 
 <!---
 traffic routier: 
 --->
+
+---
+
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
+
+
+---
+
+![bg original](images/cairns_minerve.jpg)
+
+<!--- 
+source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
+--->
+
 
 --- 
 
@@ -467,13 +479,6 @@ cities have a latent purposer to function as information storage and retrieval d
 --->
 
 
----
-
-![bg original](images/cairns_minerve.jpg)
-
-<!--- 
-source image: cc-by-nc-nd filip42 https://www.flickr.com/photos/filip42/6059352447/sizes/l/in/photostream/
---->
 
 
 
