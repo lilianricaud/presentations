@@ -164,14 +164,19 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 
 --->
 
+--- 
+# Les modèles pyramidaux et coopératifs ont permis de grandes réussites...
+
+<!--- exemples de réussites et de création absurdes: grace à ce modèles nous avons inventés des voitures qui nous permettent d'aller vite et loin et aussi de passer des heures dans les bouchons...
+
+--->
+
 
 ---
 
-# Les systèmes pyramidaux et coopératifs sont fermés a priori
+# mais ont des inconvénients forts
 
 <!---
-
-le modèle pyramidal a permis de grandes réalisations et d'autres plus absurdes
 
 levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle situation
 
@@ -262,6 +267,9 @@ même si c'est "coopératif", moi l'individu, je ne suis pas libre de mes choix 
 ---
 
 # Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
+
+
+le modèle pyramidal a permis de grandes réalisations et d'autres plus absurdes
 
 ![bg](images/forbidden-symbol.png)
 
