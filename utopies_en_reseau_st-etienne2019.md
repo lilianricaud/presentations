@@ -849,7 +849,7 @@ Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoy
   
 ---
   
-![bg original](incroyables-comestibles-strasbourg.jpg)
+![bg original](images/incroyables-comestibles-strasbourg.jpg)
  
  ---
 
