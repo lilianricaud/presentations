@@ -581,9 +581,30 @@ une idée initiale est donnée librement, et le projet est conduit par l’idée
 
 ---
 
+![bg original](images/coroutine_lille.jpg)
+
+<!---
+
+source
+
+https://coworker.imgix.net/photos/france/lille/la-coroutine/4.jpg
+
+--->
+
 
 ---
 
+![bg original](images/tiers-lieu_imaginations_fertiles.jpg)
+
+<!---
+Source: cc-by-sa Manu Pintor
+--->
+
+---
+
+# les tiers lieux comme innovation sociale
+
+---
 
 # Quel est notre vocabulaire du faire ensemble ?
 
