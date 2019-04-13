@@ -947,6 +947,10 @@ source: Source image: http://www.lemag-numerique-rennais.com/2012/10/carto-party
 
 ---
 
+![bg original](images/100-interventions-en-1-jour-montreal-2.jpg)
+
+---
+
 Quelles sont les caractéristiques récurrentes ?
 
 - PARTICIPATIF : plus participatifs et dynamiques que les rencontres professionnelles traditionnelles
