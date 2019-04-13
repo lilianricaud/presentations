@@ -997,6 +997,15 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 
 --->
 
+---
+
+![bg original](images/alternatiba_caen_2015.jpg)
+
+--- 
+
+
+![bg original](images/alternatiba_map.png)
+
 Nuit debout, Occupy, Indignés, Alternatiba, 
 des micro-utopies en réseau
 
@@ -1007,7 +1016,9 @@ des micro-utopies en réseau
 
  ---
 
-Augmenter notre langage du faire ensemble
+# Augmenter notre langage du faire ensemble
+
+comment construire ensemble des lieux, des objets, une gouvernance ?
 
 ---
 
@@ -1027,14 +1038,7 @@ Augmenter notre langage du faire ensemble
 
 ![bg original](images/cercle_samoan_80_personnes.jpg)
 
----
 
-![bg original](images/alternatiba_caen_2015.jpg)
-
---- 
-
-
-![bg original](images/alternatiba_map.png)
 
 ---
 
