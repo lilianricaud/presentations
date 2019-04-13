@@ -806,6 +806,30 @@ Source image: http://blog.twoonix.com/2011/12/beim-nationalen-it-tag-darf-twooni
 
 --->
 
+
+---
+
+# Des evenements pour prototyper une nouvelle ville
+
+
+ 
+
+ ---
+
+![bg original](images/park-ing-day.jpg)
+
+<!---
+
+Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoyens ne pourraient pas eux aussi occuper l’espace public ? Park(ing) day est une journée de mobilisation festive pour s’approprier l’espace public et faire réfléchir à nos modes de vie, la place des citoyens, des voitures, en créant des parcs temporaires sur des places de parking (et en payant le parcmètre !)
+
+ Source image: ?
+ 
+ --->
+ 
+ ---
+ 
+ ![bg original](images/miami-park2-Street-Plans-Collaborative.jpg)
+ 
  ---
 
 ![bg original](images/museomix.png)
@@ -830,18 +854,6 @@ Une gratiferia est une sorte de brocante, mais entièrement basée sur le don. C
 Image source: http://laorquesta.mx/slp-organiza-su-primera-gratiferia/
 
 --->
-
- ---
-
-![bg original](images/park-ing-day.jpg)
-
-<!---
-
-Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoyens ne pourraient pas eux aussi occuper l’espace public ? Park(ing) day est une journée de mobilisation festive pour s’approprier l’espace public et faire réfléchir à nos modes de vie, la place des citoyens, des voitures, en créant des parcs temporaires sur des places de parking (et en payant le parcmètre !)
-
- Source image: ?
- 
- --->
 
  ---
 
