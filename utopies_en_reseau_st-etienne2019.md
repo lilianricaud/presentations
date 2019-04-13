@@ -507,11 +507,27 @@ cities have a latent purposer to function as information storage and retrieval d
 
 <!--- source: https://www.makehaven.org/blog/makehaven-becomes-first-fab-lab-connecticut
 
+--->
+
+---
+
+![bg original](images/cercle_80_personnes.jpg)
+
+
 ---
 
 ![bg original](images/ateliers_sous_groupes_80_personnes.jpg)
+---
+
+![bg original](images/cercle_80_personnes.jpg)
+
 
 ---
+
+![bg original](cercle_samoan_80_personnes.jpg)
+
+---
+
 
 /home/lilian/Bureau/projets_metacartes/com/selection/ateliers_sous_groupes_80_personnes.jpg
 /home/lilian/Bureau/projets_metacartes/com/selection/cercle_80_personnes.jpg
