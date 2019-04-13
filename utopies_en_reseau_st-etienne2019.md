@@ -839,8 +839,11 @@ Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoy
  
  ![bg original](images/map-parking-day-2011.png)
  
- <!--- la liste des évenements parking days en 2011
- 
+ <!--- 
+
+Ici le park(ing) day qui a connu un grand succès et synchronise sur une journée des participants de très nombreux endroits autour d’une idée commune. (presque 1000 parcs temporaires en 2011!)
+
+--->
  --->
  
  ---
@@ -995,15 +998,6 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 --->
 
 
- ---
-
-![bg original](images/map-parking-day-large.png)
-
-<!---
-
-Ici le park(ing) day qui a connu un grand succès et synchronise sur une journée des participants de très nombreux endroits autour d’une idée commune. (presque 1000 parcs temporaires en 2011!)
-
---->
 
  ---
 
