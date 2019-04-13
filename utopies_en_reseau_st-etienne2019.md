@@ -939,6 +939,8 @@ source: Source image: http://www.lemag-numerique-rennais.com/2012/10/carto-party
 
 ![bg original 80%](images/wiki_loves_monument.jpg)
 
+/home/lilian/SparkleShare/presentations/images/wikilovesmonument_participating_countries_2018.png
+
 ---
 
 ![60% center top](images/singly-hackathon-infographic.jpg)
