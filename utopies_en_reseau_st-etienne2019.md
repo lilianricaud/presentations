@@ -517,6 +517,7 @@ cities have a latent purposer to function as information storage and retrieval d
 ---
 
 ![bg original](images/ateliers_sous_groupes_80_personnes.jpg)
+
 ---
 
 ![bg original](images/cercle_80_personnes.jpg)
@@ -524,14 +525,36 @@ cities have a latent purposer to function as information storage and retrieval d
 
 ---
 
-![bg original](cercle_samoan_80_personnes.jpg)
+![bg original](images/cercle_samoan_80_personnes.jpg)
+
+---
+
+![bg original](images/alternatiba_caen_2015.jpg)
+
+--- 
+
+
+![bg original](images/alternatiba_map.png)
+
+---
+
+![bg original](images/cartoparty-accessibilite.jpg)
+
 
 ---
 
 
-/home/lilian/Bureau/projets_metacartes/com/selection/ateliers_sous_groupes_80_personnes.jpg
-/home/lilian/Bureau/projets_metacartes/com/selection/cercle_80_personnes.jpg
-/home/lilian/Bureau/projets_metacartes/com/selection/cercle_samoan_80_personnes.jpg
+
+---
+
+
+---
+
+
+---
+
+![bg original](![](/home/lilian/SparkleShare/presentations/images/hackathon.jpg)
+images/disco-soupe-2.jpg)
 
 
 ---
