@@ -165,14 +165,13 @@ cela n'est plus vraiment un jeu et les individus ont tendance à être traités 
 --->
 
 
-
 ---
 
 # Les systèmes pyramidaux et coopératifs sont fermés a priori
 
 <!---
 
-le modèle pyramidal a permis de grandes réalisations: donner un exemple tres serieux et un exemple bien absurde du style urine de coyotte.
+le modèle pyramidal a permis de grandes réalisations et d'autres plus absurdes
 
 levez la main si ça vous rappelle quelque chose/si vous avez vécu une telle situation
 
