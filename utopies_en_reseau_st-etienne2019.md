@@ -938,7 +938,12 @@ source: Source image: http://www.lemag-numerique-rennais.com/2012/10/carto-party
 
 ---
 
-![align=top](images/singly-hackathon-infographic.jpg)
+![60% center top](images/singly-hackathon-infographic.jpg)
+
+
+---
+
+![bg original](images/100-interventions-en-1-jour-montreal.jpg)
 
 ---
 
