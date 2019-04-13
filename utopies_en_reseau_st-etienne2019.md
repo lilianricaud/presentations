@@ -839,6 +839,10 @@ Si les voitures qui payent peuvent occuper l’espace public, pourquoi les citoy
  
  ![bg original](images/map-parking-day-2011.png)
  
+ <!--- la liste des évenements parking days en 2011
+ 
+ --->
+ 
  ---
 
 ![bg original](images/museomix.png)
