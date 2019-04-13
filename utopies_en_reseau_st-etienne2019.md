@@ -997,10 +997,17 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 
 --->
 
+Nuit debout, Occupy, Indignés, Alternatiba, 
+des micro-utopies en réseau
 
+
+--- 
+
+## pause
 
  ---
 
+Augmenter notre langage du faire ensemble
 
 ---
 
@@ -1031,8 +1038,6 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 
 ---
 
-![bg original](images/cartoparty-accessibilite.jpg)
-
 
 ---
 
@@ -1042,53 +1047,3 @@ Les formats à succès donnent naissance a des communautés de pratiques globale
 
 
 ---
-
-
----
-
-![bg original](![](/home/lilian/SparkleShare/presentations/images/hackathon.jpg)
-images/disco-soupe-2.jpg)
-
-
----
-
-![bg original](vonhippel-innovation.jpg)
-
-<!---
-
-source: http://sloanreview.mit.edu/the-magazine/2011-fall/53105/the-age-of-the-consumer-innovator/#side4
-
-via internet actu 
-
-http://www.internetactu.net/2012/06/28/von-hippel-le-paradigme-de-linnovation-par-lutilisateur/
-
---->
-
----
-
-![bg original 80%](images/paradigminnovation.png)
-
-
-<!---
-via internet actu 
-
-http://www.internetactu.net/2012/06/28/von-hippel-le-paradigme-de-linnovation-par-lutilisateur/
-
---->
-
----
-
-![bg original 80%](images/seats2meet-business-model.png)
-
-
-
-
----
-
-![bg original 80%](images/seats2meet-dahsboard.png)
-
-
-
----
-
-![bg original 80%](images/seats2meet-creativity-konwledge.png)
